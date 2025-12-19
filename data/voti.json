@@ -1,0 +1,2403 @@
+[
+  {
+    "id": "D22ABDAC-B338-4E25-8B1D-794AFC1D06DE",
+    "subject": "Italiano",
+    "date": "2020-10-02",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "CAA96556-7D52-43D3-B256-97A60B504A83",
+    "subject": "Inglese",
+    "date": "2020-10-14",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "8B06F96F-766D-46E6-9278-D4B6738C828D",
+    "subject": "Scienze",
+    "date": "2020-10-19",
+    "grade": 4.85,
+    "type": "orale"
+  },
+  {
+    "id": "3AA6A290-35F6-49A3-BC5D-4BDB03263218",
+    "subject": "Tedesco",
+    "date": "2020-10-23",
+    "grade": 8.5,
+    "type": "scritto"
+  },
+  {
+    "id": "B13CE162-B063-44F3-BE10-E022739658D8",
+    "subject": "Informatica",
+    "date": "2020-11-03",
+    "grade": 5.15,
+    "type": "orale"
+  },
+  {
+    "id": "8611AEDF-B673-4357-9FD1-9E4C895372E4",
+    "subject": "Tedesco",
+    "date": "2020-11-10",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "5C41B20B-AA25-4370-B8A2-C585063F778E",
+    "subject": "Matematica",
+    "date": "2020-11-11",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "78C2DE03-D745-4400-B809-A61BC9174F6D",
+    "subject": "Geografia",
+    "date": "2020-11-13",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "FF4002B9-32E6-4911-82E5-290D66DE978C",
+    "subject": "Italiano",
+    "date": "2020-11-16",
+    "grade": 7.15,
+    "type": "orale"
+  },
+  {
+    "id": "A41CEF20-B76B-4049-866B-2580D5CBFAFB",
+    "subject": "Storia",
+    "date": "2020-11-30",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "D13E537B-117B-4B65-ABC1-D134257B034B",
+    "subject": "Economia aziendale",
+    "date": "2020-11-30",
+    "grade": 4.5,
+    "type": "orale"
+  },
+  {
+    "id": "199FF86A-CA19-4E48-9FC2-617E46AFB73F",
+    "subject": "Informatica",
+    "date": "2020-12-01",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "BAC44695-1135-4209-8C06-103402B9F0B2",
+    "subject": "Inglese",
+    "date": "2020-12-03",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "18502E2E-9548-4370-932A-8CC2E290F253",
+    "subject": "Geografia",
+    "date": "2020-12-04",
+    "grade": 6.15,
+    "type": "orale"
+  },
+  {
+    "id": "ED441F24-53B3-4397-AE5D-E6B19AC8E95F",
+    "subject": "Educazione fisica",
+    "date": "2020-12-09",
+    "grade": 4.5,
+    "type": "orale"
+  },
+  {
+    "id": "8D51DC29-6262-478D-9C2C-3543B5C5F755",
+    "subject": "Inglese",
+    "date": "2020-12-10",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "B8C0D17E-C66C-49B9-9A2A-47133D1B48CC",
+    "subject": "Scienze",
+    "date": "2020-12-11",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "33122AC1-299C-4569-9BCF-1EC0EF312273",
+    "subject": "Matematica",
+    "date": "2020-12-15",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "3CD30016-43C5-467E-AC2F-3B3823BDC7BD",
+    "subject": "Educazione fisica",
+    "date": "2020-12-16",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "B8545F01-D165-4D3A-B082-BC8644AD57F0",
+    "subject": "Diritto",
+    "date": "2020-12-16",
+    "grade": 6.85,
+    "type": "orale"
+  },
+  {
+    "id": "7625BC77-9585-4998-AE75-5106229C9AAD",
+    "subject": "Fisica",
+    "date": "2020-12-17",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "C07E7D54-B8F7-42A0-B3C0-45AD7FE7D044",
+    "subject": "Informatica",
+    "date": "2020-12-22",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "C9BD1356-ABC5-4FF4-924B-D9F048A91162",
+    "subject": "Italiano",
+    "date": "2021-01-07",
+    "grade": 7.15,
+    "type": "scritto"
+  },
+  {
+    "id": "45F161D5-5AD6-4B2A-B398-A531E502ECDA",
+    "subject": "Inglese",
+    "date": "2021-01-08",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "0EB89E4A-9E5E-4321-A538-096E3B064115",
+    "subject": "Geografia",
+    "date": "2021-01-15",
+    "grade": 4.0,
+    "type": "orale"
+  },
+  {
+    "id": "9F4EB7B0-D092-444F-B45D-C10970C1E77B",
+    "subject": "Storia",
+    "date": "2021-01-18",
+    "grade": 6.15,
+    "type": "orale"
+  },
+  {
+    "id": "ECBD4835-2AAB-4D59-896B-FACD12ECEA18",
+    "subject": "Matematica",
+    "date": "2021-01-18",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "222DFB57-B3B0-4837-A54E-DE410EA7B56E",
+    "subject": "Economia aziendale",
+    "date": "2021-01-18",
+    "grade": 4.85,
+    "type": "scritto"
+  },
+  {
+    "id": "1419EE54-4F42-41DB-8922-8E27BA09742F",
+    "subject": "Educazione fisica",
+    "date": "2021-01-20",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "2E0A21F4-20D4-4072-BB24-3F7917C17DC2",
+    "subject": "Storia",
+    "date": "2021-01-21",
+    "grade": 4.5,
+    "type": "orale"
+  },
+  {
+    "id": "95F22351-8A29-481F-9D89-D5EAF26EFC01",
+    "subject": "Italiano",
+    "date": "2021-01-27",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "B7311A62-CFA6-4849-B00A-EF9D063A3A48",
+    "subject": "Inglese",
+    "date": "2021-01-28",
+    "grade": 10.0,
+    "type": "orale"
+  },
+  {
+    "id": "0D60AA44-F087-401D-B2CA-BD7E99A48934",
+    "subject": "Fisica",
+    "date": "2021-01-28",
+    "grade": 7.15,
+    "type": "scritto"
+  },
+  {
+    "id": "31BEC54C-7A1F-431F-B6C3-7600139FA8C4",
+    "subject": "Scienze",
+    "date": "2021-01-29",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "EAF0125A-963F-4346-AB22-E0B00E38B779",
+    "subject": "Educazione civica",
+    "date": "2021-01-29",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "B193230E-5CA9-45DD-83E8-2053D0AC8446",
+    "subject": "Tedesco",
+    "date": "2021-02-09",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "FE631C2E-62A8-4250-AA13-C176FD79EB43",
+    "subject": "Italiano",
+    "date": "2021-02-18",
+    "grade": 4.0,
+    "type": "scritto"
+  },
+  {
+    "id": "CEBBF938-AA60-495F-9D35-6BFE9A0090B5",
+    "subject": "Inglese",
+    "date": "2021-02-18",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "D92211B5-EB8C-4F7A-8B6E-6F622A7FC6C4",
+    "subject": "Inglese",
+    "date": "2021-02-19",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "B478D883-889C-445F-A15F-2B7619A0F3E0",
+    "subject": "Matematica",
+    "date": "2021-03-01",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "D247C1BD-549D-4D61-B100-2FE19480223C",
+    "subject": "Storia",
+    "date": "2021-03-04",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "5599C966-69DC-4545-9927-FE0EFB8D051D",
+    "subject": "Geografia",
+    "date": "2021-03-05",
+    "grade": 10.0,
+    "type": "orale"
+  },
+  {
+    "id": "F6B3CE98-20D2-4C05-B1F0-1EE2AFE7E4E6",
+    "subject": "Scienze",
+    "date": "2021-03-09",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "A70A6A9A-F20E-400C-8C79-36E79494C9EC",
+    "subject": "Scienze",
+    "date": "2021-03-12",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "C32FB061-E388-436F-8667-DAAD9A0FD50C",
+    "subject": "Italiano",
+    "date": "2021-03-18",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "84979403-EE2A-4E3D-B43A-3A671D989C4A",
+    "subject": "Scienze",
+    "date": "2021-03-19",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "B0F79866-DFB5-47BB-96B9-9F48E6F32253",
+    "subject": "Geografia",
+    "date": "2021-03-19",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "B4653737-8738-446B-8332-935A10D993A8",
+    "subject": "Informatica",
+    "date": "2021-03-23",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "A3E95A52-FEE7-481A-9D27-9E40C5659DD6",
+    "subject": "Italiano",
+    "date": "2021-03-25",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "1AE4B3D5-A0A1-4861-8424-98FFDBB47CF6",
+    "subject": "Tedesco",
+    "date": "2021-03-26",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "7964B84E-12EC-46FF-8FFB-CBCD3ED592B0",
+    "subject": "Economia aziendale",
+    "date": "2021-03-29",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "B83C39B8-E019-4662-85DC-7730E0D87CB6",
+    "subject": "Matematica",
+    "date": "2021-03-30",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "4A4BDF57-BF3A-4B09-913D-1A7BF4362672",
+    "subject": "Scienze",
+    "date": "2021-04-09",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "4725A3B0-A4D9-48D2-BAE0-B70BCB4B4634",
+    "subject": "Educazione fisica",
+    "date": "2021-04-14",
+    "grade": 4.5,
+    "type": "scritto"
+  },
+  {
+    "id": "0FE77946-C8DE-451E-B59B-A2B3C9AC4794",
+    "subject": "Diritto",
+    "date": "2021-04-14",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "C09F5E56-1D58-4EFD-B1FD-A8DA53F052F0",
+    "subject": "Fisica",
+    "date": "2021-04-22",
+    "grade": 8.85,
+    "type": "scritto"
+  },
+  {
+    "id": "30929C97-66A7-4A09-A828-1C58747F810E",
+    "subject": "Storia",
+    "date": "2021-04-26",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "FD4A9EEA-8433-415D-A4CB-1BB242DDF9B6",
+    "subject": "Tedesco",
+    "date": "2021-04-30",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "DA993332-FEDA-4489-8DF4-029DA289F67D",
+    "subject": "Geografia",
+    "date": "2021-04-30",
+    "grade": 8.85,
+    "type": "orale"
+  },
+  {
+    "id": "2D8BAF97-A207-4FD2-A924-613397947481",
+    "subject": "Scienze",
+    "date": "2021-05-04",
+    "grade": 8.5,
+    "type": "orale"
+  },
+  {
+    "id": "4E6E087C-BEB8-4F6E-AEF3-07D48DEF108E",
+    "subject": "Informatica",
+    "date": "2021-05-04",
+    "grade": 9.15,
+    "type": "pratico"
+  },
+  {
+    "id": "61F570FD-FCC2-455F-9951-800505B5C6EE",
+    "subject": "Inglese",
+    "date": "2021-05-06",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "D83774C0-673D-49A0-8623-5BA30E4179B8",
+    "subject": "Educazione civica",
+    "date": "2021-05-07",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "CAAAE0C4-54FA-491E-9086-4A85754CA3F5",
+    "subject": "Storia",
+    "date": "2021-05-13",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "5F14173F-E100-4BA3-B567-780F9DCAC3D0",
+    "subject": "Matematica",
+    "date": "2021-05-17",
+    "grade": 5.15,
+    "type": "scritto"
+  },
+  {
+    "id": "E968BD95-5DE8-40BC-9751-32F5D5B43BB0",
+    "subject": "Economia aziendale",
+    "date": "2021-05-17",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "0D2D4882-D489-42C4-9F4D-3EF54F23EA02",
+    "subject": "Diritto",
+    "date": "2021-05-17",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "E65EBE61-682A-4BD8-9AF9-3E2A8892ECD3",
+    "subject": "Matematica",
+    "date": "2021-05-18",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "9DF15169-56AB-470E-8711-3FE093F6C32D",
+    "subject": "Geografia",
+    "date": "2021-05-18",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "0721394C-9DE6-4B7E-8137-171AF0D3C13F",
+    "subject": "Educazione civica",
+    "date": "2021-05-18",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "95CB7705-675A-4B5B-BAD4-A7CAEEFEB81D",
+    "subject": "Italiano",
+    "date": "2021-05-19",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "F7825265-2400-4232-B283-C0D8ECE10F21",
+    "subject": "Educazione fisica",
+    "date": "2021-05-19",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "E9619EDA-A427-44CD-B5F8-24A2CD372ED8",
+    "subject": "Scienze",
+    "date": "2021-05-21",
+    "grade": 9.0,
+    "type": "pratico"
+  },
+  {
+    "id": "F5B95C76-F0AD-4EF2-8ED0-F6E5776ECA80",
+    "subject": "Educazione fisica",
+    "date": "2021-05-26",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "9E03B025-03B8-409D-AC88-248A7101E0ED",
+    "subject": "Fisica",
+    "date": "2021-05-27",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "897BCDD7-B8AB-4C60-8ADF-19CF8EA4D728",
+    "subject": "Educazione civica",
+    "date": "2021-05-28",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "9EE4160E-2559-4F83-91F1-88BA76ED0F71",
+    "subject": "Economia aziendale",
+    "date": "2021-05-31",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "5E22ACB6-6DC1-4FE0-BB50-40F8B7DC0D21",
+    "subject": "Diritto",
+    "date": "2021-10-07",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "BE682C78-93EE-4619-AB99-0BFD8AA5CCAA",
+    "subject": "Tedesco",
+    "date": "2021-10-18",
+    "grade": 3.5,
+    "type": "scritto"
+  },
+  {
+    "id": "07967411-E5C5-427F-8D9F-3121AC235292",
+    "subject": "Matematica",
+    "date": "2021-10-20",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "772AA4E4-D0F5-4D1C-ADA0-6A8AD83A5891",
+    "subject": "Chimica",
+    "date": "2021-10-21",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "71152E53-FAD0-498A-9D43-F892EBC26D61",
+    "subject": "Geografia",
+    "date": "2021-10-25",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "FFA135BB-CB4D-49DF-B1FA-8467F920E3D1",
+    "subject": "Educazione civica",
+    "date": "2021-10-25",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "DD10CA0B-5614-4C8D-8B85-EF6B0E243BD3",
+    "subject": "Chimica",
+    "date": "2021-10-25",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "614DEBB4-3415-4673-A9D3-EB459E2A49DA",
+    "subject": "Italiano",
+    "date": "2021-10-28",
+    "grade": 4.0,
+    "type": "scritto"
+  },
+  {
+    "id": "FD8AF454-6E0D-4551-8114-06129626E96F",
+    "subject": "Storia",
+    "date": "2021-10-29",
+    "grade": 5.85,
+    "type": "scritto"
+  },
+  {
+    "id": "8DEBEA66-10FD-483A-88F2-0569EF206FDE",
+    "subject": "Economia aziendale",
+    "date": "2021-11-04",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "8D765170-7A00-4967-AAA7-A085F2958020",
+    "subject": "Biologia",
+    "date": "2021-11-04",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "1FDA7FEF-639E-4C5A-97D2-F5C7B58FAA92",
+    "subject": "Informatica",
+    "date": "2021-11-10",
+    "grade": 9.15,
+    "type": "scritto"
+  },
+  {
+    "id": "9C95BCC7-220F-4CEB-A2FB-D585677BBF9E",
+    "subject": "Biologia",
+    "date": "2021-11-10",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "5F05D0A0-F305-4587-ADE7-CEB3358ADE3F",
+    "subject": "Matematica",
+    "date": "2021-11-17",
+    "grade": 6.85,
+    "type": "orale"
+  },
+  {
+    "id": "2B3C8FBB-BA5D-4F1E-B266-2B32CD8592A5",
+    "subject": "Tedesco",
+    "date": "2021-11-18",
+    "grade": 3.0,
+    "type": "orale"
+  },
+  {
+    "id": "D37B914F-96E7-47DB-9B3E-51FA36893032",
+    "subject": "Italiano",
+    "date": "2021-11-19",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "3BC1B604-CF12-4C5C-BD94-A94CC75F11F0",
+    "subject": "Tedesco",
+    "date": "2021-11-22",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "4FB2980C-A219-4ABA-A26F-080E3AC5FAA3",
+    "subject": "Inglese",
+    "date": "2021-11-22",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "23F0B5DD-76AB-458C-9C8F-A2A2EBC36835",
+    "subject": "Geografia",
+    "date": "2021-11-30",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "2AFA7626-E5E5-4EA0-83B1-377BF7A01BE7",
+    "subject": "Matematica",
+    "date": "2021-12-09",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "96DE5975-C161-44B3-B38F-329588CD3217",
+    "subject": "Inglese",
+    "date": "2021-12-14",
+    "grade": 8.5,
+    "type": "scritto"
+  },
+  {
+    "id": "ECCC2326-71C2-4FA7-8AA8-EA8D85963435",
+    "subject": "Informatica",
+    "date": "2021-12-15",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "E8FDE187-9979-43D2-8193-F81E0C676434",
+    "subject": "Educazione fisica",
+    "date": "2021-12-17",
+    "grade": 6.0,
+    "type": "pratico"
+  },
+  {
+    "id": "7B5D0FE5-8725-4727-8FF3-AF811DE4AB81",
+    "subject": "Diritto",
+    "date": "2021-12-17",
+    "grade": 9.5,
+    "type": "orale"
+  },
+  {
+    "id": "4318B171-3677-41CD-8904-8CF84D670D25",
+    "subject": "Educazione civica",
+    "date": "2021-12-20",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "5E683688-B2C4-46EF-B8BF-204ED522A252",
+    "subject": "Italiano",
+    "date": "2021-12-21",
+    "grade": 5.85,
+    "type": "scritto"
+  },
+  {
+    "id": "D9494F7E-BC84-490D-A07B-9E99A1ACCC65",
+    "subject": "Economia aziendale",
+    "date": "2021-12-22",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "264D635D-0C46-4EC4-B605-9A8BDF128CA4",
+    "subject": "Chimica",
+    "date": "2021-12-22",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "8BEE7695-42EC-4933-9892-9F9B8E330541",
+    "subject": "Biologia",
+    "date": "2022-01-12",
+    "grade": 4.5,
+    "type": "scritto"
+  },
+  {
+    "id": "EE363290-EB20-4041-850D-FC91FC83C318",
+    "subject": "Storia",
+    "date": "2022-01-13",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "7F5F8712-72DC-45E3-BA50-BF156E1D8962",
+    "subject": "Chimica",
+    "date": "2022-01-17",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "DD368F87-9FDE-41FF-B03D-3480DE405BC4",
+    "subject": "Italiano",
+    "date": "2022-01-18",
+    "grade": 4.0,
+    "type": "scritto"
+  },
+  {
+    "id": "1DA2C651-324F-48FB-8E68-219588AE6047",
+    "subject": "Informatica",
+    "date": "2022-01-19",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "2761F240-A542-4C69-ABD2-974B6EDFBC8E",
+    "subject": "Italiano",
+    "date": "2022-01-21",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "127826CB-E908-4D29-AD0D-C17AFDEC465F",
+    "subject": "Tedesco",
+    "date": "2022-01-24",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "57493350-F44A-4D98-8D34-54F38F1CB20E",
+    "subject": "Matematica",
+    "date": "2022-01-26",
+    "grade": 6.85,
+    "type": "scritto"
+  },
+  {
+    "id": "1823B8D8-4330-497B-A722-5B6FAD0E662F",
+    "subject": "Educazione civica",
+    "date": "2022-01-28",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "F8B7348A-D96F-4758-ADA3-100907CC7A9C",
+    "subject": "Inglese",
+    "date": "2022-01-31",
+    "grade": 10.0,
+    "type": "scritto"
+  },
+  {
+    "id": "E85FABFE-626F-4E02-9F35-8B0FA494CCA4",
+    "subject": "Geografia",
+    "date": "2022-02-01",
+    "grade": 6.15,
+    "type": "orale"
+  },
+  {
+    "id": "E53D3131-D1AE-4C19-8179-362F1638BB35",
+    "subject": "Inglese",
+    "date": "2022-02-08",
+    "grade": 8.5,
+    "type": "scritto"
+  },
+  {
+    "id": "E9FF5C5F-614A-4133-AAA6-D85857A0112A",
+    "subject": "Geografia",
+    "date": "2022-02-15",
+    "grade": 6.85,
+    "type": "orale"
+  },
+  {
+    "id": "2BEED9CA-4667-4979-97A5-EFCDBBB77C7F",
+    "subject": "Tedesco",
+    "date": "2022-02-24",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "CDCDC54B-524D-44DA-8213-3E64A7DD281C",
+    "subject": "Italiano",
+    "date": "2022-02-25",
+    "grade": 6.85,
+    "type": "scritto"
+  },
+  {
+    "id": "AF12ADDD-2669-40EF-9AD0-613EC0687145",
+    "subject": "Storia",
+    "date": "2022-03-04",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "E59030A1-6DE9-42CC-84E2-11281DC327F8",
+    "subject": "Informatica",
+    "date": "2022-03-09",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "5AB009C7-ED68-41A6-B44D-D60A8B9D476F",
+    "subject": "Tedesco",
+    "date": "2022-03-14",
+    "grade": 4.5,
+    "type": "scritto"
+  },
+  {
+    "id": "4DD17C97-1439-4FC7-94A4-19901AD352CB",
+    "subject": "Inglese",
+    "date": "2022-03-15",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "A0319A82-1686-4394-8B02-D5A3B915F7DB",
+    "subject": "Matematica",
+    "date": "2022-03-16",
+    "grade": 5.85,
+    "type": "scritto"
+  },
+  {
+    "id": "46A6AEBE-77B3-4B8E-8174-3E12F57AD137",
+    "subject": "Economia aziendale",
+    "date": "2022-03-17",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "2E5C9700-D1C5-4C37-90CE-1C1EBE033954",
+    "subject": "Italiano",
+    "date": "2022-03-22",
+    "grade": 4.85,
+    "type": "scritto"
+  },
+  {
+    "id": "DB780849-9C62-44F6-9CC6-39B8FC8781F3",
+    "subject": "Biologia",
+    "date": "2022-03-23",
+    "grade": 10.0,
+    "type": "scritto"
+  },
+  {
+    "id": "60D39040-CD35-4ED5-AFDC-CB9C4E475937",
+    "subject": "Diritto",
+    "date": "2022-03-25",
+    "grade": 9.85,
+    "type": "orale"
+  },
+  {
+    "id": "866B8609-7471-4C3E-901D-2E57CB136676",
+    "subject": "Inglese",
+    "date": "2022-03-28",
+    "grade": 10.0,
+    "type": "scritto"
+  },
+  {
+    "id": "3F70385B-39D1-4C2B-A8A5-B47F208D474A",
+    "subject": "Chimica",
+    "date": "2022-03-28",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "B933D6E9-4321-41A4-9612-C601BC01F8D8",
+    "subject": "Biologia",
+    "date": "2022-03-31",
+    "grade": 10.0,
+    "type": "scritto"
+  },
+  {
+    "id": "157541FD-D1CD-4FCB-81B3-F418226EAB4D",
+    "subject": "Matematica",
+    "date": "2022-04-07",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "FC2BFBCB-896B-4544-A7AB-563A9BCE176D",
+    "subject": "Educazione fisica",
+    "date": "2022-04-08",
+    "grade": 6.0,
+    "type": "pratico"
+  },
+  {
+    "id": "66FCAC32-4EEF-4E99-9E0A-AE8350A14DD6",
+    "subject": "Biologia",
+    "date": "2022-04-13",
+    "grade": 8.15,
+    "type": "orale"
+  },
+  {
+    "id": "9603F0AD-A7C3-443A-B67E-ED0154B1CB2D",
+    "subject": "Italiano",
+    "date": "2022-04-22",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "25F2365E-436D-4DBA-ABE6-D9FAD1CAC885",
+    "subject": "Educazione fisica",
+    "date": "2022-04-22",
+    "grade": 6.0,
+    "type": "pratico"
+  },
+  {
+    "id": "60CDD838-8776-4815-B86E-5FDFD9634F51",
+    "subject": "Geografia",
+    "date": "2022-04-26",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "E189F836-BBDE-4910-926F-94E0D3297FDA",
+    "subject": "Informatica",
+    "date": "2022-04-27",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "DDD1F6B2-7287-465A-A654-08788351572A",
+    "subject": "Storia",
+    "date": "2022-04-28",
+    "grade": 6.15,
+    "type": "orale"
+  },
+  {
+    "id": "8FF9A515-AB9E-4C57-89AF-1B4209BEE048",
+    "subject": "Educazione civica",
+    "date": "2022-05-05",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "5DF22328-F022-46CB-933A-9649D4E9523C",
+    "subject": "Educazione civica",
+    "date": "2022-05-06",
+    "grade": 10.0,
+    "type": "orale"
+  },
+  {
+    "id": "AF823413-E774-4F89-B8A2-70FCC3215EBB",
+    "subject": "Chimica",
+    "date": "2022-05-09",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "C69CDFE8-A183-4B6C-A8D3-0C02C11A7108",
+    "subject": "Biologia",
+    "date": "2022-05-12",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "3B0E4C06-791E-4896-82BB-2B1D51D266D1",
+    "subject": "Educazione fisica",
+    "date": "2022-05-13",
+    "grade": 7.5,
+    "type": "pratico"
+  },
+  {
+    "id": "89465367-92D7-4AD5-AC4E-ACDCB525228D",
+    "subject": "Tedesco",
+    "date": "2022-05-16",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "BE2B7BC3-BF3E-4EF6-8CF1-F8A34355BD67",
+    "subject": "Tedesco",
+    "date": "2022-05-16",
+    "grade": 4.5,
+    "type": "scritto"
+  },
+  {
+    "id": "FE5D793A-C256-4322-B702-1D1586A81069",
+    "subject": "Inglese",
+    "date": "2022-05-17",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "525950A2-A515-4A91-B3AA-EDA4185403FE",
+    "subject": "Geografia",
+    "date": "2022-05-17",
+    "grade": 8.15,
+    "type": "orale"
+  },
+  {
+    "id": "359EE339-FE14-4CA2-A2DE-52EF131AA0D0",
+    "subject": "Matematica",
+    "date": "2022-05-18",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "E362469C-4CAE-4773-8634-F1C7657F493D",
+    "subject": "Informatica",
+    "date": "2022-05-18",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "1EB00312-5104-4DFB-90B6-72A2A424F381",
+    "subject": "Diritto",
+    "date": "2022-05-20",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "5E03817C-00FF-4636-B252-650C6901192E",
+    "subject": "Storia",
+    "date": "2022-05-25",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "6515AB91-1CF8-43EA-94EC-2193A29B9B33",
+    "subject": "Economia aziendale",
+    "date": "2022-05-26",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "E1029D02-B82B-4B50-865E-D5C455D4BB9C",
+    "subject": "Chimica",
+    "date": "2022-05-30",
+    "grade": 8.5,
+    "type": "orale"
+  },
+  {
+    "id": "217CB895-EBC1-4FE2-8E6C-F60FC0ED2BA6",
+    "subject": "Inglese",
+    "date": "2022-05-31",
+    "grade": 6.15,
+    "type": "orale"
+  },
+  {
+    "id": "FA3A89FC-F161-4F8D-9167-7B3A02863FD8",
+    "subject": "Italiano",
+    "date": "2022-06-01",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "1E5C79ED-A349-4C7B-B96C-54325657C5D1",
+    "subject": "Educazione fisica",
+    "date": "2022-06-03",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "43DAF355-C1CA-4011-88F4-0ABBA30B9887",
+    "subject": "Educazione civica",
+    "date": "2022-06-06",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "C46ADA1F-9024-451D-9B35-07A6BE741703",
+    "subject": "Economia aziendale",
+    "date": "2022-09-28",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "1ED4D14F-FE16-41B4-9334-D52AD9F88F1C",
+    "subject": "Storia",
+    "date": "2022-10-11",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "4DA06BFB-7DE7-4407-992B-BB54ECD6D1E6",
+    "subject": "Italiano",
+    "date": "2022-10-18",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "1C5AEEFA-B745-4977-B827-D9BCF5CF9FD5",
+    "subject": "Tedesco",
+    "date": "2022-10-25",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "67F067BA-72E6-483B-B710-1586FF306A27",
+    "subject": "Matematica",
+    "date": "2022-11-03",
+    "grade": 3.0,
+    "type": "scritto"
+  },
+  {
+    "id": "E7E6338E-E9F9-4B9E-90B1-1D294528AD04",
+    "subject": "Diritto",
+    "date": "2022-11-03",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "ECE0079C-9736-4B9C-B930-44878F62819E",
+    "subject": "Informatica",
+    "date": "2022-11-04",
+    "grade": 9.15,
+    "type": "scritto"
+  },
+  {
+    "id": "A25D6958-CCF3-41C5-943D-90C78E4BE7E2",
+    "subject": "Economia aziendale",
+    "date": "2022-11-07",
+    "grade": 4.0,
+    "type": "orale"
+  },
+  {
+    "id": "6766EED9-7D67-4AD8-BDFE-BD842663FC2F",
+    "subject": "Economia politica",
+    "date": "2022-11-11",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "EF84B423-DC14-484F-A4E5-E5546CF192F9",
+    "subject": "Italiano",
+    "date": "2022-11-15",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "5B409F1C-5D74-4933-9FDB-B86B8723BE9B",
+    "subject": "Matematica",
+    "date": "2022-11-17",
+    "grade": 4.0,
+    "type": "orale"
+  },
+  {
+    "id": "BCD449D5-A6F5-41AC-975F-8AD39515084A",
+    "subject": "Tedesco",
+    "date": "2022-11-22",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "B950F8BC-841A-4DEC-B831-85DE5DB42240",
+    "subject": "Inglese",
+    "date": "2022-11-23",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "C0A514AF-334C-49DB-AE56-42980E19B7DF",
+    "subject": "Economia aziendale",
+    "date": "2022-12-05",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "41020273-57A1-4644-A846-0E2773F32FAF",
+    "subject": "Inglese",
+    "date": "2022-12-06",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "47698145-74C2-4ED0-A104-8AE2A9253ADB",
+    "subject": "Italiano",
+    "date": "2022-12-13",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "BF4D4EFB-D3BA-46C7-BE8A-366BBA9E78BE",
+    "subject": "Educazione civica",
+    "date": "2022-12-14",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "E32463FE-5B23-4CF5-95D6-E365C06F0D80",
+    "subject": "Educazione fisica",
+    "date": "2022-12-19",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "845977B3-6F26-46CD-9AB0-2DD059724B42",
+    "subject": "Tedesco",
+    "date": "2022-12-20",
+    "grade": 4.0,
+    "type": "scritto"
+  },
+  {
+    "id": "C186A27D-5EF2-453D-8002-20A63137522F",
+    "subject": "Economia politica",
+    "date": "2022-12-21",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "338594E4-8E45-4C52-9B1B-493725831FC5",
+    "subject": "Matematica",
+    "date": "2022-12-22",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "7A609F36-92AA-469D-B1CD-F53733D80406",
+    "subject": "Informatica",
+    "date": "2023-01-10",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "200FF18C-CCD1-432D-9427-5602494B9597",
+    "subject": "Diritto",
+    "date": "2023-01-12",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "E5EDBD96-2699-4594-98C6-5D75DA22310A",
+    "subject": "Educazione civica",
+    "date": "2023-01-17",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "ACEBC1C7-854A-43A5-831C-F6B226BB1568",
+    "subject": "Storia",
+    "date": "2023-01-18",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "05774DED-7E22-466B-A6DE-589FE6827914",
+    "subject": "Educazione civica",
+    "date": "2023-01-23",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "F0E7763D-9482-417D-A8E3-4450D9347305",
+    "subject": "Matematica",
+    "date": "2023-01-26",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "C59986E6-A4E1-40FE-9489-E06197F08287",
+    "subject": "Educazione fisica",
+    "date": "2023-01-30",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "8F06816D-785A-49E4-AEC0-6600C516F383",
+    "subject": "Economia aziendale",
+    "date": "2023-02-27",
+    "grade": 6.15,
+    "type": "orale"
+  },
+  {
+    "id": "78CCD22C-D1EF-48A7-AD53-5EF08D0890DB",
+    "subject": "Italiano",
+    "date": "2023-03-14",
+    "grade": 7.15,
+    "type": "scritto"
+  },
+  {
+    "id": "8FDC2499-7584-41CF-A808-10B4D4FD17D5",
+    "subject": "Educazione civica",
+    "date": "2023-03-14",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "1854BFF9-9F40-40AF-AB34-654A099D46DC",
+    "subject": "Diritto",
+    "date": "2023-03-15",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "DA0A2311-7027-42A4-BFB2-8BB4147227A7",
+    "subject": "Matematica",
+    "date": "2023-03-16",
+    "grade": 4.0,
+    "type": "scritto"
+  },
+  {
+    "id": "F5280479-0832-49F2-9459-810D85EF428C",
+    "subject": "Economia politica",
+    "date": "2023-03-20",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "AAB16764-32BA-465F-BB84-EE286B5C7646",
+    "subject": "Tedesco",
+    "date": "2023-03-21",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "DAFE1690-55BA-404E-99F1-FFF042370FD7",
+    "subject": "Informatica",
+    "date": "2023-03-24",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "F595F9D0-07DD-408C-97F2-C32BEFFB55BC",
+    "subject": "Tedesco",
+    "date": "2023-03-31",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "898E6AC1-3FA7-4969-8A2D-0C11CAD54929",
+    "subject": "Storia",
+    "date": "2023-04-03",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "17F2CBF2-B32F-4146-B03F-FE3D62B02897",
+    "subject": "Economia aziendale",
+    "date": "2023-04-03",
+    "grade": 2.0,
+    "type": "orale"
+  },
+  {
+    "id": "55004B56-346D-463F-A703-79939067731E",
+    "subject": "Inglese",
+    "date": "2023-04-05",
+    "grade": 8.5,
+    "type": "orale"
+  },
+  {
+    "id": "0CCC08A0-0E18-4230-8E28-E0A2D3A6C88D",
+    "subject": "Matematica",
+    "date": "2023-04-13",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "C44262FC-E963-4F1F-967C-43769E9563D2",
+    "subject": "Educazione fisica",
+    "date": "2023-04-17",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "1D3CB550-F07A-4352-B3AE-909D8162201D",
+    "subject": "Educazione fisica",
+    "date": "2023-04-17",
+    "grade": 8.0,
+    "type": "pratico"
+  },
+  {
+    "id": "785F79BC-03D5-4323-AAD9-E57E980CA536",
+    "subject": "Educazione civica",
+    "date": "2023-04-17",
+    "grade": 8.15,
+    "type": "scritto"
+  },
+  {
+    "id": "8D0F2BA5-2611-4315-9A22-C9AAEA324060",
+    "subject": "Italiano",
+    "date": "2023-04-20",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "B1FE08E3-FDEF-4986-A859-8D3571DAAC89",
+    "subject": "Diritto",
+    "date": "2023-04-20",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "DF598B96-E83D-44D1-A5CD-A6E4D26378AF",
+    "subject": "Tedesco",
+    "date": "2023-05-09",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "58DA0FD4-82FC-4148-9CD0-B9685D92C7AB",
+    "subject": "Italiano",
+    "date": "2023-05-09",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "D154901A-D500-4D37-BDA8-C0AEF62E5FA7",
+    "subject": "Inglese",
+    "date": "2023-05-10",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "964067CE-54E7-4064-883E-F772B8C6CC89",
+    "subject": "Economia politica",
+    "date": "2023-05-12",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "890CD11A-F5D6-4CD5-93E7-637BE87ABB45",
+    "subject": "Educazione fisica",
+    "date": "2023-05-15",
+    "grade": 7.5,
+    "type": "pratico"
+  },
+  {
+    "id": "A2DAF17E-AC30-4B16-AB75-B9AB20C76654",
+    "subject": "Informatica",
+    "date": "2023-05-16",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "6D3BFEF5-AF2B-431C-BBEB-E9FC71388D8F",
+    "subject": "Matematica",
+    "date": "2023-05-18",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "09ABB245-E937-4931-B1CD-E43ECD8D6F2B",
+    "subject": "Economia aziendale",
+    "date": "2023-05-24",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "E6720BEB-6FED-4E0D-A6D6-A8629589C1C1",
+    "subject": "Economia aziendale",
+    "date": "2023-05-29",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "A18B9CD8-B9D4-437F-B6A7-E01CB916CC98",
+    "subject": "Tedesco",
+    "date": "2023-05-30",
+    "grade": 8.5,
+    "type": "scritto"
+  },
+  {
+    "id": "4F2F1059-BA50-4C18-969F-7EFA15CB1E6E",
+    "subject": "Informatica",
+    "date": "2023-05-30",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "7021E0E2-CDA7-4D17-87DD-1BAD94ABF027",
+    "subject": "Educazione civica",
+    "date": "2023-05-30",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "5E6A3C20-0D4E-4A79-B7E1-58CB29D01ABB",
+    "subject": "Economia aziendale",
+    "date": "2023-06-05",
+    "grade": 8.5,
+    "type": "scritto"
+  },
+  {
+    "id": "8BCFDEFE-BE29-4C43-A315-ABC0FE119289",
+    "subject": "Educazione civica",
+    "date": "2023-06-06",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "998FB996-F2B8-4934-A1A3-000F4A310F2D",
+    "subject": "Storia",
+    "date": "2023-06-07",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "12E6834A-C85F-4B44-9AC3-9D25F42D1010",
+    "subject": "Italiano",
+    "date": "2023-10-12",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "09922D41-B297-4E0C-9DE7-F94B3F81B533",
+    "subject": "Matematica",
+    "date": "2023-10-17",
+    "grade": 8.5,
+    "type": "orale"
+  },
+  {
+    "id": "946A3F31-E463-4B5F-B819-69C59959B618",
+    "subject": "Economia aziendale",
+    "date": "2023-10-18",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "792D485E-E033-4F9B-9CF7-A7895F502CEC",
+    "subject": "Informatica",
+    "date": "2023-10-19",
+    "grade": 10.0,
+    "type": "scritto"
+  },
+  {
+    "id": "33B06B20-F0AE-4F74-9A03-3846688E4BCB",
+    "subject": "Educazione fisica",
+    "date": "2023-10-27",
+    "grade": 8.0,
+    "type": "pratico"
+  },
+  {
+    "id": "9351C436-3DB3-4665-8F7C-6CA2E25CE4ED",
+    "subject": "Economia politica",
+    "date": "2023-11-02",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "76AFB8D3-14B8-4B21-A46B-4008B093D3B0",
+    "subject": "Storia",
+    "date": "2023-11-03",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "1D27CB50-BAEB-4082-B598-2D4383EA6AE1",
+    "subject": "Italiano",
+    "date": "2023-11-08",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "A5848617-8900-4CDC-8C5B-F7B002EBC25C",
+    "subject": "Diritto",
+    "date": "2023-11-10",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "456F4A48-2516-499F-AA71-11AE859E7BB3",
+    "subject": "Inglese",
+    "date": "2023-11-13",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "05D7ACF2-DFF3-416C-BCF3-A340A4E506EE",
+    "subject": "Matematica",
+    "date": "2023-11-14",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "9131749D-39CC-4496-B3C8-9536B046F3D0",
+    "subject": "Educazione civica",
+    "date": "2023-11-20",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "FE9FA052-E963-4E2A-BF06-2B4F366C7421",
+    "subject": "Economia aziendale",
+    "date": "2023-11-22",
+    "grade": 7.15,
+    "type": "orale"
+  },
+  {
+    "id": "6418E5E9-3FDF-4E80-9EA3-8474A4C00782",
+    "subject": "Educazione fisica",
+    "date": "2023-11-24",
+    "grade": 8.0,
+    "type": "pratico"
+  },
+  {
+    "id": "83A171FA-57DB-4E1D-9FF8-B9D17DAF9ED6",
+    "subject": "Informatica",
+    "date": "2023-11-27",
+    "grade": 8.85,
+    "type": "scritto"
+  },
+  {
+    "id": "33277CE6-7EB2-4A16-99D5-3288082CB58F",
+    "subject": "Italiano",
+    "date": "2023-11-30",
+    "grade": 7.85,
+    "type": "scritto"
+  },
+  {
+    "id": "1963E970-A3A3-4895-9F40-B4254192013C",
+    "subject": "Inglese",
+    "date": "2023-12-05",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "1235104E-59F5-47A0-BC1A-4D2BBC363A7F",
+    "subject": "Educazione civica",
+    "date": "2023-12-06",
+    "grade": 8.15,
+    "type": "orale"
+  },
+  {
+    "id": "C1240595-C9CF-4A4B-A71A-7E92B4A094BB",
+    "subject": "Italiano",
+    "date": "2023-12-14",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "65A7988D-2F69-4C16-A2C1-9E2A92C9F32A",
+    "subject": "Educazione civica",
+    "date": "2023-12-15",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "623A4BC5-ABF1-47CE-9C33-5FF69B6D89E9",
+    "subject": "Economia politica",
+    "date": "2024-01-09",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "9BD9B77F-EBA1-4048-8D3C-4B7A54BD0A6E",
+    "subject": "Diritto",
+    "date": "2024-01-11",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "304CE023-571C-4B19-A9F8-FD4175B8E3CB",
+    "subject": "Storia",
+    "date": "2024-01-12",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "F87157FA-5635-4FA4-938E-F27B8B327545",
+    "subject": "Educazione civica",
+    "date": "2024-01-12",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "9BAB06F6-69F8-472E-9EF7-52C50FE7FB1B",
+    "subject": "Matematica",
+    "date": "2024-01-18",
+    "grade": 3.0,
+    "type": "scritto"
+  },
+  {
+    "id": "E846A1E8-8AF4-432E-AD36-C8CB4CF6CD53",
+    "subject": "Educazione fisica",
+    "date": "2024-01-19",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "C5E119DD-E495-45FB-B45F-D3FC99DFD960",
+    "subject": "Informatica",
+    "date": "2024-01-24",
+    "grade": 10.0,
+    "type": "orale"
+  },
+  {
+    "id": "9622F155-F7BA-4433-93C1-55450B804699",
+    "subject": "Economia aziendale",
+    "date": "2024-01-24",
+    "grade": 7.15,
+    "type": "scritto"
+  },
+  {
+    "id": "95E1F8FD-47F2-4240-951E-F5818C9E7A66",
+    "subject": "Italiano",
+    "date": "2024-01-25",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "BA7A0D98-AF78-413C-B08F-EE3DB55813C0",
+    "subject": "Educazione civica",
+    "date": "2024-01-26",
+    "grade": 8.5,
+    "type": "orale"
+  },
+  {
+    "id": "9A31EAB7-A395-49ED-8C86-F84335C4C806",
+    "subject": "Matematica",
+    "date": "2024-01-30",
+    "grade": 4.0,
+    "type": "orale"
+  },
+  {
+    "id": "B8792D19-F172-4446-A057-1C2701F50650",
+    "subject": "Inglese",
+    "date": "2024-01-30",
+    "grade": 6.85,
+    "type": "scritto"
+  },
+  {
+    "id": "5F1A7B7C-DD8B-4955-A5C3-8D53AC4C2FF5",
+    "subject": "Inglese",
+    "date": "2024-02-13",
+    "grade": 8.5,
+    "type": "orale"
+  },
+  {
+    "id": "333B5F82-0F84-4483-B91C-E63AFD248D85",
+    "subject": "Italiano",
+    "date": "2024-02-15",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "57EB8EA4-DFB9-4965-B4AC-32CC4089A7A9",
+    "subject": "Educazione fisica",
+    "date": "2024-02-23",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "C7F7816C-BFFD-4F8A-9382-2EB1FF039171",
+    "subject": "Informatica",
+    "date": "2024-02-29",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "4ED568BF-2BD1-473B-A758-380AE4E9791E",
+    "subject": "Diritto",
+    "date": "2024-02-29",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "05A2DDB6-A12F-4185-B1F9-2D98FA8C1CC9",
+    "subject": "Educazione fisica",
+    "date": "2024-03-01",
+    "grade": 7.15,
+    "type": "pratico"
+  },
+  {
+    "id": "D1DC497B-62BA-46C3-B824-F37DD849B96A",
+    "subject": "Italiano",
+    "date": "2024-03-08",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "E3F3FE3E-B4B2-4280-B021-5C4A1564D99F",
+    "subject": "Economia politica",
+    "date": "2024-03-08",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "8214089A-8211-421A-BEBC-19AA46A38F78",
+    "subject": "Matematica",
+    "date": "2024-03-12",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "9211AAC1-693C-4034-95CB-357F1A9BAFC3",
+    "subject": "Inglese",
+    "date": "2024-03-14",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "105DA7AD-4223-48EA-8A04-F69C03F6927F",
+    "subject": "Economia aziendale",
+    "date": "2024-03-18",
+    "grade": 4.85,
+    "type": "scritto"
+  },
+  {
+    "id": "EF231425-D379-4875-9D3A-1A01917E9939",
+    "subject": "Storia",
+    "date": "2024-03-20",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "320CC89B-D641-4196-9B49-7386EA559A97",
+    "subject": "Italiano",
+    "date": "2024-03-27",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "F508F52E-D7A0-49DE-BA82-E5E3F9CEB98B",
+    "subject": "Informatica",
+    "date": "2024-04-05",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "4B5171AD-8E68-42A0-A7C3-2598688CA78B",
+    "subject": "Matematica",
+    "date": "2024-04-09",
+    "grade": 3.0,
+    "type": "scritto"
+  },
+  {
+    "id": "8B3E2BDF-3EFA-4F82-9183-D64D2540182C",
+    "subject": "Economia politica",
+    "date": "2024-04-17",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "CD3B0D50-7DC5-4889-943A-C042A20F01B7",
+    "subject": "Inglese",
+    "date": "2024-04-22",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "B918A610-5461-4244-83AE-9096E481DCC5",
+    "subject": "Inglese",
+    "date": "2024-04-23",
+    "grade": 9.5,
+    "type": "orale"
+  },
+  {
+    "id": "3E108729-9B07-43BE-8332-54A1444F66E5",
+    "subject": "Economia aziendale",
+    "date": "2024-04-29",
+    "grade": 4.5,
+    "type": "scritto"
+  },
+  {
+    "id": "A9E9DACD-5E4C-4390-8E3B-EF743386B915",
+    "subject": "Storia",
+    "date": "2024-05-03",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "79948530-58B4-49FD-B651-DA15A3E43D93",
+    "subject": "Informatica",
+    "date": "2024-05-09",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "DE2C262A-E72C-4C6C-B2E9-572BAEF26387",
+    "subject": "Italiano",
+    "date": "2024-05-10",
+    "grade": 8.0,
+    "type": "scritto"
+  },
+  {
+    "id": "7342EEE8-8797-4623-B75F-2A237A55D427",
+    "subject": "Diritto",
+    "date": "2024-05-10",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "5AAB0941-4284-402F-81D0-608975F53CBC",
+    "subject": "Informatica",
+    "date": "2024-10-09",
+    "grade": 5.5,
+    "type": "scritto"
+  },
+  {
+    "id": "2B66DE9C-1FA1-49DC-B263-4C802C9DBF2A",
+    "subject": "Economia aziendale",
+    "date": "2024-10-15",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "5C3FAC94-5ABC-4FC6-93FF-189144000C56",
+    "subject": "Inglese",
+    "date": "2024-10-21",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "411B2BE3-58FA-47DD-80B2-03E68C84CA6A",
+    "subject": "Diritto",
+    "date": "2024-10-29",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "B184EC9F-C890-4039-B0E8-951BD4CA2034",
+    "subject": "Informatica",
+    "date": "2024-10-30",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "255B5596-B43E-4F61-8AAA-D09F4446FD57",
+    "subject": "Storia",
+    "date": "2024-10-31",
+    "grade": 7.5,
+    "type": "orale"
+  },
+  {
+    "id": "E09E4F12-3915-48C6-BCCB-12227A8806E3",
+    "subject": "Italiano",
+    "date": "2024-10-31",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "34C6DF50-05A4-4337-BAAC-BB6A1A895D2A",
+    "subject": "Educazione fisica",
+    "date": "2024-11-06",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "D697DC9B-A689-47CB-ACBF-71FA46BB356F",
+    "subject": "Educazione fisica",
+    "date": "2024-11-06",
+    "grade": 9.0,
+    "type": "pratico"
+  },
+  {
+    "id": "F83185B7-0D6B-4A2C-AD4D-D8C2B0A3F17E",
+    "subject": "Matematica",
+    "date": "2024-11-11",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "FCDB7351-70FF-42AB-9FB3-FAE14FCC00D7",
+    "subject": "Italiano",
+    "date": "2024-11-13",
+    "grade": 8.0,
+    "type": "orale"
+  },
+  {
+    "id": "71DF7289-B416-45A3-A36C-18E040EC7B00",
+    "subject": "Economia aziendale",
+    "date": "2024-11-18",
+    "grade": 4.5,
+    "type": "orale"
+  },
+  {
+    "id": "1ABB6E73-C479-4FFB-AAC8-85433BA96BF2",
+    "subject": "Economia politica",
+    "date": "2024-11-21",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "7DEC9AFC-0BD9-491F-B61A-92A59A87272A",
+    "subject": "Inglese",
+    "date": "2024-11-22",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "C22B189D-94AB-4FCA-96C5-C039E6CC0A55",
+    "subject": "Educazione civica",
+    "date": "2024-12-10",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "D10B6E69-9432-4076-A36B-BFF58C3411AB",
+    "subject": "Italiano",
+    "date": "2024-12-12",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "F8491EFE-A23B-48A1-84ED-87E688CE5E11",
+    "subject": "Diritto",
+    "date": "2024-12-17",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "07E910FC-9162-4BDB-A611-67CA4928B125",
+    "subject": "Informatica",
+    "date": "2024-12-18",
+    "grade": 7.15,
+    "type": "orale"
+  },
+  {
+    "id": "350DFFDA-0314-4032-870E-9B7C251487B0",
+    "subject": "Economia aziendale",
+    "date": "2024-12-18",
+    "grade": 4.85,
+    "type": "scritto"
+  },
+  {
+    "id": "6B7012B7-4F9E-4EAA-B9F2-55DAF729B4E6",
+    "subject": "Matematica",
+    "date": "2025-01-10",
+    "grade": 3.5,
+    "type": "scritto"
+  },
+  {
+    "id": "3D1ED2E8-FC08-4D95-8C9C-961C7BDAA03E",
+    "subject": "Educazione civica",
+    "date": "2025-01-10",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "93CB34F3-253C-4E8A-A918-9CAC2EBABD79",
+    "subject": "Economia politica",
+    "date": "2025-01-14",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "1DC3228A-B003-495C-97D9-C06CE0F5F4C9",
+    "subject": "Educazione civica",
+    "date": "2025-01-16",
+    "grade": 8.15,
+    "type": "scritto"
+  },
+  {
+    "id": "99279B35-9261-4ABF-9BCC-24020A857D5F",
+    "subject": "Storia",
+    "date": "2025-01-17",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "AD9852EB-FDED-4821-899D-5D9B94470D32",
+    "subject": "Economia aziendale",
+    "date": "2025-01-21",
+    "grade": 3.5,
+    "type": "orale"
+  },
+  {
+    "id": "E72740AE-C913-49BC-91D3-D37FDD6B46F0",
+    "subject": "Educazione fisica",
+    "date": "2025-01-22",
+    "grade": 7.0,
+    "type": "pratico"
+  },
+  {
+    "id": "59909B75-13D6-4E69-85E5-87A96F26AE61",
+    "subject": "Educazione civica",
+    "date": "2025-01-22",
+    "grade": 7.0,
+    "type": "pratico"
+  },
+  {
+    "id": "7FCAC552-74D8-4266-ADD3-7B53AA69503D",
+    "subject": "Inglese",
+    "date": "2025-01-24",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "B8E0A4C7-701A-4E5C-8190-FC74E1FB0CB9",
+    "subject": "Economia aziendale",
+    "date": "2025-01-30",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "523BEC48-F738-4A7D-BC2D-7FA275E1B0A5",
+    "subject": "Inglese",
+    "date": "2025-02-17",
+    "grade": 9.0,
+    "type": "orale"
+  },
+  {
+    "id": "EFDFD6AA-525E-4C19-93C7-348EABE6D29C",
+    "subject": "Diritto",
+    "date": "2025-02-25",
+    "grade": 4.5,
+    "type": "orale"
+  },
+  {
+    "id": "D5A943E4-CD03-4381-A40A-29E872A5E182",
+    "subject": "Matematica",
+    "date": "2025-02-26",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "E8D8CFA1-F895-43BD-A192-673D59F4355E",
+    "subject": "Italiano",
+    "date": "2025-03-05",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "269C3BFB-3C27-4589-840D-C5145729276E",
+    "subject": "Educazione fisica",
+    "date": "2025-03-05",
+    "grade": 8.15,
+    "type": "pratico"
+  },
+  {
+    "id": "87C02D7D-3FF7-477C-A0A9-370105374AD9",
+    "subject": "Economia aziendale",
+    "date": "2025-03-05",
+    "grade": 6.0,
+    "type": "scritto"
+  },
+  {
+    "id": "9FD8062C-F080-4263-A9A9-5168E2D6BB65",
+    "subject": "Diritto",
+    "date": "2025-03-11",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "BB80B554-F53E-4C1A-AB23-514F0A9F8268",
+    "subject": "Informatica",
+    "date": "2025-03-12",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "B71C3E5E-345F-489E-A7C2-9CC098A27210",
+    "subject": "Storia",
+    "date": "2025-03-18",
+    "grade": 6.15,
+    "type": "scritto"
+  },
+  {
+    "id": "169321E0-02D7-47FA-9192-42380632ACDF",
+    "subject": "Economia politica",
+    "date": "2025-03-18",
+    "grade": 5.85,
+    "type": "orale"
+  },
+  {
+    "id": "21628B15-E4BD-4679-915F-CA8ED4819A41",
+    "subject": "Inglese",
+    "date": "2025-03-31",
+    "grade": 7.5,
+    "type": "scritto"
+  },
+  {
+    "id": "A858CCAA-B03C-45F4-9BE6-310B2B0A94EE",
+    "subject": "Informatica",
+    "date": "2025-03-31",
+    "grade": 7.15,
+    "type": "orale"
+  },
+  {
+    "id": "43ECB3AF-4853-4981-9F90-8AB0661F4AB7",
+    "subject": "Italiano",
+    "date": "2025-04-01",
+    "grade": 6.85,
+    "type": "scritto"
+  },
+  {
+    "id": "A9ED87B6-FC5E-4EBF-A1CF-B7275737761C",
+    "subject": "Economia politica",
+    "date": "2025-04-01",
+    "grade": 6.5,
+    "type": "orale"
+  },
+  {
+    "id": "55B29CD7-0B07-4A98-BF1E-BC8FD835EC7E",
+    "subject": "Italiano",
+    "date": "2025-04-03",
+    "grade": 7.15,
+    "type": "scritto"
+  },
+  {
+    "id": "24B02AD2-14FE-4A81-BD75-BCFDD124026A",
+    "subject": "Matematica",
+    "date": "2025-04-07",
+    "grade": 3.0,
+    "type": "scritto"
+  },
+  {
+    "id": "FD9B1E39-676A-4DEF-986C-2C67B21E9393",
+    "subject": "Economia aziendale",
+    "date": "2025-04-08",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "CA50A8EB-70D3-4BCF-8060-429EC052896C",
+    "subject": "Educazione fisica",
+    "date": "2025-04-09",
+    "grade": 9.15,
+    "type": "orale"
+  },
+  {
+    "id": "E59FC8B5-7A7F-45FD-B18C-F408EC3FF2AD",
+    "subject": "Informatica",
+    "date": "2025-04-16",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "F00340C1-74F3-4F1C-8B43-F6D4708C03D5",
+    "subject": "Economia aziendale",
+    "date": "2025-04-29",
+    "grade": 5.85,
+    "type": "orale"
+  },
+  {
+    "id": "884805F1-D8BF-4F24-8D14-AA130A00AC54",
+    "subject": "Italiano",
+    "date": "2025-04-30",
+    "grade": 6.5,
+    "type": "scritto"
+  },
+  {
+    "id": "B11C4222-0CD3-4AC2-9870-96EFC816B37C",
+    "subject": "Educazione fisica",
+    "date": "2025-04-30",
+    "grade": 7.15,
+    "type": "pratico"
+  },
+  {
+    "id": "5A1491BA-3B56-48EC-AA92-7311683DD9D9",
+    "subject": "Educazione civica",
+    "date": "2025-05-05",
+    "grade": 9.5,
+    "type": "scritto"
+  },
+  {
+    "id": "2A7F7399-D6F0-4D63-85A4-0662F7EEC2EB",
+    "subject": "Matematica",
+    "date": "2025-05-05",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "79B89D79-2774-4CF9-B9B6-78442E23E1CC",
+    "subject": "Italiano",
+    "date": "2025-05-07",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "A7BD4E13-6970-48E2-B76A-63D12FC15667",
+    "subject": "Inglese",
+    "date": "2025-05-12",
+    "grade": 10.0,
+    "type": "orale"
+  },
+  {
+    "id": "060C3D11-7BA4-4618-9659-FBD8878188B4",
+    "subject": "Matematica",
+    "date": "2025-05-14",
+    "grade": 7.0,
+    "type": "orale"
+  },
+  {
+    "id": "E087DEB5-4DA9-413C-AD61-E5CDA8873E62",
+    "subject": "Informatica",
+    "date": "2025-05-21",
+    "grade": 5.0,
+    "type": "orale"
+  },
+  {
+    "id": "544D34B7-3085-41C3-9B73-44A05111ECEB",
+    "subject": "Storia",
+    "date": "2025-05-22",
+    "grade": 9.0,
+    "type": "scritto"
+  },
+  {
+    "id": "18064ED3-C46C-4A0F-9965-984A1AAA91BE",
+    "subject": "Italiano",
+    "date": "2025-05-23",
+    "grade": 7.0,
+    "type": "scritto"
+  },
+  {
+    "id": "F877B84A-0AF7-4F80-AE5C-0DE92929D36E",
+    "subject": "Inglese",
+    "date": "2025-05-23",
+    "grade": 9.15,
+    "type": "scritto"
+  },
+  {
+    "id": "F652D3A4-9747-4242-AC66-D9FFB7E6D3CC",
+    "subject": "Economia aziendale",
+    "date": "2025-05-27",
+    "grade": 5.85,
+    "type": "orale"
+  },
+  {
+    "id": "EF48E68B-9A61-4BEA-934F-69E8E0789564",
+    "subject": "Diritto",
+    "date": "2025-05-27",
+    "grade": 5.5,
+    "type": "orale"
+  },
+  {
+    "id": "1F1DF432-E086-48D1-914D-D1510FD3352D",
+    "subject": "Educazione fisica",
+    "date": "2025-05-28",
+    "grade": 7.5,
+    "type": "pratico"
+  },
+  {
+    "id": "A0FEA061-2F88-45B0-A3AD-8C789F356FDA",
+    "subject": "Diritto",
+    "date": "2025-05-29",
+    "grade": 5.0,
+    "type": "scritto"
+  },
+  {
+    "id": "080283A3-3440-4844-8009-68BCBF94FFEA",
+    "subject": "Educazione civica",
+    "date": "2025-05-30",
+    "grade": 8.5,
+    "type": "scritto"
+  },
+  {
+    "id": "44C73466-358C-415D-B958-41B3B40ADF01",
+    "subject": "Diritto",
+    "date": "2025-06-03",
+    "grade": 6.0,
+    "type": "orale"
+  },
+  {
+    "id": "2E17F294-2054-4137-9EEA-69078EBEED19",
+    "subject": "Educazione civica",
+    "date": "2025-06-03",
+    "grade": 10.0,
+    "type": "scritto"
+  },
+  {
+    "id": "9F0857D1-E44F-4E93-AC9B-8F316B77EA23",
+    "subject": "Educazione civica",
+    "date": "2025-06-03",
+    "grade": 9.5,
+    "type": "scritto"
+  }
+]

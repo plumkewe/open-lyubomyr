@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "6160A864-7255-455D-A9D0-8900FFB34B62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5319904,
+          42.9257633
+        ]
+      },
+      "properties": {
+        "id": "6160A864-7255-455D-A9D0-8900FFB34B62",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E27C484C-9049-4A35-B416-91C4743587EF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5309809,
+          42.9251648
+        ]
+      },
+      "properties": {
+        "id": "E27C484C-9049-4A35-B416-91C4743587EF",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9E088811-D831-4100-944B-71A1E61983E8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5310925,
+          42.9251768
+        ]
+      },
+      "properties": {
+        "id": "9E088811-D831-4100-944B-71A1E61983E8",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28C02651-EC88-4913-A88B-D50D6551800D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532208,
+          42.9224416
+        ]
+      },
+      "properties": {
+        "id": "28C02651-EC88-4913-A88B-D50D6551800D",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FFD6F4E1-C442-487C-94E4-DF46C9239277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5310097,
+          42.921779
+        ]
+      },
+      "properties": {
+        "id": "FFD6F4E1-C442-487C-94E4-DF46C9239277",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "583840AE-E458-495D-AE31-F980A544CBF3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533495399999998,
+          42.92458229605832
+        ]
+      },
+      "properties": {
+        "id": "583840AE-E458-495D-AE31-F980A544CBF3",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4B916704-9E7F-41C1-9E86-0A30753C9EC2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5349231,
+          42.9244374
+        ]
+      },
+      "properties": {
+        "id": "4B916704-9E7F-41C1-9E86-0A30753C9EC2",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26B5CA67-C0DF-4780-962B-BCF339229BD6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527379471163611,
+          42.92243310140275
+        ]
+      },
+      "properties": {
+        "id": "26B5CA67-C0DF-4780-962B-BCF339229BD6",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E83608BF-C565-4DD4-A6E3-03F994919F19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527939642327228,
+          42.92306273832511
+        ]
+      },
+      "properties": {
+        "id": "E83608BF-C565-4DD4-A6E3-03F994919F19",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D3F31C6A-6A42-4367-96C6-3F6610214587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5280975,
+          42.9228877
+        ]
+      },
+      "properties": {
+        "id": "D3F31C6A-6A42-4367-96C6-3F6610214587",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "315BA701-48CA-4C8A-8B51-2B3165A076A6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5272634,
+          42.9220839
+        ]
+      },
+      "properties": {
+        "id": "315BA701-48CA-4C8A-8B51-2B3165A076A6",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04F384D9-A719-4A1B-95F4-43A18CA80A40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5272214,
+          42.9217929
+        ]
+      },
+      "properties": {
+        "id": "04F384D9-A719-4A1B-95F4-43A18CA80A40",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E57F3413-7BC0-42DD-9D5D-98C9249C4FCF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5272295,
+          42.9218109
+        ]
+      },
+      "properties": {
+        "id": "E57F3413-7BC0-42DD-9D5D-98C9249C4FCF",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82375E65-C270-487B-B3CC-F0F6FA1562BE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5275027,
+          42.9224033
+        ]
+      },
+      "properties": {
+        "id": "82375E65-C270-487B-B3CC-F0F6FA1562BE",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B976FB0B-1C3A-4486-8D5C-DF36B5864D47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5274008,
+          42.9215145
+        ]
+      },
+      "properties": {
+        "id": "B976FB0B-1C3A-4486-8D5C-DF36B5864D47",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A11B0F08-2D58-4B22-B126-67F60766BD0C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5330076,
+          42.9270375
+        ]
+      },
+      "properties": {
+        "id": "A11B0F08-2D58-4B22-B126-67F60766BD0C",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0211271E-AD38-40D1-B8A8-9091CDE4FF7C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5329205,
+          42.9267448
+        ]
+      },
+      "properties": {
+        "id": "0211271E-AD38-40D1-B8A8-9091CDE4FF7C",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A6D11114-4515-4628-A3D3-80063381132C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5302453,
+          42.9267183
+        ]
+      },
+      "properties": {
+        "id": "A6D11114-4515-4628-A3D3-80063381132C",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20207DB6-BA93-408C-97F7-A45D19CB2851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5299275,
+          42.9263972
+        ]
+      },
+      "properties": {
+        "id": "20207DB6-BA93-408C-97F7-A45D19CB2851",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C47A13C3-8351-43C1-989D-92FA0EB24B98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53000605581807,
+          42.92425609071048
+        ]
+      },
+      "properties": {
+        "id": "C47A13C3-8351-43C1-989D-92FA0EB24B98",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38F67D96-9338-411D-9E31-9330856F4A06",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5322134,
+          42.922106
+        ]
+      },
+      "properties": {
+        "id": "38F67D96-9338-411D-9E31-9330856F4A06",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ACA319E1-599B-4492-9F6D-B83FAC272911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5319525,
+          42.9240497
+        ]
+      },
+      "properties": {
+        "id": "ACA319E1-599B-4492-9F6D-B83FAC272911",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B154029F-D5C0-4CD7-AB6B-343DF6A57FE4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530920386509157,
+          42.924167128282754
+        ]
+      },
+      "properties": {
+        "id": "B154029F-D5C0-4CD7-AB6B-343DF6A57FE4",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D0E87477-FE26-4DFE-9C14-F734A8BBE431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530730628836382,
+          42.92415086566808
+        ]
+      },
+      "properties": {
+        "id": "D0E87477-FE26-4DFE-9C14-F734A8BBE431",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0A40B6A8-2ACF-494A-8EB5-F314A88BBB34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5322167,
+          42.9240571
+        ]
+      },
+      "properties": {
+        "id": "0A40B6A8-2ACF-494A-8EB5-F314A88BBB34",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F4A224D1-0637-4E6F-8699-9B750E1DC51F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5332249,
+          42.9241118
+        ]
+      },
+      "properties": {
+        "id": "F4A224D1-0637-4E6F-8699-9B750E1DC51F",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76470CD4-876C-4969-8477-A6689CBBE591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532729,
+          42.9253828
+        ]
+      },
+      "properties": {
+        "id": "76470CD4-876C-4969-8477-A6689CBBE591",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DABD0DAA-9FF2-4A38-A3B6-0A3CE1A598AB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5300341,
+          42.9247273
+        ]
+      },
+      "properties": {
+        "id": "DABD0DAA-9FF2-4A38-A3B6-0A3CE1A598AB",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0B01E238-E90D-44FE-9F6E-F42EAE4BDF61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53014,
+          42.92472
+        ]
+      },
+      "properties": {
+        "id": "0B01E238-E90D-44FE-9F6E-F42EAE4BDF61",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F81EF076-FFCC-43A3-BFD0-71E375E5321F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53026,
+          42.92472
+        ]
+      },
+      "properties": {
+        "id": "F81EF076-FFCC-43A3-BFD0-71E375E5321F",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "396D6E4D-A30F-4D99-AFFC-8A6630991FA5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52992,
+          42.92472
+        ]
+      },
+      "properties": {
+        "id": "396D6E4D-A30F-4D99-AFFC-8A6630991FA5",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CBAE5990-BFAA-4DDB-AC57-979FDBB20FFB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5328004,
+          42.923708
+        ]
+      },
+      "properties": {
+        "id": "CBAE5990-BFAA-4DDB-AC57-979FDBB20FFB",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D009CD80-F9BA-490D-BDB7-E1FB74AC2483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52858,
+          42.92283
+        ]
+      },
+      "properties": {
+        "id": "D009CD80-F9BA-490D-BDB7-E1FB74AC2483",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B6B25300-14FB-4B5F-BC59-DC8507A023B7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52667,
+          42.92824
+        ]
+      },
+      "properties": {
+        "id": "B6B25300-14FB-4B5F-BC59-DC8507A023B7",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DFE9089F-2ACF-449B-99D6-2E81543423D9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52849,
+          42.92728
+        ]
+      },
+      "properties": {
+        "id": "DFE9089F-2ACF-449B-99D6-2E81543423D9",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FA8896D0-23FB-4A16-A34E-40EBC1E1E570",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52507,
+          42.92917
+        ]
+      },
+      "properties": {
+        "id": "FA8896D0-23FB-4A16-A34E-40EBC1E1E570",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F827A116-63A5-40EB-A27F-822FA8F23613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52907,
+          42.92657
+        ]
+      },
+      "properties": {
+        "id": "F827A116-63A5-40EB-A27F-822FA8F23613",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8A65A17E-C0A9-4625-B1DE-85004DDFF203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53156,
+          42.9218
+        ]
+      },
+      "properties": {
+        "id": "8A65A17E-C0A9-4625-B1DE-85004DDFF203",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5978C073-E83F-40DE-8E47-8E6FF266B7E0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53181,
+          42.92179
+        ]
+      },
+      "properties": {
+        "id": "5978C073-E83F-40DE-8E47-8E6FF266B7E0",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BED4C1B6-F2B2-4698-8713-53627FC0A857",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52979,
+          42.92382
+        ]
+      },
+      "properties": {
+        "id": "BED4C1B6-F2B2-4698-8713-53627FC0A857",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D3632065-EB16-47CC-B278-0FE592EBCC08",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53074,
+          42.92542
+        ]
+      },
+      "properties": {
+        "id": "D3632065-EB16-47CC-B278-0FE592EBCC08",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4FE6FF78-C484-49B8-999A-2FE364EF65D1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52988,
+          42.92571
+        ]
+      },
+      "properties": {
+        "id": "4FE6FF78-C484-49B8-999A-2FE364EF65D1",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ECB3E43F-FEE0-4E89-BF92-B92B4B506DEF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53094,
+          42.92523
+        ]
+      },
+      "properties": {
+        "id": "ECB3E43F-FEE0-4E89-BF92-B92B4B506DEF",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EEA45315-D2DD-47B5-BDE0-50DC7D887A95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53095,
+          42.92433
+        ]
+      },
+      "properties": {
+        "id": "EEA45315-D2DD-47B5-BDE0-50DC7D887A95",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E639CD1E-2C5F-4BCF-9AB5-60C89028384B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53207,
+          42.92467
+        ]
+      },
+      "properties": {
+        "id": "E639CD1E-2C5F-4BCF-9AB5-60C89028384B",
+        "name": "I am here",
+        "tourism": "artwork",
+        "artwork_type": "graffiti",
+        "inscription": "I am here",
+        "original_note": "",
+        "comment": "",
+        "visibility": "public"
+      }
+    }
+  ]
+}

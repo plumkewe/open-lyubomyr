@@ -1,0 +1,6245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "4A12E89A-543C-4F56-B131-030CC40428DC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52283650762667,
+          42.92546109446996
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "1",
+        "original_name": "Cestino 1",
+        "amenity": "waste_basket",
+        "short_id": "O3QY4W",
+        "address": "Via Giovanni Pascoli 2\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "C019CAC7-8B2C-45C0-9F1F-802834FC0613.jpg",
+        "created_at": "2023-09-15T10:22:56Z",
+        "modified_at": "2023-09-15T10:22:57Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "419B1830-9800-400E-B56C-BE77B0334145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52255,
+          42.92528
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "2",
+        "original_name": "Cestino 2",
+        "amenity": "waste_basket",
+        "short_id": "1CZ8XM",
+        "address": "Via Giovanni Pascoli 2–14\n57025 Piombino Toscana\nItalia",
+        "condition": "new",
+        "image_url": "F11A773D-58F5-41F0-9601-206EB98AF511.jpg",
+        "created_at": "2023-09-15T10:23:54Z",
+        "modified_at": "2023-09-15T10:28:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9F71252E-1E9F-4EB3-A379-02F174CDB84F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521458974117898,
+          42.92537746023659
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "3",
+        "original_name": "Cestino 3",
+        "amenity": "waste_basket",
+        "short_id": "87CACU",
+        "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "DC862F3E-D8E3-4257-B4FF-461E7B9C8A6F.jpg",
+        "created_at": "2023-09-15T10:25:16Z",
+        "modified_at": "2023-09-15T10:25:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25CF811C-D072-4E82-A0D6-3940A8A8C3AE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.522325550209585,
+          42.9251238041957
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "4",
+        "original_name": "Cestino 4",
+        "amenity": "waste_basket",
+        "short_id": "4Q285U",
+        "address": "Via Giovanni Pascoli 2–14\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "CE829AE9-4D9D-4BB2-9C35-E902ED856D40.jpg",
+        "created_at": "2023-09-15T11:07:54Z",
+        "modified_at": "2023-09-15T11:07:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B667A38F-3508-423D-A3E5-CD792EC59E6B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.522734448323513,
+          42.924918718676224
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "5",
+        "original_name": "Cestino 5",
+        "amenity": "waste_basket",
+        "short_id": "L0M08C",
+        "address": "Via Padre Giustino Senni 11\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "6D5E85B1-4910-4BFC-B0CB-2580F6E66BF6.jpg",
+        "created_at": "2023-09-15T11:11:40Z",
+        "modified_at": "2023-09-15T11:11:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FD293EBE-B64C-4BE1-AC85-74745E5E4701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.522450134167935,
+          42.9235715791985
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "6",
+        "original_name": "Cestino 6",
+        "amenity": "waste_basket",
+        "short_id": "U89E70",
+        "address": "Via Padre Giustino Senni 3\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "75EE7632-AC35-4034-96AA-967671738A2F.jpg",
+        "created_at": "2023-09-15T11:13:54Z",
+        "modified_at": "2023-09-15T11:13:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02EB1BCB-4856-46EC-8024-72CB1BB90379",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52226581611719,
+          42.92360288560663
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "7",
+        "original_name": "Cestino 7",
+        "amenity": "waste_basket",
+        "short_id": "PO9F6W",
+        "address": "Piazza della Cittadella 10\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "0461880B-DB2C-480A-B2C8-1D6416FBB8C6.jpg",
+        "created_at": "2023-09-15T11:14:28Z",
+        "modified_at": "2023-09-15T11:14:29Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81A19BB3-F475-4D21-B9DA-E8DD1D19D250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.522250393415357,
+          42.92308383625295
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "8",
+        "original_name": "Cestino 8",
+        "amenity": "waste_basket",
+        "short_id": "PY6U5M",
+        "address": "Piazza della Cittadella 10\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "5928EF4E-33DB-44F8-A3ED-7F7FCEB0779E.jpg",
+        "created_at": "2023-09-15T11:15:30Z",
+        "modified_at": "2023-09-15T11:15:31Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03574832-5F46-4440-A0F4-9D12FFE51545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523234596485759,
+          42.92270363312487
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "9",
+        "original_name": "Cestino 9",
+        "amenity": "waste_basket",
+        "short_id": "84N4AE",
+        "address": "Piazza Alessandro Manzoni 32\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "E78C1DBE-427A-4852-A43E-8767F00FC1A4.jpg",
+        "created_at": "2023-09-15T11:17:17Z",
+        "modified_at": "2023-09-15T11:17:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "853322F2-A7B9-4D6E-B96F-33668C87F393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52353428453473,
+          42.922697467918006
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "10",
+        "original_name": "Cestino 10",
+        "amenity": "waste_basket",
+        "short_id": "LW2SMC",
+        "address": "Piazza Alessandro Manzoni 32\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "11A34CE8-3212-4D33-A686-9CDC05D0F2ED.jpg",
+        "created_at": "2023-09-15T11:17:53Z",
+        "modified_at": "2023-09-15T11:17:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B2E7D4C8-161C-497C-9BBF-2AC434CE87AC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52344887598182,
+          42.92298509212905
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "11",
+        "original_name": "Cestino 11",
+        "amenity": "waste_basket",
+        "short_id": "INK70B",
+        "address": "Piazza Alessandro Manzoni 15\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "BC00774F-3D16-40CF-B403-5F47B85E0DD6.jpg",
+        "created_at": "2023-09-15T11:18:54Z",
+        "modified_at": "2023-09-15T11:18:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C36684F6-DA4E-40AA-9286-967F0D60BE41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5231132177518,
+          42.92298565407108
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "12",
+        "original_name": "Cestino 12",
+        "amenity": "waste_basket",
+        "short_id": "YPMS5L",
+        "address": "Piazza Alessandro Manzoni 24\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "77BF6910-443C-4BA7-B857-8FE06A3E3022.jpg",
+        "created_at": "2023-09-15T11:19:33Z",
+        "modified_at": "2023-09-15T11:19:35Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B13FB180-6C0E-4643-805B-F73CD0796B0A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52368,
+          42.92349
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "13",
+        "original_name": "Cestino 13",
+        "amenity": "waste_basket",
+        "short_id": "4X34KQ",
+        "address": "Piazza Alessandro Manzoni 19\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "625A3155-8D4D-4EC3-92B7-9FBFD9C51CEC.jpg",
+        "created_at": "2023-09-15T11:21:05Z",
+        "modified_at": "2023-09-15T17:14:34Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F05C8BF8-5260-4CB7-B0CF-BDBD1681863F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52435,
+          42.92349
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "14",
+        "original_name": "Cestino 14",
+        "amenity": "waste_basket",
+        "short_id": "9EW51D",
+        "address": "Piazza Alessandro Manzoni 9\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "8B77FA8A-3566-4255-BC3C-9D071DB498E9.jpg",
+        "created_at": "2023-09-15T11:21:59Z",
+        "modified_at": "2023-09-15T17:14:54Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3F2BD6F6-4500-4A6C-86BC-50349659C15D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525580358991398,
+          42.92399431812056
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "15",
+        "original_name": "Cestino 15",
+        "amenity": "waste_basket",
+        "short_id": "0S5HCH",
+        "address": "Via Niccolò Copernico 22\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "DCC3CD63-FC96-49E3-BF12-A1D4611BE7A7.jpg",
+        "created_at": "2023-09-15T11:26:55Z",
+        "modified_at": "2023-09-19T12:03:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05C61C10-5657-403F-9888-CBF5FB2DFBF3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523530649294514,
+          42.92459768214812
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "16",
+        "original_name": "Cestino 16",
+        "amenity": "waste_basket",
+        "short_id": "748CT7",
+        "address": "Via San Francesco d'Assisi 75\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "4076AE3E-EEA1-4F83-9B52-9A7C1B2B2991.jpg",
+        "created_at": "2023-09-15T11:30:18Z",
+        "modified_at": "2023-09-15T11:30:20Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "684A9446-0F99-4E2D-9A08-F0877F235F6D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525234204982562,
+          42.92443261199955
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "17",
+        "original_name": "Cestino 17",
+        "amenity": "waste_basket",
+        "short_id": "RHEQY1",
+        "address": "Via Ugo Foscolo 1–13\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C68E78D1-B413-40D9-BADD-510B8477ABE3.jpg",
+        "created_at": "2023-09-15T11:33:20Z",
+        "modified_at": "2023-09-15T11:33:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4E5495A1-C63C-4977-859C-D279F6B7D349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52312,
+          42.92568
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "18",
+        "original_name": "Cestino 18",
+        "amenity": "waste_basket",
+        "short_id": "4YXY4N",
+        "address": "Via Vittorio Veneto 43A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "277AE80E-139F-490F-B2D2-A7B73B11D665.jpg",
+        "created_at": "2023-09-15T11:38:07Z",
+        "modified_at": "2023-09-15T17:10:31Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C9570CB4-7718-4ED1-A169-B05BFB8346BE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52299,
+          42.92568
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "19",
+        "original_name": "Cestino 19",
+        "amenity": "waste_basket",
+        "short_id": "Z1CPGM",
+        "address": "Via Vittorio Veneto 26\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "F4630A85-D39C-4D49-9CA4-7A191E7A3705.jpg",
+        "created_at": "2023-09-15T11:55:06Z",
+        "modified_at": "2023-09-15T17:10:46Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A7474DFA-7CB9-4167-8CED-802CAE77BB6E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520982792918206,
+          42.92341621421147
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "20",
+        "original_name": "Cestino 20",
+        "amenity": "waste_basket",
+        "short_id": "PWSRZN",
+        "address": "Piazza della Cittadella 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "931FBFBE-171F-4A00-ABD5-71D9DBF3386D.jpg",
+        "created_at": "2023-09-15T12:03:53Z",
+        "modified_at": "2023-09-15T12:03:56Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82D902C7-1602-4227-AB16-88D8D1505429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521520770849142,
+          42.92539564852961
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "21",
+        "original_name": "Cestino 21",
+        "amenity": "waste_basket",
+        "short_id": "MFIVIS",
+        "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "AA7D5F7D-7D21-4C40-9BF6-EEE9FBDA0E9B.jpg",
+        "created_at": "2023-09-15T12:19:08Z",
+        "modified_at": "2023-09-15T12:19:11Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1FA8B2AD-82F4-4D7A-ACE5-2F7160097DBC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520882847109728,
+          42.925523842221736
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "22",
+        "original_name": "Cestino 22",
+        "amenity": "waste_basket",
+        "short_id": "7XC6N9",
+        "address": "Via Giuseppe Parini 1B\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "1DCEAE85-E9A9-480B-A14B-44118829FA56.jpg",
+        "created_at": "2023-09-15T12:20:03Z",
+        "modified_at": "2023-09-15T12:20:05Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B1A23B83-99FF-4A68-BDA7-1DF56EAFF33B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520880681639955,
+          42.92552786299472
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "23",
+        "original_name": "Cestino 23",
+        "amenity": "waste_basket",
+        "short_id": "YXDLTF",
+        "address": "Via Giuseppe Parini 1B\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "342EACF9-66A3-4B7F-A0DC-5F4AB6D69FFE.jpg",
+        "created_at": "2023-09-15T12:20:16Z",
+        "modified_at": "2023-09-15T12:20:18Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7530A25F-7969-45D3-9694-90C33A236633",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52105,
+          42.92612
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "24",
+        "original_name": "Cestino 24",
+        "amenity": "waste_basket",
+        "short_id": "E14VP7",
+        "address": "Piazza della Costituzione 69\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "EF57B24A-2F86-4A2D-9114-8D1997996555.jpg",
+        "created_at": "2023-09-15T12:32:01Z",
+        "modified_at": "2023-09-15T17:09:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2F334C4B-705F-4B87-B9DD-9CA1B83EEAB1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5217,
+          42.92637
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "25",
+        "original_name": "Cestino 25",
+        "amenity": "waste_basket",
+        "short_id": "JBOLDK",
+        "address": "Via Petrarca 131\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "41922E95-5FD0-441C-B04A-0C64B9B7CFB0.jpg",
+        "created_at": "2023-09-15T12:33:09Z",
+        "modified_at": "2023-09-15T13:10:43Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66C598FA-72AB-4A0B-B414-C3814A970FF0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52208,
+          42.92658
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "26",
+        "original_name": "Cestino 26",
+        "amenity": "waste_basket",
+        "short_id": "CGFQS1",
+        "address": "Via Petrarca 108\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "56123362-350E-4070-818E-281598B37810.jpg",
+        "created_at": "2023-09-15T12:37:03Z",
+        "modified_at": "2023-09-15T13:15:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0887C392-BE89-4AB2-9C3B-A14ED53B938A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5226,
+          42.92665
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "27",
+        "original_name": "Cestino 27",
+        "amenity": "waste_basket",
+        "short_id": "Y6ON52",
+        "address": "Via Petrarca 88\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "4C00EFB9-EFDE-4C93-8263-296F1AD89D66.jpg",
+        "created_at": "2023-09-15T12:37:58Z",
+        "modified_at": "2023-09-15T13:14:25Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17BBC34F-E306-4116-A9D7-9DEE0CBB0612",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52319,
+          42.9267
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "28",
+        "original_name": "Cestino 28",
+        "amenity": "waste_basket",
+        "short_id": "IY57AW",
+        "address": "Via Petrarca 72\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "DDB3BC42-BCCD-4BC6-99E7-BB62725C2430.jpg",
+        "created_at": "2023-09-15T12:39:51Z",
+        "modified_at": "2023-09-15T13:27:01Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88FD8506-EE9D-4A73-8F27-8BB420984B36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52391,
+          42.9268
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "29",
+        "original_name": "Cestino 29",
+        "amenity": "waste_basket",
+        "short_id": "BIGBWO",
+        "address": "Via Petrarca 40\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "F33BC7A6-371B-4ED5-B7A8-D248AE404753.jpg",
+        "created_at": "2023-09-15T12:40:33Z",
+        "modified_at": "2023-09-15T13:26:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06C63337-992A-4AB0-B36D-C81D4CD35DA1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52505,
+          42.92688
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "30",
+        "original_name": "Cestino 30",
+        "amenity": "waste_basket",
+        "short_id": "3129KF",
+        "address": "Via Petrarca 16A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "18D15EFE-58E6-4F40-8955-8D8E1F5068F7.jpg",
+        "created_at": "2023-09-15T12:41:45Z",
+        "modified_at": "2023-09-15T13:16:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "313D4371-9F48-490F-A4E2-C6AD897769FC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525615573296074,
+          42.92690443578604
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "31",
+        "original_name": "Cestino 31",
+        "amenity": "waste_basket",
+        "short_id": "RQTYU1",
+        "address": "Via Petrarca 2\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "6F6C09CF-D3DB-4CC8-B539-CCA78431D251.jpg",
+        "created_at": "2023-09-15T12:42:52Z",
+        "modified_at": "2023-09-15T12:42:54Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A7DCDFDE-CBC5-4F16-9464-F4A61FA398DD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5238,
+          42.92659
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "32",
+        "original_name": "Cestino 32",
+        "amenity": "waste_basket",
+        "short_id": "9BBOJF",
+        "address": "Via Petrarca 61\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7753B516-D756-4565-AEAB-00657DA1243D.jpg",
+        "created_at": "2023-09-15T12:47:06Z",
+        "modified_at": "2023-09-15T13:28:04Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6E24E0DD-D2F8-4198-ACD9-B4C273051AD9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52319,
+          42.92652
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "33",
+        "original_name": "Cestino 33",
+        "amenity": "waste_basket",
+        "short_id": "9GS1JP",
+        "address": "Via Petrarca 85\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "71206767-350A-4B03-9011-7A3B9952A8DA.jpg",
+        "created_at": "2023-09-15T12:48:05Z",
+        "modified_at": "2023-09-15T13:27:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57F03605-7B5A-4DEF-9E4F-F3559CFE6051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52229,
+          42.92641
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "34",
+        "original_name": "Cestino 34",
+        "amenity": "waste_basket",
+        "short_id": "PXBMPX",
+        "address": "Via Petrarca 117\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "E01211DF-D0B9-4018-810B-531B2C7730E8.jpg",
+        "created_at": "2023-09-15T12:49:50Z",
+        "modified_at": "2023-09-15T13:20:47Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B84A14CA-0545-4D9D-A5DB-655353C2B6C6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521927199838407,
+          42.92563110163441
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "35",
+        "original_name": "Cestino 35",
+        "amenity": "waste_basket",
+        "short_id": "YKXMTF",
+        "address": "Via Filippo Turati 56\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "64B681A3-5621-4565-B245-AA7B1154FFA2.jpg",
+        "created_at": "2023-09-15T12:51:58Z",
+        "modified_at": "2023-09-15T12:52:00Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4B767761-326D-4586-938C-9A084573AF8B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52045,
+          42.92597
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "36",
+        "original_name": "Cestino 36",
+        "amenity": "waste_basket",
+        "short_id": "9HMWZR",
+        "address": "Via Giovanni Boccaccio 8\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "B9B1ECF2-B7BB-4060-A23A-7109EF9DB9AD.jpg",
+        "created_at": "2023-09-15T12:54:16Z",
+        "modified_at": "2023-09-15T17:11:35Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3A1B0C4E-2E8B-4579-8543-B9001C69D63A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52043,
+          42.92629
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "37",
+        "original_name": "Cestino 37",
+        "amenity": "waste_basket",
+        "short_id": "SK9WPT",
+        "address": "Piazza della Costituzione 56\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "55910796-639A-4B9B-B279-9891C3ADFF82.jpg",
+        "created_at": "2023-09-15T12:55:13Z",
+        "modified_at": "2023-09-15T17:09:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00631C81-8B0A-4E36-ADBE-AA22D51C7F24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52025,
+          42.92651
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "38",
+        "original_name": "Cestino 38",
+        "amenity": "waste_basket",
+        "short_id": "9LNDD4",
+        "address": "Piazza della Costituzione 49\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "5355A0EF-9BC3-42FD-A31F-BD167C7EF64E.jpg",
+        "created_at": "2023-09-15T12:55:56Z",
+        "modified_at": "2023-09-15T17:08:49Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F91FE945-3543-4FC4-9FB3-61538F2928DB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52005,
+          42.92686
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "39",
+        "original_name": "Cestino 39",
+        "amenity": "waste_basket",
+        "short_id": "EJKWE7",
+        "address": "Piazza della Costituzione 37\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "C093DB95-EAC8-4723-A7F0-04F9E7A4D68B.jpg",
+        "created_at": "2023-09-15T12:56:35Z",
+        "modified_at": "2023-09-15T17:06:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "315F9187-BD33-455A-8D4C-EF1310DD339E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52013,
+          42.92693
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "40",
+        "original_name": "Cestino 40",
+        "amenity": "waste_basket",
+        "short_id": "VIID0R",
+        "address": "Piazza della Costituzione 32–36\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "0238A8CB-2B8B-4F00-B13C-567E227EB754.jpg",
+        "created_at": "2023-09-15T12:57:28Z",
+        "modified_at": "2023-09-15T17:07:52Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A1183284-633B-4970-A4B8-1D88B87AC79D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520364751403855,
+          42.92679477849814
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "41",
+        "original_name": "Cestino 41",
+        "amenity": "waste_basket",
+        "short_id": "9SXOUQ",
+        "address": "Piazza della Costituzione 37–49\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "33182B37-73E1-440F-85CC-BDFA0FA90B2E.jpg",
+        "created_at": "2023-09-15T12:57:59Z",
+        "modified_at": "2023-09-15T12:58:01Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5F26BDDB-CB90-4704-8B97-12631CC08095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520603347687373,
+          42.926506827190416
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "42",
+        "original_name": "Cestino 42",
+        "amenity": "waste_basket",
+        "short_id": "N49JIX",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "08BC2302-776B-45BA-B3D4-64E730CC6F0D.jpg",
+        "created_at": "2023-09-15T12:58:36Z",
+        "modified_at": "2023-09-15T12:58:38Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EF0A5A47-218C-4355-B0CF-F45EDC136ACB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520753279696589,
+          42.9262714513755
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "43",
+        "original_name": "Cestino 43",
+        "amenity": "waste_basket",
+        "short_id": "SFJPOF",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "7A14E6A4-6A42-4F06-A98D-E060396BF906.jpg",
+        "created_at": "2023-09-15T12:59:09Z",
+        "modified_at": "2023-09-15T12:59:11Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9774E1ED-A7B7-4587-800B-38614D58DE00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521317224835046,
+          42.92645055976811
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "44",
+        "original_name": "Cestino 44",
+        "amenity": "waste_basket",
+        "short_id": "L5GN8H",
+        "address": "Piazza della Costituzione 76–80\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F82CAD11-080E-41CC-8353-BDB15B57383B.jpg",
+        "created_at": "2023-09-15T13:00:01Z",
+        "modified_at": "2023-09-15T13:00:03Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7276BF46-0F59-4D98-8303-95CB7C929B54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521087824294737,
+          42.92672522078167
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "45",
+        "original_name": "Cestino 45",
+        "amenity": "waste_basket",
+        "short_id": "CBTSJM",
+        "address": "Piazza della Costituzione 11–23\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "5D1E0694-3FC0-416D-8E6E-87F5BD267DEA.jpg",
+        "created_at": "2023-09-15T13:00:39Z",
+        "modified_at": "2023-09-15T13:00:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6CD7DC19-42CE-42F1-8F06-94DFF6806F24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52073072074281,
+          42.92714091621894
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "46",
+        "original_name": "Cestino 46",
+        "amenity": "waste_basket",
+        "short_id": "4GPPFD",
+        "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F8AA95F7-C98D-4F16-9B3E-2AD8DDB8C271.jpg",
+        "created_at": "2023-09-15T13:01:29Z",
+        "modified_at": "2023-09-15T13:01:31Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84A61968-C35E-4F35-8CDB-CE6ECB331B40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520453588468058,
+          42.927105607517205
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "47",
+        "original_name": "Cestino 47",
+        "amenity": "waste_basket",
+        "short_id": "AWQSYO",
+        "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "2DDAECA7-4756-48AD-B3E4-656072354B7E.jpg",
+        "created_at": "2023-09-15T13:02:06Z",
+        "modified_at": "2023-09-15T13:02:07Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "827B258E-CC85-47BC-AAB1-584D7C3C7361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52021506986896,
+          42.92706485326844
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "48",
+        "original_name": "Cestino 48",
+        "amenity": "waste_basket",
+        "short_id": "6R7GKZ",
+        "address": "Piazza della Costituzione 34\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "2B13C886-EA2A-47BF-A791-A5D4A37D89D6.jpg",
+        "created_at": "2023-09-15T13:04:15Z",
+        "modified_at": "2023-09-15T13:04:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A9479FD2-B8BD-4168-8E31-D7F823EBA0BA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520601256943191,
+          42.927223451708315
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "49",
+        "original_name": "Cestino 49",
+        "amenity": "waste_basket",
+        "short_id": "DKXNRW",
+        "address": "Piazza della Costituzione 25\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "12DB134C-2525-409B-AFF4-14F24E352D75.jpg",
+        "created_at": "2023-09-15T13:04:54Z",
+        "modified_at": "2023-09-15T13:04:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4A84D717-60EB-4E5A-A2DE-961E14523871",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520973132425897,
+          42.92720816482574
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "50",
+        "original_name": "Cestino 50",
+        "amenity": "waste_basket",
+        "short_id": "U0ZLDF",
+        "address": "Via Trento e Trieste 55\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "69C43BC8-D70A-4695-99D0-4F7578294C0F.jpg",
+        "created_at": "2023-09-15T13:06:11Z",
+        "modified_at": "2023-09-15T13:06:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E24151DF-53D3-4D6A-8EA2-21478AE37033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5212,
+          42.92685
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "51",
+        "original_name": "Cestino 51",
+        "amenity": "waste_basket",
+        "short_id": "4U1UG8",
+        "address": "Piazza della Costituzione 12\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "B5A8A5D3-E52D-4103-88C9-3757643028B7.jpg",
+        "created_at": "2023-09-15T13:07:30Z",
+        "modified_at": "2023-09-15T17:12:06Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "628D1315-99C2-41AB-BB9B-84C1F87D5479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52145017138898,
+          42.92678679387588
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "52",
+        "original_name": "Cestino 52",
+        "amenity": "waste_basket",
+        "short_id": "MSNLIF",
+        "address": "Piazza della Costituzione 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "B899EBA2-BED7-4AE9-8299-D83B5F1A755E.jpg",
+        "created_at": "2023-09-15T13:07:58Z",
+        "modified_at": "2023-09-15T13:07:59Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0A120435-AC6B-401A-9443-3E543D513A28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521758194182754,
+          42.92733711742803
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "53",
+        "original_name": "Cestino 53",
+        "amenity": "waste_basket",
+        "short_id": "ZOE8LI",
+        "address": "Via Filippo Turati 15\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "1AF522E8-9326-481A-AFCF-C63E8D94A7A9.jpg",
+        "created_at": "2023-09-16T10:21:04Z",
+        "modified_at": "2023-09-16T10:21:08Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0A80E24E-B63D-4AA5-A516-0E0FA1DADE18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520352230834359,
+          42.927859645824846
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "54",
+        "original_name": "Cestino 54",
+        "amenity": "waste_basket",
+        "short_id": "ZMBU2R",
+        "address": "Via Gaetano Donizetti 1–11\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "672F7A5F-2DF6-4C38-B70D-D4BEF9E4D303.jpg",
+        "created_at": "2023-09-16T10:24:55Z",
+        "modified_at": "2023-09-16T10:24:57Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89B98AC4-C36E-4FBB-99A4-CAD28D7A0A00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52072409729164,
+          42.92868965823203
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "55",
+        "original_name": "Cestino 55",
+        "amenity": "waste_basket",
+        "short_id": "BK9UQD",
+        "address": "Viale Giacomo Matteotti 35\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D50A41D0-DF90-49AE-8920-3CFE87C365AA.jpg",
+        "created_at": "2023-09-16T10:28:10Z",
+        "modified_at": "2023-09-16T10:28:12Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F0B12BBC-B56D-43A6-B405-1487656BCF65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.522851033569204,
+          42.927701098035925
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "56",
+        "original_name": "Cestino 56",
+        "amenity": "waste_basket",
+        "short_id": "TU5M2O",
+        "address": "Via Vittorio Veneto 7A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "43025F33-3C95-467E-9030-F206769C8092.jpg",
+        "created_at": "2023-09-16T10:34:45Z",
+        "modified_at": "2023-09-16T10:34:47Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E3160DB7-DCDB-4AEB-B38A-7260F1F9DB83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52405596334902,
+          42.92825710669467
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "57",
+        "original_name": "Cestino 57",
+        "amenity": "waste_basket",
+        "short_id": "GN86TT",
+        "address": "Via Emanuele Appiani 46\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "B4045024-52EA-4925-AAF0-2A9C0B588973.jpg",
+        "created_at": "2023-09-16T10:49:18Z",
+        "modified_at": "2023-09-16T10:49:20Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6AA88B79-EC4E-479B-BCE2-A85A26F1E3CC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51963325048372,
+          42.92877658517206
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "58",
+        "original_name": "Cestino 58",
+        "amenity": "waste_basket",
+        "short_id": "64FIVK",
+        "address": "Lungomare Guglielmo Marconi 5A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "08F5C81F-B873-4D1A-8599-629CB2AFA749.jpg",
+        "created_at": "2023-09-16T11:00:54Z",
+        "modified_at": "2023-09-16T11:00:56Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C679229E-880E-4889-89F0-3C8199FACD7E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518787745325422,
+          42.92710547812339
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "59",
+        "original_name": "Cestino 59",
+        "amenity": "waste_basket",
+        "short_id": "09E89C",
+        "address": "Via Gaetano Donizetti 19\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "4278C1E6-294E-4ED6-8774-E5F0B6F25F0F.jpg",
+        "created_at": "2023-09-16T11:15:02Z",
+        "modified_at": "2023-09-16T11:15:04Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7C439950-310C-408C-8527-065A64E67B0B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519286524190887,
+          42.926537378172306
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "60",
+        "original_name": "Cestino 60",
+        "amenity": "waste_basket",
+        "short_id": "WNTPHC",
+        "address": "Viale Giovanni Amendola 33\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "4D8AFF2F-756F-4FA8-A0B8-DEAE15E7C14B.jpg",
+        "created_at": "2023-09-16T11:17:56Z",
+        "modified_at": "2023-09-16T11:17:58Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7378FA83-01A3-4DEB-966E-55EFF19A0556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519293113133243,
+          42.92573701659552
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "61",
+        "original_name": "Cestino 61",
+        "amenity": "waste_basket",
+        "short_id": "NSZLS4",
+        "address": "Via Giovanni Boccaccio 9\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F9FCFB1F-816B-4604-889A-56FD2AB2A18F.jpg",
+        "created_at": "2023-09-16T11:21:49Z",
+        "modified_at": "2023-09-16T11:21:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57148759-F761-4662-A11D-998866A33C58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51919307895861,
+          42.92581954671535
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "62",
+        "original_name": "Cestino 62",
+        "amenity": "waste_basket",
+        "short_id": "G2QKQK",
+        "address": "Viale Giovanni Amendola 93\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "0B042078-8F10-4BE4-94FE-ED17A0999CBF.jpg",
+        "created_at": "2023-09-16T11:22:09Z",
+        "modified_at": "2023-09-16T11:22:11Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E4BD9615-D0E1-4541-81FF-6D2D5C71B234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518913672724317,
+          42.9259599375665
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "63",
+        "original_name": "Cestino 63",
+        "amenity": "waste_basket",
+        "short_id": "CWFN09",
+        "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "E9568686-765D-4841-A5B8-C38F0684109E.jpg",
+        "created_at": "2023-09-16T11:22:40Z",
+        "modified_at": "2023-09-16T11:22:42Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28B79610-05C5-4FB2-9B92-C953673524E4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519130590867288,
+          42.92621127691988
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "64",
+        "original_name": "Cestino 64",
+        "amenity": "waste_basket",
+        "short_id": "66ZT1K",
+        "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F926A9B1-5E6A-4CB0-9AC1-DECE8D20295C.jpg",
+        "created_at": "2023-09-16T11:23:20Z",
+        "modified_at": "2023-09-16T11:23:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0F29D557-D53B-4502-93DB-83C6A6E74478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518999594542988,
+          42.92619758792257
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "65",
+        "original_name": "Cestino 65",
+        "amenity": "waste_basket",
+        "short_id": "DX4EI2",
+        "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "3AA057B3-6A64-4839-A8A5-B913FB0FFEDA.jpg",
+        "created_at": "2023-09-16T11:23:41Z",
+        "modified_at": "2023-09-16T11:23:43Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85AE3C24-405F-4A31-A36B-75244ACE95EA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518938342258792,
+          42.9263007962851
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "66",
+        "original_name": "Cestino 66",
+        "amenity": "waste_basket",
+        "short_id": "AGRVD1",
+        "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "45192C95-D894-4439-8EE2-A6E6074719AD.jpg",
+        "created_at": "2023-09-16T11:24:00Z",
+        "modified_at": "2023-09-16T11:24:02Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FE5F125D-7712-47D2-BDE4-6977F5D358CC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518817267730842,
+          42.92619491490117
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "67",
+        "original_name": "Cestino 67",
+        "amenity": "waste_basket",
+        "short_id": "3HR9QT",
+        "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "1E90E97D-F133-454C-A0B9-1BFA7CA0B0BE.jpg",
+        "created_at": "2023-09-16T11:24:27Z",
+        "modified_at": "2023-09-16T11:24:29Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7E0BAA2F-9E84-47EC-AADB-B72DEEB5C16C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518990840450233,
+          42.926560594506576
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "68",
+        "original_name": "Cestino 68",
+        "amenity": "waste_basket",
+        "short_id": "XZ3YMQ",
+        "address": "Viale Giovanni Amendola 31\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "91ADCB76-8E4D-442B-84DB-CD7FBEE7A103.jpg",
+        "created_at": "2023-09-16T11:25:36Z",
+        "modified_at": "2023-09-16T11:25:38Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B4C99FBD-4231-43AC-B259-13B8F9C5F9DC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518383755141768,
+          42.92728087004544
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "69",
+        "original_name": "Cestino 69",
+        "amenity": "waste_basket",
+        "short_id": "6SZ77X",
+        "address": "Viale Giovanni Amendola 12\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F3B248BD-487D-4A7A-ACE6-875C1118435B.jpg",
+        "created_at": "2023-09-16T11:26:55Z",
+        "modified_at": "2023-09-16T11:26:57Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54C891F9-CE56-4C16-8941-3E484F6AABDB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51802637024615,
+          42.927759923408594
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "70",
+        "original_name": "Cestino 70",
+        "amenity": "waste_basket",
+        "short_id": "JKYVY7",
+        "address": "Viale Giovanni Amendola 12\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "5284768C-7287-4183-86A5-E4E7CCA257C7.jpg",
+        "created_at": "2023-09-16T11:27:50Z",
+        "modified_at": "2023-09-16T11:27:52Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D7DAD31F-BD76-442B-8C20-410C9382CE54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521300058865913,
+          42.92544065010185
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "71",
+        "original_name": "Cestino 71",
+        "amenity": "waste_basket",
+        "short_id": "RYDRMR",
+        "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "3F704253-E9D2-4F2C-B68F-7E66C97AC6D8.jpg",
+        "created_at": "2023-09-16T11:38:42Z",
+        "modified_at": "2023-09-16T11:38:44Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C083A7AB-9DDC-4A7F-977B-48DA1850C89C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.521327480641354,
+          42.92543986817231
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "72",
+        "original_name": "Cestino 72",
+        "amenity": "waste_basket",
+        "short_id": "T94RR1",
+        "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "E8FF2B71-FAF3-4FA6-BD59-578377276107.jpg",
+        "created_at": "2023-09-16T11:38:53Z",
+        "modified_at": "2023-09-16T11:38:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EBA612FD-823F-46DB-831D-F654131953B9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520971276514057,
+          42.92634840952527
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "73",
+        "original_name": "Cestino 73",
+        "amenity": "waste_basket",
+        "short_id": "OYWTRO",
+        "address": "Piazza della Costituzione 66–74\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "759EC44A-A66E-47CD-BE5D-458BA8349D15.jpg",
+        "created_at": "2023-09-16T11:43:10Z",
+        "modified_at": "2023-09-16T11:43:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F517A790-1736-4399-9AF8-C0397993ACB0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520743853518136,
+          42.92635244050014
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "74",
+        "original_name": "Cestino 74",
+        "amenity": "waste_basket",
+        "short_id": "CUSL1F",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "48132D49-6A94-4467-8A4C-9FE34FCCB45E.jpg",
+        "created_at": "2023-09-16T11:43:34Z",
+        "modified_at": "2023-09-16T11:43:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7416F26D-9653-4292-BB70-29F888F5DC23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5208443614658,
+          42.92655856352846
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "75",
+        "original_name": "Cestino 75",
+        "amenity": "waste_basket",
+        "short_id": "IQJ1P7",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "4F1D4749-0030-4D20-BF9C-5868911F3132.jpg",
+        "created_at": "2023-09-16T11:44:03Z",
+        "modified_at": "2023-09-16T11:44:05Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0032CD82-22C0-4911-A81A-E119F1ECEFCF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520702192018401,
+          42.92659769784614
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "76",
+        "original_name": "Cestino 76",
+        "amenity": "waste_basket",
+        "short_id": "3MSW2M",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C9E548B2-52FA-458A-81AD-A3811C2E638F.jpg",
+        "created_at": "2023-09-16T11:44:21Z",
+        "modified_at": "2023-09-16T11:44:23Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E65C2173-A8EE-4340-BC14-FCCD47134E2D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520622004833811,
+          42.92662385708467
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "77",
+        "original_name": "Cestino 77",
+        "amenity": "waste_basket",
+        "short_id": "CLJB37",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "54EAC7CD-AE6F-4C12-A602-30854EA1C014.jpg",
+        "created_at": "2023-09-16T11:44:34Z",
+        "modified_at": "2023-09-16T11:44:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34AAACE9-5A03-43D1-A621-B931BED32867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520538587440505,
+          42.92661808464014
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "78",
+        "original_name": "Cestino 78",
+        "amenity": "waste_basket",
+        "short_id": "HQVVA2",
+        "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C52E4CD8-8D99-4460-9F17-787D100ABF53.jpg",
+        "created_at": "2023-09-16T11:44:49Z",
+        "modified_at": "2023-09-16T11:44:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "392DC91A-9A6F-437C-834A-4E999CCDE37A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520559720566048,
+          42.92678633572571
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "79",
+        "original_name": "Cestino 79",
+        "amenity": "waste_basket",
+        "short_id": "YD4WAP",
+        "address": "Piazza della Costituzione 37–49\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "6C6B52BD-E9E9-434A-B6F0-DC4F01ED851D.jpg",
+        "created_at": "2023-09-16T11:45:12Z",
+        "modified_at": "2023-09-16T11:45:14Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "988B7EE2-F52C-4F92-B4AF-19C19FE4B4DF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520431244660292,
+          42.92693165763047
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "80",
+        "original_name": "Cestino 80",
+        "amenity": "waste_basket",
+        "short_id": "DV49QN",
+        "address": "Piazza della Costituzione 32–36\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "DD860F83-CB26-4CFA-A70B-86C56100E484.jpg",
+        "created_at": "2023-09-16T11:45:35Z",
+        "modified_at": "2023-09-16T11:45:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96ABA11B-EDCB-4D41-8D30-E8030FDD60B3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520596502729495,
+          42.927021334200376
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "81",
+        "original_name": "Cestino 81",
+        "amenity": "waste_basket",
+        "short_id": "ODIG0K",
+        "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "E459CA3D-294A-4559-8615-2C2C35D87CE0.jpg",
+        "created_at": "2023-09-16T11:45:56Z",
+        "modified_at": "2023-09-16T11:45:58Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17325404-ACB9-4AEE-8CB5-325313016D23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520689824770733,
+          42.92691102933448
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "82",
+        "original_name": "Cestino 82",
+        "amenity": "waste_basket",
+        "short_id": "QG3YCA",
+        "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "0CD157F7-7E4D-412D-813F-4656533C5B97.jpg",
+        "created_at": "2023-09-16T11:46:14Z",
+        "modified_at": "2023-09-16T11:46:16Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AD4B149B-727A-4D0E-962A-79568E24B62A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520797937382708,
+          42.926801293947015
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "83",
+        "original_name": "Cestino 83",
+        "amenity": "waste_basket",
+        "short_id": "E8ZHGN",
+        "address": "Piazza della Costituzione 11–23\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "22B90AA6-9346-4977-BC56-652F3C65DF50.jpg",
+        "created_at": "2023-09-16T11:46:34Z",
+        "modified_at": "2023-09-16T11:46:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1E1CACB0-1970-461C-9E62-DA0895FB7271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.520930013403552,
+          42.92681993434116
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "84",
+        "original_name": "Cestino 84",
+        "amenity": "waste_basket",
+        "short_id": "TMR733",
+        "address": "Piazza della Costituzione 11–23\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "AE848292-F3A0-4427-9F89-E00AA823CF28.jpg",
+        "created_at": "2023-09-16T11:46:58Z",
+        "modified_at": "2023-09-16T11:47:00Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58B112E0-9E71-497A-A909-A55CF0F9090B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52344248152973,
+          42.92750846537681
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "85",
+        "original_name": "Cestino 85",
+        "amenity": "waste_basket",
+        "short_id": "RU463Q",
+        "address": "Via Trento e Trieste 27\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "4CBFDE92-177D-408E-A579-7A0DE43F13F3.jpg",
+        "created_at": "2023-09-16T11:54:51Z",
+        "modified_at": "2023-09-16T11:54:53Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EBE62463-B557-4E52-9995-1D8BE1307D30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52999,
+          42.92753
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "86",
+        "original_name": "Cestino 86",
+        "amenity": "waste_basket",
+        "short_id": "E7FJ61",
+        "address": "Corso Italia 181\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "4DC7EAFD-C2BC-4C46-9102-214C31BF2002.jpg",
+        "created_at": "2023-09-18T11:39:36Z",
+        "modified_at": "2023-09-18T13:10:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FD4FACD1-2913-4C6E-BF29-A1F4C6D077FB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52979,
+          42.92715
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "87",
+        "original_name": "Cestino 87",
+        "amenity": "waste_basket",
+        "short_id": "G141A8",
+        "address": "Corso Italia 163D\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "93A6C12F-034A-439C-A2AF-ACA6DAB975A3.jpg",
+        "created_at": "2023-09-18T11:40:21Z",
+        "modified_at": "2023-09-18T13:11:19Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CE974B3A-A31F-4896-84C1-B3E8B118907D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52968,
+          42.92698
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "88",
+        "original_name": "Cestino 88",
+        "amenity": "waste_basket",
+        "short_id": "G9DFO4",
+        "address": "Corso Italia 163\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "C8020F07-27FE-409E-8BBE-2A269196BDBF.jpg",
+        "created_at": "2023-09-18T11:40:44Z",
+        "modified_at": "2023-09-18T13:11:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0EA6A0F2-1F70-412A-B1FE-FDF82A22E89C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52958,
+          42.92677
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "89",
+        "original_name": "Cestino 89",
+        "amenity": "waste_basket",
+        "short_id": "T6NSG2",
+        "address": "Corso Italia 151\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "F53AEC42-5EBA-4109-B2BF-BF17B88BECB3.jpg",
+        "created_at": "2023-09-18T11:41:15Z",
+        "modified_at": "2023-09-18T13:12:20Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4FF037D0-6CDB-4772-BA6F-C2BE074F1F1B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529173089838487,
+          42.927391849940925
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "90",
+        "original_name": "Cestino 90",
+        "amenity": "waste_basket",
+        "short_id": "6XK167",
+        "address": "Via Torino 9\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "16AFFE04-B76F-4F0E-9FAD-0CCD1F6E91D7.jpg",
+        "created_at": "2023-09-18T11:48:55Z",
+        "modified_at": "2023-09-18T11:48:57Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C379F1FD-98D6-40AD-AD73-DD934AE4B423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529204886493629,
+          42.927407000561246
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "91",
+        "original_name": "Cestino 91",
+        "amenity": "waste_basket",
+        "short_id": "XAYENZ",
+        "address": "Via Torino 16\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "9062DBED-1B1E-4C52-A8EA-ED67D36E1E07.jpg",
+        "created_at": "2023-09-18T11:49:03Z",
+        "modified_at": "2023-09-18T11:49:05Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76892E19-1873-4A0F-9AA5-1A9C49C3147B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.528468275740869,
+          42.92616524970846
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "92",
+        "original_name": "Cestino 92",
+        "amenity": "waste_basket",
+        "short_id": "B7H1AG",
+        "address": "Via Renato Fucini 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "85C21E71-79F2-4D50-88FC-4C3E7BC2F2BF.jpg",
+        "created_at": "2023-09-18T11:51:17Z",
+        "modified_at": "2023-09-18T11:51:19Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B941A8EA-107B-4926-8FF8-B0C7DF6DECB6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527159450071581,
+          42.92872005395068
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "93",
+        "original_name": "Cestino 93",
+        "amenity": "waste_basket",
+        "short_id": "J6F026",
+        "address": "Via Piave 17\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C0556762-9A8A-4349-B1DC-8D484A204831.jpg",
+        "created_at": "2023-09-18T12:00:59Z",
+        "modified_at": "2023-09-18T12:01:01Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02A93D4B-4A74-44A0-8FD6-1EC3F07CC0F8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526547622372949,
+          42.92674384028081
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "94",
+        "original_name": "Cestino 94",
+        "amenity": "waste_basket",
+        "short_id": "2LABTW",
+        "address": "Via Renato Fucini 22\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "4A85D6E9-E204-4B88-9187-A5F75DD63284.jpg",
+        "created_at": "2023-09-18T12:09:04Z",
+        "modified_at": "2023-09-18T12:09:06Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3CF1A6A4-A31F-4F85-A8BE-43B30F7D06FD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52841,
+          42.92608
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "95",
+        "original_name": "Cestino 95",
+        "amenity": "waste_basket",
+        "short_id": "VJBS1X",
+        "address": "Via Renato Fucini 13\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "31DCC2CE-39F8-4AC8-9178-DBA36F990A7E.jpg",
+        "created_at": "2023-09-18T12:12:10Z",
+        "modified_at": "2023-09-18T13:17:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F845FF36-D176-4E0F-99C4-C2D81CCFBE58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52801,
+          42.9262
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "96",
+        "original_name": "Cestino 96",
+        "amenity": "waste_basket",
+        "short_id": "X8UC9U",
+        "address": "Via Renato Fucini 21\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "506034E5-A6CC-442D-BC6A-8F2BF49CCFAC.jpg",
+        "created_at": "2023-09-18T12:12:44Z",
+        "modified_at": "2023-09-18T13:19:12Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AE0F0CD3-670E-4E41-B8A4-B82D83937268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52754,
+          42.92633
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "97",
+        "original_name": "Cestino 97",
+        "amenity": "waste_basket",
+        "short_id": "U3FS6R",
+        "address": "Via Renato Fucini 23D\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7BCBBC6B-F13F-486F-8831-9732F9F532D6.jpg",
+        "created_at": "2023-09-18T12:13:29Z",
+        "modified_at": "2023-09-18T13:19:47Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C075C5A8-974E-43FE-8257-1F533DD8C87C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52633,
+          42.92669
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "98",
+        "original_name": "Cestino 98",
+        "amenity": "waste_basket",
+        "short_id": "HM20G5",
+        "address": "Via Renato Fucini 37\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "366E0820-4C76-450F-B1F4-AB9E2C4C278F.jpg",
+        "created_at": "2023-09-18T12:15:06Z",
+        "modified_at": "2023-09-18T13:20:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E75A6D2A-89F9-49C0-83F6-9454B31CC715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525937767809866,
+          42.9268618184926
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "99",
+        "original_name": "Cestino 99",
+        "amenity": "waste_basket",
+        "short_id": "9KDNDZ",
+        "address": "Via Renato Fucini 41–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A94EB901-299C-49C9-A5C0-155308334699.jpg",
+        "created_at": "2023-09-18T12:15:39Z",
+        "modified_at": "2023-09-18T12:15:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "126CC70A-6A6C-4E24-A0B2-C83352918F14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525808365055642,
+          42.92672752386363
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "100",
+        "original_name": "Cestino 100",
+        "amenity": "waste_basket",
+        "short_id": "2Y9KUI",
+        "address": "Via Renato Fucini 47\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "ABEA1F84-3143-4799-82A1-13DFA7162EF4.jpg",
+        "created_at": "2023-09-18T12:16:02Z",
+        "modified_at": "2023-09-18T12:16:04Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B1A12E64-939E-401F-9A20-C796D3713432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52592,
+          42.92601
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "101",
+        "original_name": "Cestino 101",
+        "amenity": "waste_basket",
+        "short_id": "CMBXHI",
+        "address": "Viale della Repubblica 12\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "F78209E8-6B66-4019-A061-F13C0C8EFE21.jpg",
+        "created_at": "2023-09-18T12:17:08Z",
+        "modified_at": "2023-09-18T13:48:02Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "410D2A3C-7DA0-452D-9C33-B9A15999086C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52606,
+          42.92562
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "102",
+        "original_name": "Cestino 102",
+        "amenity": "waste_basket",
+        "short_id": "899NHH",
+        "address": "Via Cesare Lombroso 70\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "246E6D34-9587-4DB0-A09F-0B59F9E4C9E7.jpg",
+        "created_at": "2023-09-18T12:17:57Z",
+        "modified_at": "2023-09-18T13:48:24Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C6A0238E-7BE0-4E17-AEB7-7B76147B920F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52691,
+          42.92617
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "103",
+        "original_name": "Cestino 103",
+        "amenity": "waste_basket",
+        "short_id": "PGN8RW",
+        "address": "Via Alessandro Volta 26A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "144B80D3-7F3C-4114-AA9B-286ACD83B443.jpg",
+        "created_at": "2023-09-18T12:20:22Z",
+        "modified_at": "2023-09-18T14:11:34Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "971CDE36-0EF5-49B2-AA6E-883C645E7BD2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52667,
+          42.92575
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "104",
+        "original_name": "Cestino 104",
+        "amenity": "waste_basket",
+        "short_id": "587NI8",
+        "address": "Via Alessandro Volta 12\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7EAF436D-EBA4-4F7F-89BB-F4301DED5502.jpg",
+        "created_at": "2023-09-18T12:21:12Z",
+        "modified_at": "2023-09-18T14:11:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C14402D1-CA59-438A-8251-29ED3B999456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5269,
+          42.92536
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "105",
+        "original_name": "Cestino 105",
+        "amenity": "waste_basket",
+        "short_id": "QOVETO",
+        "address": "Via Cesare Lombroso 50\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "BDB9D5E5-9BE1-434D-B7BC-3525E7998768.jpg",
+        "created_at": "2023-09-18T12:22:01Z",
+        "modified_at": "2023-09-18T13:49:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9AF255A0-FE5C-446E-A647-36F79493B39F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527364140062447,
+          42.92527037397885
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "106",
+        "original_name": "Cestino 106",
+        "amenity": "waste_basket",
+        "short_id": "CJ91V6",
+        "address": "Via Generale Tellini 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "917C629E-B730-47F8-9931-0EE4D5D2EAC2.jpg",
+        "created_at": "2023-09-18T12:25:32Z",
+        "modified_at": "2023-09-18T12:25:34Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4A54ADD7-3707-4F08-8DC1-47F7D00C9806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.528525975984149,
+          42.92501858146279
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "107",
+        "original_name": "Cestino 107",
+        "amenity": "waste_basket",
+        "short_id": "Z9RMWU",
+        "address": "Corso Italia 65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "5FD2C943-7480-48B8-830C-58DDDC5CEC14.jpg",
+        "created_at": "2023-09-18T12:29:49Z",
+        "modified_at": "2023-09-18T12:29:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46E585B6-07AD-40B4-8A50-A3A0CB68FE6A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5288,
+          42.92554
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "108",
+        "original_name": "Cestino 108",
+        "amenity": "waste_basket",
+        "short_id": "K5NMT8",
+        "address": "Corso Italia 97\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "8CDC3FB5-B976-4EC7-9CBD-98BC80ACDE98.jpg",
+        "created_at": "2023-09-18T12:31:43Z",
+        "modified_at": "2023-09-18T13:08:01Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F59CD36C-6D8B-47CA-B892-F485C1C1E3AE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52899,
+          42.92577
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "109",
+        "original_name": "Cestino 109",
+        "amenity": "waste_basket",
+        "short_id": "8Z7IWP",
+        "address": "Corso Italia 107\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "66FFE1B3-4477-4ACF-9099-775D62BD53E1.jpg",
+        "created_at": "2023-09-18T12:32:25Z",
+        "modified_at": "2023-09-18T13:08:18Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D5A3D536-FC0D-47B0-B922-7E3930AB34CF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52906,
+          42.92573
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "110",
+        "original_name": "Cestino 110",
+        "amenity": "waste_basket",
+        "short_id": "VKR2DO",
+        "address": "Corso Italia 78\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "4E86D1D2-82E3-4BFC-A852-8708B35A04A2.jpg",
+        "created_at": "2023-09-18T12:32:41Z",
+        "modified_at": "2023-09-18T13:08:33Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32B5409C-B762-4E96-9CDC-76AF059A67F3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52883,
+          42.92537
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "111",
+        "original_name": "Cestino 111",
+        "amenity": "waste_basket",
+        "short_id": "UAZL53",
+        "address": "Corso Italia 52\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "5AA543C0-01D1-40F0-A2E3-15FE03463A00.jpg",
+        "created_at": "2023-09-18T12:33:31Z",
+        "modified_at": "2023-09-18T13:07:39Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "057FC071-C722-44E3-948E-216BF31A7495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52873,
+          42.92517
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "112",
+        "original_name": "Cestino 112",
+        "amenity": "waste_basket",
+        "short_id": "V5AWSG",
+        "address": "Corso Italia 46\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "0E201CEE-281D-4A63-8F5D-BD6E6D7052EA.jpg",
+        "created_at": "2023-09-18T12:34:04Z",
+        "modified_at": "2023-09-18T13:06:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7BE9AB30-44AD-40FF-A4D9-139E37C3AF9C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52966,
+          42.92674
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "113",
+        "original_name": "Cestino 113",
+        "amenity": "waste_basket",
+        "short_id": "PTLO6D",
+        "address": "Corso Italia 134\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "20128D85-84DF-488A-8BBA-6AB4C4D49E0B.jpg",
+        "created_at": "2023-09-18T12:37:04Z",
+        "modified_at": "2023-09-18T13:12:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E6DF51CE-D4B9-4156-B215-3304579954C5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52983,
+          42.927
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "114",
+        "original_name": "Cestino 114",
+        "amenity": "waste_basket",
+        "short_id": "H3A2AP",
+        "address": "Via Antonio da Piombino 2\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "DC55037D-28BC-4AE1-8555-A0A0FEEBD94B.jpg",
+        "created_at": "2023-09-18T12:37:39Z",
+        "modified_at": "2023-09-18T13:11:53Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B04EEEEC-F706-497D-9CC5-B962618A94AD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53024,
+          42.92773
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "115",
+        "original_name": "Cestino 115",
+        "amenity": "waste_basket",
+        "short_id": "C6D4KV",
+        "address": "Corso Italia 180\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "0E5ECB8C-C765-41A3-A0B2-05BF7797CC3A.jpg",
+        "created_at": "2023-09-18T12:41:57Z",
+        "modified_at": "2023-09-18T13:10:23Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "242FD12F-3ADF-4C99-8160-290E83637C5D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.528652658695847,
+          42.925107479135434
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "116",
+        "original_name": "Cestino 116",
+        "amenity": "waste_basket",
+        "short_id": "Y7WDAW",
+        "address": "Corso Italia 71\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F7C42881-F3B5-4582-AFD2-3ED3E1C05F7F.jpg",
+        "created_at": "2023-09-19T05:42:38Z",
+        "modified_at": "2023-09-19T12:42:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1741E12C-CAD0-46EA-B075-34C419295D93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52576,
+          42.92644
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "117",
+        "original_name": "Cestino 117",
+        "amenity": "waste_basket",
+        "short_id": "XIRDZM",
+        "address": "Viale della Repubblica 23A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7FBF1A96-BD23-44A1-A767-A9B30BD6B9CE.jpg",
+        "created_at": "2023-09-19T11:31:32Z",
+        "modified_at": "2023-09-19T12:09:33Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DE5F18FC-B2AE-4039-B306-9A317109CC8C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5258,
+          42.92617
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "118",
+        "original_name": "Cestino 118",
+        "amenity": "waste_basket",
+        "short_id": "1S0KGI",
+        "address": "Viale della Repubblica 21D\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "44A0B956-B80F-459C-932E-B0A1373EFB4E.jpg",
+        "created_at": "2023-09-19T11:32:12Z",
+        "modified_at": "2023-09-19T12:08:40Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0C89906B-2807-4BD1-A2F1-A82071BEA160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52587,
+          42.92575
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "119",
+        "original_name": "Cestino 119",
+        "amenity": "waste_basket",
+        "short_id": "UKOGCG",
+        "address": "Viale della Repubblica 19\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "C7FDD27C-F977-4540-9197-D95A071C8E7C.jpg",
+        "created_at": "2023-09-19T11:32:57Z",
+        "modified_at": "2023-09-19T12:07:34Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8A4DE806-7F78-4B87-88E8-CA581C8BC007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525978328669932,
+          42.925395020323734
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "120",
+        "original_name": "Cestino 120",
+        "amenity": "waste_basket",
+        "short_id": "CJSWXA",
+        "address": "Viale della Repubblica 2\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "49012B07-4CDC-455E-9AF9-CD6CB2D8A2FE.jpg",
+        "created_at": "2023-09-19T11:33:37Z",
+        "modified_at": "2023-09-19T12:06:32Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "654602A3-8D87-4C8F-B7E7-3EB0A8C2FFA4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525749837989476,
+          42.92458801068638
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "121",
+        "original_name": "Cestino 121",
+        "amenity": "waste_basket",
+        "short_id": "HVKPW5",
+        "address": "Via Niccolò Copernico 14A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "EF178B96-8265-4DE2-A9A5-ED2E45708007.jpg",
+        "created_at": "2023-09-19T11:34:54Z",
+        "modified_at": "2023-09-19T12:05:14Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4D0F3C22-44FB-4510-89DB-EF10D24E256F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525929043079284,
+          42.92444065682862
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "122",
+        "original_name": "Cestino 122",
+        "amenity": "waste_basket",
+        "short_id": "D6HDFD",
+        "address": "Via Niccolò Copernico 25\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "2129C8D2-267F-45C7-9D9C-4C37D72BF8DA.jpg",
+        "created_at": "2023-09-19T11:38:25Z",
+        "modified_at": "2023-09-19T12:04:43Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7C229700-90AC-4FBC-9073-27E6E9EBD2B9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52596,
+          42.92492
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "123",
+        "original_name": "Cestino 123",
+        "amenity": "waste_basket",
+        "short_id": "9RKXNE",
+        "address": "Via Niccolò Copernico 9\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "38A61A10-10F6-4F58-9FE0-B3F144497575.jpg",
+        "created_at": "2023-09-19T11:39:18Z",
+        "modified_at": "2023-09-19T12:13:04Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62BD19F1-4E9E-4728-B0A3-2A292A45E11B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5262,
+          42.92523
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "124",
+        "original_name": "Cestino 124",
+        "amenity": "waste_basket",
+        "short_id": "WS8GVF",
+        "address": "Via Galileo Galilei 47\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "486945C1-AD46-4BE5-BB3E-E24EDE717982.jpg",
+        "created_at": "2023-09-19T11:40:45Z",
+        "modified_at": "2023-09-19T12:14:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0BDAC5BA-787D-48C4-B85D-0071E57DB493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52702,
+          42.92478
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "125",
+        "original_name": "Cestino 125",
+        "amenity": "waste_basket",
+        "short_id": "PBX0X5",
+        "address": "Via Galileo Galilei 21\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "2417C9CD-236D-409D-BD83-7C3767118E1F.jpg",
+        "created_at": "2023-09-19T11:41:54Z",
+        "modified_at": "2023-09-19T12:16:16Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4F183C01-4147-4386-BD05-8D172D6DA0BE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5274,
+          42.92425
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "126",
+        "original_name": "Cestino 126",
+        "amenity": "waste_basket",
+        "short_id": "T0OA3B",
+        "address": "Via Galileo Galilei 1\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "F5DAF170-BEF4-409F-A8E0-E89A856D564B.jpg",
+        "created_at": "2023-09-19T11:45:56Z",
+        "modified_at": "2023-09-19T12:18:00Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73BE36DF-9ADA-42A5-BDC3-24F05C8C5D21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5260384491741,
+          42.923570444661905
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "127",
+        "original_name": "Cestino 127",
+        "amenity": "waste_basket",
+        "short_id": "I9EVB7",
+        "address": "Via Cesare Battisti 12\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "71E3D951-E5AB-4AD4-99F7-69E640916E48.jpg",
+        "created_at": "2023-09-19T11:53:08Z",
+        "modified_at": "2023-09-19T11:53:10Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5FF15FBE-6AFF-45AC-922A-D90F3AA9F198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52635133674211,
+          42.92356537595072
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "128",
+        "original_name": "Cestino 128",
+        "amenity": "waste_basket",
+        "short_id": "3SQNVO",
+        "address": "Via Leonardo da Vinci 2A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C8E96243-7DC8-4FED-A703-E0BCA100B90D.jpg",
+        "created_at": "2023-09-19T11:53:32Z",
+        "modified_at": "2023-09-19T11:53:33Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A222D554-A687-4147-B65E-7BC9DA9C52F9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527168316990021,
+          42.924270045398664
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "129",
+        "original_name": "Cestino 129",
+        "amenity": "waste_basket",
+        "short_id": "UY7425",
+        "address": "Via San Francesco d'Assisi 4\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "AE3C6989-EE22-452B-9CA1-9B148E8EDD8D.jpg",
+        "created_at": "2023-09-19T11:55:08Z",
+        "modified_at": "2023-09-19T11:55:10Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C03E9463-3268-411D-B24D-E2FFBD643B11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527183813821706,
+          42.92426563964999
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "130",
+        "original_name": "Cestino 130",
+        "amenity": "waste_basket",
+        "short_id": "KXDP32",
+        "address": "Via San Francesco d'Assisi 4\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "05A4D0CC-E332-435C-AC47-0E6E83E93E73.jpg",
+        "created_at": "2023-09-19T11:55:15Z",
+        "modified_at": "2023-09-19T11:55:16Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10E5AF00-D440-4746-995C-705ADBA62AE8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527594346535153,
+          42.92410149384906
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "131",
+        "original_name": "Cestino 131",
+        "amenity": "waste_basket",
+        "short_id": "X5UOZI",
+        "address": "Piazza Giuseppe Verdi 7\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "EF6FE759-E25A-4764-965E-8605F4CD0C0C.jpg",
+        "created_at": "2023-09-19T11:56:08Z",
+        "modified_at": "2023-09-19T11:56:09Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "712C9961-E5F2-4E53-9C72-B1AC5BEC69A0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527470533474002,
+          42.923822889411746
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "132",
+        "original_name": "Cestino 132",
+        "amenity": "waste_basket",
+        "short_id": "X8NKUZ",
+        "address": "Piazza Giuseppe Verdi 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A8B9ECE4-27BE-4685-9283-2B6799CBD86A.jpg",
+        "created_at": "2023-09-19T11:56:33Z",
+        "modified_at": "2023-09-19T11:56:35Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C59D6A23-4833-4063-BEB4-0F20FAF85709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526918891657068,
+          42.92383133345069
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "133",
+        "original_name": "Cestino 133",
+        "amenity": "waste_basket",
+        "short_id": "CW42ZG",
+        "address": "Piazza Thomas Edison 2\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A5B86A3F-1369-4A3C-BC3A-43A72B6A0E86.jpg",
+        "created_at": "2023-09-19T11:57:14Z",
+        "modified_at": "2023-09-19T11:57:15Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F9EDC056-24B4-48F4-B9EE-2A4E7254544E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526856745342887,
+          42.92362451304953
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "134",
+        "original_name": "Cestino 134",
+        "amenity": "waste_basket",
+        "short_id": "CTYIVC",
+        "address": "Via del Fosso 24–40\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D7FCE6BE-ACC5-4388-8B38-AD9F16261FBA.jpg",
+        "created_at": "2023-09-19T11:57:40Z",
+        "modified_at": "2023-09-19T11:57:41Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5118E41A-CCFD-42D6-9E6F-84E58EA06A17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527138148393316,
+          42.92372812532737
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "135",
+        "original_name": "Cestino 135",
+        "amenity": "waste_basket",
+        "short_id": "P5DWLO",
+        "address": "Via Leonardo da Vinci\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F56E528D-6D3D-447E-8CA9-C5E51971679E.jpg",
+        "created_at": "2023-09-19T11:58:07Z",
+        "modified_at": "2023-09-19T11:58:08Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06984BDE-E18F-4B2A-9143-2F900650B313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525108308410774,
+          42.92346247081474
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "136",
+        "original_name": "Cestino 136",
+        "amenity": "waste_basket",
+        "short_id": "LGLOYS",
+        "address": "Via Leonardo da Vinci 27B\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "7B03A75D-88EF-41E2-A6A5-67121D83CE8E.jpg",
+        "created_at": "2023-09-19T12:00:55Z",
+        "modified_at": "2023-09-19T12:00:56Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F1B4FD38-9E19-4025-BAAA-1CFD4CD9CA08",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52753,
+          42.92425
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "137",
+        "original_name": "Cestino 137",
+        "amenity": "waste_basket",
+        "short_id": "GPWQGT",
+        "address": "Via Galileo Galilei\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "6AADB626-2005-4485-92C8-302CD85D5381.jpg",
+        "created_at": "2023-09-19T12:19:55Z",
+        "modified_at": "2023-09-19T12:20:23Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "207C2025-0AF7-4BD7-9BB0-17969C8D3980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52649,
+          42.92516
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "138",
+        "original_name": "Cestino 138",
+        "amenity": "waste_basket",
+        "short_id": "60DN1Y",
+        "address": "Via Galileo Galilei 38\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "FEB6F178-EECC-46DA-B70A-E79824F1BC54.jpg",
+        "created_at": "2023-09-19T12:22:07Z",
+        "modified_at": "2023-09-19T12:23:57Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A798F56D-F362-40DC-A26B-D2AF449FCFB5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52636,
+          42.92544
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "139",
+        "original_name": "Cestino 139",
+        "amenity": "waste_basket",
+        "short_id": "P7UGMD",
+        "address": "Via Cesare Lombroso 65\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "BBBD60C8-A166-49F5-8F95-3AA8E7D62C92.jpg",
+        "created_at": "2023-09-19T12:23:52Z",
+        "modified_at": "2023-09-19T12:24:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2F080F39-052D-46A7-A0C5-56C0CE53FC50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52781,
+          42.92499
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "141",
+        "original_name": "Cestino 141",
+        "amenity": "waste_basket",
+        "short_id": "1MN0X3",
+        "address": "Via Cesare Lombroso 9A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "39548B42-164A-4FCB-B1E8-106C89856F54.jpg",
+        "created_at": "2023-09-19T12:26:25Z",
+        "modified_at": "2023-09-19T12:26:44Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06CBC906-F5B8-4A2A-8518-1C956284D21C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5277,
+          42.92469
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "142",
+        "original_name": "Cestino 142",
+        "amenity": "waste_basket",
+        "short_id": "DHPLJB",
+        "address": "Via Benvenuto Cellini 17\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "E07D611D-D4C8-4D95-B67C-7E7BE8D90469.jpg",
+        "created_at": "2023-09-19T12:27:14Z",
+        "modified_at": "2023-09-19T12:27:34Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A3E9ABED-DCEC-4CEF-9189-CAD90A3735E5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52824,
+          42.92488
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "143",
+        "original_name": "Cestino 143",
+        "amenity": "waste_basket",
+        "short_id": "B7KODY",
+        "address": "Via Cesare Lombroso 5\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "1FE9E715-60E7-4F78-B1BE-3AF8F0582D54.jpg",
+        "created_at": "2023-09-19T12:29:51Z",
+        "modified_at": "2023-09-19T12:30:23Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B2B2A621-34EE-4708-9313-8B4E5EB03AC6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52838,
+          42.9247
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "144",
+        "original_name": "Cestino 144",
+        "amenity": "waste_basket",
+        "short_id": "XKIR2U",
+        "address": "Corso Italia 57\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7D87F065-E3F0-49C1-8FB2-7E1346D8D3E6.jpg",
+        "created_at": "2023-09-19T12:31:18Z",
+        "modified_at": "2023-09-19T12:31:46Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A6D73E54-4658-40E9-AC44-F05314776C80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52828,
+          42.92453
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "145",
+        "original_name": "Cestino 145",
+        "amenity": "waste_basket",
+        "short_id": "55MBF3",
+        "address": "Corso Italia 51\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "0354E9E3-7861-4A46-8E78-6838FA7F2480.jpg",
+        "created_at": "2023-09-19T12:32:15Z",
+        "modified_at": "2023-09-19T12:33:19Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0E08C310-F08A-4B5B-8134-4A97DA0D15F3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52803,
+          42.92414
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "146",
+        "original_name": "Cestino 146",
+        "amenity": "waste_basket",
+        "short_id": "OE8HRS",
+        "address": "Corso Italia 21\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "79D33B11-4D43-49DA-AC94-7E34BC21122E.jpg",
+        "created_at": "2023-09-19T12:34:22Z",
+        "modified_at": "2023-09-19T12:34:40Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8550AD58-DCFF-4531-9D21-0FAFF24F001B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52787,
+          42.92385
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "147",
+        "original_name": "Cestino 147",
+        "amenity": "waste_basket",
+        "short_id": "QZ27E1",
+        "address": "Corso Italia 3\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "38D57274-7E89-497C-83C0-87698A3BEA3B.jpg",
+        "created_at": "2023-09-19T12:35:22Z",
+        "modified_at": "2023-09-19T12:35:46Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "767280F3-4369-4F42-AB9C-0581BF111884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52796,
+          42.92388
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "148",
+        "original_name": "Cestino 148",
+        "amenity": "waste_basket",
+        "short_id": "UGOKH3",
+        "address": "Corso Italia 2\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "4E28B57B-F16E-41B6-A096-955942D263AA.jpg",
+        "created_at": "2023-09-19T12:36:29Z",
+        "modified_at": "2023-09-19T12:36:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D710C6A4-7A16-465B-9B06-1C161A0FA711",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52813,
+          42.92415
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "149",
+        "original_name": "Cestino 149",
+        "amenity": "waste_basket",
+        "short_id": "EOPA4K",
+        "address": "Corso Italia 12\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7ADFC368-A4C1-4466-B823-4D0A071856CD.jpg",
+        "created_at": "2023-09-19T12:37:30Z",
+        "modified_at": "2023-09-19T12:37:48Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6AE59F01-C62D-4B34-B52D-CB0A45750719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52831,
+          42.92445
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "150",
+        "original_name": "Cestino 150",
+        "amenity": "waste_basket",
+        "short_id": "LV1KUV",
+        "address": "Corso Italia 32\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "D07C2BB3-7662-4E14-912B-F2E80DD4B314.jpg",
+        "created_at": "2023-09-19T12:38:23Z",
+        "modified_at": "2023-09-19T12:38:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8AE524B6-272E-4454-8417-9C5C10415250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52852,
+          42.92458
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "151",
+        "original_name": "Cestino 151",
+        "amenity": "waste_basket",
+        "short_id": "3ABHLN",
+        "address": "Piazza Antonio Gramsci 12A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "2343F920-C4FD-4620-A43B-D208B2C71BD5.jpg",
+        "created_at": "2023-09-19T12:39:00Z",
+        "modified_at": "2023-09-19T12:39:21Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "007BA23B-D8C3-42E9-9D16-2626800ECDA6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5287,
+          42.92463
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "152",
+        "original_name": "Cestino 152",
+        "amenity": "waste_basket",
+        "short_id": "TE8YJY",
+        "address": "Piazza Antonio Gramsci 10\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7D1E126F-28A1-42E0-89E6-EB14D72AA0EE.jpg",
+        "created_at": "2023-09-19T12:40:00Z",
+        "modified_at": "2023-09-19T12:40:16Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FCF1D185-D0AC-429B-B4B5-F860094D4395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52905,
+          42.92466
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "153",
+        "original_name": "Cestino 153",
+        "amenity": "waste_basket",
+        "short_id": "51WRY4",
+        "address": "Via Andrea Costa\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "659184BE-B43A-4F0F-A5AF-F7282B3CF337.jpg",
+        "created_at": "2023-09-19T12:41:03Z",
+        "modified_at": "2023-09-19T12:41:16Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B62E8D17-6CA1-40A9-87A6-A6AC5453842D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529873166703016,
+          42.92587690520173
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "154",
+        "original_name": "Cestino 154",
+        "amenity": "waste_basket",
+        "short_id": "5GIIR2",
+        "address": "Via Carlo Pisacane 55\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "77634960-9C09-4398-82B3-1638D5548201.jpg",
+        "created_at": "2023-09-19T12:45:32Z",
+        "modified_at": "2023-09-19T12:45:33Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8C7B151E-D109-4FCA-BD6C-36097BC6E069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531089082325114,
+          42.92697579079449
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "156",
+        "original_name": "Cestino 156",
+        "amenity": "waste_basket",
+        "short_id": "CQLMH7",
+        "address": "Via Carlo Pisacane 103\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "350201FF-DF71-4598-B33D-419C1F8FB9FA.jpg",
+        "created_at": "2023-09-19T12:49:34Z",
+        "modified_at": "2023-09-19T12:49:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1BE65695-3DB9-48E2-A29B-72E83FC271D6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531402508720353,
+          42.92729850434063
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "157",
+        "original_name": "Cestino 157",
+        "amenity": "waste_basket",
+        "short_id": "24KDVH",
+        "address": "Vicolo Rosa 1–7\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "4F6EC093-8DBD-4E07-A66F-A4ED77CE70C2.jpg",
+        "created_at": "2023-09-19T12:50:32Z",
+        "modified_at": "2023-09-19T12:50:33Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B1AF7D8C-21F8-4189-905A-F5AA5EF7AD1B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531763276131484,
+          42.92754765971985
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "158",
+        "original_name": "Cestino 158",
+        "amenity": "waste_basket",
+        "short_id": "4XDQL3",
+        "address": "Via Carlo Pisacane 114A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F52D5D17-D7AD-4E74-8550-4C7400D029F4.jpg",
+        "created_at": "2023-09-19T12:54:29Z",
+        "modified_at": "2023-09-19T12:54:30Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0528BA2A-0582-44A6-9825-75FF6676EEE6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5314,
+          42.92711
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "159",
+        "original_name": "Cestino 159",
+        "amenity": "waste_basket",
+        "short_id": "AUJZ8R",
+        "address": "Via Carlo Pisacane 100A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "30B5F3FD-C677-466A-B30C-A029F5016F3B.jpg",
+        "created_at": "2023-09-19T12:55:33Z",
+        "modified_at": "2023-09-19T12:55:50Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BB60843D-12B1-45D8-90BF-850A88EE2411",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53082,
+          42.92652
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "160",
+        "original_name": "Cestino 160",
+        "amenity": "waste_basket",
+        "short_id": "PP2A9N",
+        "address": "Via Carlo Pisacane 90\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "3D8F9710-63A5-4DD0-B664-9D4A0500F433.jpg",
+        "created_at": "2023-09-19T12:57:41Z",
+        "modified_at": "2023-09-19T12:57:57Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23EF3C3A-DDA7-49D0-909A-C59DD14017B4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52991,
+          42.92576
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "161",
+        "original_name": "Cestino 161",
+        "amenity": "waste_basket",
+        "short_id": "O9X8VZ",
+        "address": "Via Carlo Pisacane 44\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "F3421DB0-D4A3-4F98-A5EE-C9053D8AB8ED.jpg",
+        "created_at": "2023-09-19T13:00:10Z",
+        "modified_at": "2023-09-19T13:00:24Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "037011C4-3872-44BC-826A-574AC8010C55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529,
+          42.92498
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "162",
+        "original_name": "Cestino 162",
+        "amenity": "waste_basket",
+        "short_id": "I7AGK0",
+        "address": "Piazza Antonio Gramsci 2\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "2229CA9A-611B-4BD9-8F32-E2D202942270.jpg",
+        "created_at": "2023-09-19T13:02:14Z",
+        "modified_at": "2023-09-19T13:02:29Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B7EDEF41-509D-4585-8D34-5B180B383F7E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52906,
+          42.92492
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "163",
+        "original_name": "Cestino 163",
+        "amenity": "waste_basket",
+        "short_id": "UDW9WU",
+        "address": "Via Giosuè Carducci\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "582BC7EF-41E7-4A44-AC3D-F33EF73CF50A.jpg",
+        "created_at": "2023-09-19T13:02:56Z",
+        "modified_at": "2023-09-19T13:03:10Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D3A2BE09-8574-4CC1-BAF7-545F4F0E74BD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531584733124513,
+          42.92604065690059
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "164",
+        "original_name": "Cestino 164",
+        "amenity": "waste_basket",
+        "short_id": "8C7FRY",
+        "address": "Via Cristoforo Colombo 9\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "655C26AA-9E4A-41D7-B3A7-6C6CCBF374C9.jpg",
+        "created_at": "2023-09-19T13:10:23Z",
+        "modified_at": "2023-09-19T13:10:24Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7615F77E-CDD6-46A6-96D9-5D489AE30E4A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531580233173184,
+          42.926053597322806
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "165",
+        "original_name": "Cestino 165",
+        "amenity": "waste_basket",
+        "short_id": "9IO2W0",
+        "address": "Via Cristoforo Colombo 9\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "AF5ADACE-85F8-4B63-8CBD-84E1507E78F5.jpg",
+        "created_at": "2023-09-19T13:10:41Z",
+        "modified_at": "2023-09-19T13:10:43Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "F526841F-403C-4DB4-B80E-6F2FB57B7C4C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53118694206426,
+          42.9256858076691
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "166",
+        "original_name": "Cestino 166",
+        "amenity": "waste_basket",
+        "short_id": "3TOOZE",
+        "address": "Via Cristoforo Colombo 5\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "3C35CAC8-EB48-4390-BB39-59C0AD5DC7A0.jpg",
+        "created_at": "2023-09-19T13:11:52Z",
+        "modified_at": "2023-09-19T13:11:53Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6FE2582D-F248-4C07-B8C4-01BC3161F387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531177591669323,
+          42.92568557739065
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "167",
+        "original_name": "Cestino 167",
+        "amenity": "waste_basket",
+        "short_id": "TQI85A",
+        "address": "Via Cristoforo Colombo 5\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "61B3D8BE-2388-4621-8C80-13F68FBFCF82.jpg",
+        "created_at": "2023-09-19T13:12:09Z",
+        "modified_at": "2023-09-19T13:12:10Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "092EC0BC-510E-4FFF-ACDD-59E2D0F26929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530831015726259,
+          42.92534308518021
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "168",
+        "original_name": "Cestino 168",
+        "amenity": "waste_basket",
+        "short_id": "N4BKY9",
+        "address": "Via Marco Polo 15\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D281F34F-4C7E-472D-8541-3FAD5F52D048.jpg",
+        "created_at": "2023-09-19T13:16:18Z",
+        "modified_at": "2023-09-19T13:16:20Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A9A95C78-B061-47EA-9B34-7A53E175FA2A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530922608626804,
+          42.92465216523755
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "169",
+        "original_name": "Cestino 169",
+        "amenity": "waste_basket",
+        "short_id": "SZO9OY",
+        "address": "Piazza Ferruccio Niccolini 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "FD7E6242-0664-425D-A3EF-D3E40FE522A4.jpg",
+        "created_at": "2023-09-20T12:19:06Z",
+        "modified_at": "2023-09-20T12:19:08Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "751BD435-391B-47B6-9A2A-DEC58983F747",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533253985486391,
+          42.92406195406395
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "170",
+        "original_name": "Cestino 170",
+        "amenity": "waste_basket",
+        "short_id": "GMQTJS",
+        "address": "Via Emilio Salgari 8\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A178D778-B991-493A-A6FA-D8B1F5F8567D.jpg",
+        "created_at": "2023-09-20T12:23:49Z",
+        "modified_at": "2023-09-20T12:23:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "034ACC9C-D8F8-4765-B9DB-2CA118F3CD49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530573933921952,
+          42.924523503123055
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "171",
+        "original_name": "Cestino 171",
+        "amenity": "waste_basket",
+        "short_id": "EF95AS",
+        "address": "Piazza Ferruccio Niccolini 21\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "66D5EAD1-754E-46E8-BCFC-5033E22626AE.jpg",
+        "created_at": "2023-09-20T12:28:26Z",
+        "modified_at": "2023-09-20T14:56:44Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EDB88C88-1132-4640-9851-3CA5FABD681F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53166,
+          42.92367
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "172",
+        "original_name": "Cestino 172",
+        "amenity": "waste_basket",
+        "short_id": "3SI8NR",
+        "address": "Via Luigi Capuana 2–4\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "601B7972-17DC-4566-951D-5C2EC292DE0A.jpg",
+        "created_at": "2023-09-20T12:36:46Z",
+        "modified_at": "2023-09-20T12:37:19Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C29E947E-5D91-48C4-8048-CDFB659E83C7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53372654345191,
+          42.92267491448848
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "173",
+        "original_name": "Cestino 173",
+        "amenity": "waste_basket",
+        "short_id": "7MISUM",
+        "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "0E3D5C4E-7BB0-4CD2-BE97-10BDD5D62B97.jpg",
+        "created_at": "2023-09-20T12:41:43Z",
+        "modified_at": "2023-09-20T12:41:45Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6A2E3C12-1785-4A88-AF5F-4F14ABEF2251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.534462567893966,
+          42.922611457294295
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "174",
+        "original_name": "Cestino 174",
+        "amenity": "waste_basket",
+        "short_id": "9IJV2O",
+        "address": "Via Pietro Gori 49\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "2158F1D8-5403-4251-86B7-DF321CC3E3A1.jpg",
+        "created_at": "2023-09-20T12:43:20Z",
+        "modified_at": "2023-09-20T12:43:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E40F1F45-6F65-4358-8CF9-B51F7FC87C8E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.534545994100766,
+          42.92237777159957
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "175",
+        "original_name": "Cestino 175",
+        "amenity": "waste_basket",
+        "short_id": "QJS75E",
+        "address": "Via del Cimitero 5\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "154E6924-C6B2-437C-9D97-BB569682FB76.jpg",
+        "created_at": "2023-09-20T12:44:06Z",
+        "modified_at": "2023-09-20T12:44:08Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8D4D55D8-F934-4772-A1C3-0CE9F9B10C91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533872700986993,
+          42.92123706116139
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "176",
+        "original_name": "Cestino 176",
+        "amenity": "waste_basket",
+        "short_id": "UUNKMA",
+        "address": "Via del Cimitero 2\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "88204256-8040-49E0-8F52-30FC5586388C.jpg",
+        "created_at": "2023-09-20T12:46:29Z",
+        "modified_at": "2023-09-20T12:46:30Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C134857F-35DE-44E2-9D87-9592CFAF4FAE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53322991173241,
+          42.92119206900511
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "177",
+        "original_name": "Cestino 177",
+        "amenity": "waste_basket",
+        "short_id": "YRX2MX",
+        "address": "Via del Cimitero 5\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D5687033-58CE-4A29-8F2E-5C8FBD91990F.jpg",
+        "created_at": "2023-09-20T12:47:51Z",
+        "modified_at": "2023-09-20T12:47:52Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63FA14CD-0506-47D9-BCBA-DE34419F0D8C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532004828746432,
+          42.92174377410013
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "178",
+        "original_name": "Cestino 178",
+        "amenity": "waste_basket",
+        "short_id": "SN998B",
+        "address": "Via Giuseppe Pietri 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D5EE77D7-D1D8-4BE6-866A-B621785A5620.jpg",
+        "created_at": "2023-09-20T12:49:26Z",
+        "modified_at": "2023-09-20T12:49:28Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53232D7B-152A-49B6-9EA4-32856A2DD546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533114491754837,
+          42.92233045027457
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "179",
+        "original_name": "Cestino 179",
+        "amenity": "waste_basket",
+        "short_id": "VFY92W",
+        "address": "Casette Minime 25\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "8CD9EA7F-03C0-420C-B8E6-2802D4A79886.jpg",
+        "created_at": "2023-09-20T12:52:16Z",
+        "modified_at": "2023-09-20T12:52:18Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1D3DF0B1-1839-4362-9074-CCB167C9895E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532370555880739,
+          42.922967372464264
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "180",
+        "original_name": "Cestino 180",
+        "amenity": "waste_basket",
+        "short_id": "1S1BUU",
+        "address": "Via Francesco Ferrer 65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C8FBDE23-6988-40EB-B413-EDBC35AA9C3A.jpg",
+        "created_at": "2023-09-20T12:53:48Z",
+        "modified_at": "2023-09-20T12:53:49Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67B226FA-717E-46D8-A521-9DA29FC8F689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532641348784505,
+          42.92313209183949
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "181",
+        "original_name": "Cestino 181",
+        "amenity": "waste_basket",
+        "short_id": "BX1VCG",
+        "address": "Casone Maresma 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A63947D1-C215-4070-AEF4-21C8CB3165C5.jpg",
+        "created_at": "2023-09-20T12:55:36Z",
+        "modified_at": "2023-09-20T12:55:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D48465E5-C2A1-4FF6-B346-6C5BE1B36DDC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531656634403015,
+          42.922929592325964
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "182",
+        "original_name": "Cestino 182",
+        "amenity": "waste_basket",
+        "short_id": "9JIFCA",
+        "address": "Via Francesco Ferrer 65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "9FC27237-959C-4CA6-AC95-5EBC00EF6199.jpg",
+        "created_at": "2023-09-20T12:57:02Z",
+        "modified_at": "2023-09-20T12:57:04Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50F2134C-2998-48A4-A8ED-921E4F6CC013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531640895606857,
+          42.92293110578804
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "183",
+        "original_name": "Cestino 183",
+        "amenity": "waste_basket",
+        "short_id": "8BMT6Q",
+        "address": "Via Francesco Ferrer 65\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C900751D-B1BC-4701-9711-D24A6B3FA972.jpg",
+        "created_at": "2023-09-20T12:57:10Z",
+        "modified_at": "2023-09-20T12:57:11Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DF37BEEB-774D-4C86-B70D-8BA9C5D96A9A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52882,
+          42.92396
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "184",
+        "original_name": "Cestino 184",
+        "amenity": "waste_basket",
+        "short_id": "D536JF",
+        "address": "Via Andrea Costa 3A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "09CE81F6-178C-4AD4-9BBC-C0EEE9E77B29.jpg",
+        "created_at": "2023-09-20T13:02:40Z",
+        "modified_at": "2023-09-20T13:02:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A76DDB7C-F702-4FAF-922C-CAE999F1CCF0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530794045089037,
+          42.92281748988353
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "185",
+        "original_name": "Cestino 185",
+        "amenity": "waste_basket",
+        "short_id": "PWRYZB",
+        "address": "Via Bruno Giordano 53B\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "5EF5D19F-5C01-471F-89EE-60A63451C644.jpg",
+        "created_at": "2023-09-20T13:07:30Z",
+        "modified_at": "2023-09-20T13:07:31Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C6E0BFEE-34F6-4DE1-8974-9900EEBDF652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531316791692987,
+          42.92261156326628
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "186",
+        "original_name": "Cestino 186",
+        "amenity": "waste_basket",
+        "short_id": "O8WZAH",
+        "address": "Via Francesco Ferrer 70A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "3BA36AB4-D54A-4268-A6AB-ACB6C6887D47.jpg",
+        "created_at": "2023-09-20T13:08:41Z",
+        "modified_at": "2023-09-20T13:08:43Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11664CD8-0129-42ED-961E-EF3BFD23681A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531777226375876,
+          42.922423209855815
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "187",
+        "original_name": "Cestino 187",
+        "amenity": "waste_basket",
+        "short_id": "2OZAZO",
+        "address": "Via Grosseto 7H\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "2D804440-C0EA-416F-9FBF-34C36DE97706.jpg",
+        "created_at": "2023-09-20T13:10:25Z",
+        "modified_at": "2023-09-20T13:10:26Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "782E3AEC-B9DE-4B00-93C7-A099035FF5E2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531627282148602,
+          42.92250298315591
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "188",
+        "original_name": "Cestino 188",
+        "amenity": "waste_basket",
+        "short_id": "IUW33S",
+        "address": "Via Grosseto 4F\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "593446C4-3955-4483-8E11-8CD376CA698E.jpg",
+        "created_at": "2023-09-20T13:10:47Z",
+        "modified_at": "2023-09-20T13:10:48Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74CD6E86-0932-4070-B832-4495554E9B49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531535559611541,
+          42.92256403351513
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "189",
+        "original_name": "Cestino 189",
+        "amenity": "waste_basket",
+        "short_id": "K9HV9B",
+        "address": "Via Grosseto 3G\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "247B7E69-361C-42DD-9211-EFF647CE2F34.jpg",
+        "created_at": "2023-09-20T13:11:12Z",
+        "modified_at": "2023-09-20T13:11:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00A69746-FDFD-4486-915F-3DD7CDF8FC70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53134,
+          42.92189
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "190",
+        "original_name": "Cestino 190",
+        "amenity": "waste_basket",
+        "short_id": "LYX1WE",
+        "address": "Via Bruno Giordano 42–82\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "67E3927A-71FD-4416-AD54-DDA368E65372.jpg",
+        "created_at": "2023-09-20T13:18:38Z",
+        "modified_at": "2023-09-20T13:19:05Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FE57A051-70F2-4EC1-AD25-41F592D92C81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52848,
+          42.92316
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "191",
+        "original_name": "Cestino 191",
+        "amenity": "waste_basket",
+        "short_id": "EOLPER",
+        "address": "Via Bruno Giordano 4\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "C77F2158-3A88-4A47-9B08-A6B6AE8C3925.jpg",
+        "created_at": "2023-09-20T13:22:44Z",
+        "modified_at": "2023-09-20T13:22:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27549033-EACF-4C59-9A7C-D295B459F5E2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52812,
+          42.92332
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "192",
+        "original_name": "Cestino 192",
+        "amenity": "waste_basket",
+        "short_id": "LWJ2KS",
+        "address": "Via Bruno Giordano 2D\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "611BD65C-1C96-4BC4-95EC-099FEB0674CD.jpg",
+        "created_at": "2023-09-20T13:23:40Z",
+        "modified_at": "2023-09-20T13:23:52Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "570AEA4D-A1D8-4B4F-B145-A6F656955877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52782,
+          42.92357
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "193",
+        "original_name": "Cestino 193",
+        "amenity": "waste_basket",
+        "short_id": "O8YR5S",
+        "address": "Via Bruno Giordano 1\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "B59B9841-C182-48A6-B448-63658BD11999.jpg",
+        "created_at": "2023-09-20T13:24:52Z",
+        "modified_at": "2023-09-20T13:27:00Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7C959DE2-CCF4-46EA-B99F-3485DD1D7D07",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.528577799877262,
+          42.9239558331761
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "194",
+        "original_name": "Cestino 194",
+        "amenity": "waste_basket",
+        "short_id": "M5A6O3",
+        "address": "Via Francesco Ferrer 19\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "0FFB685E-569C-45BB-9811-CAE7D7734902.jpg",
+        "created_at": "2023-09-20T13:27:39Z",
+        "modified_at": "2023-09-20T13:27:40Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A1201839-2F76-4A13-B42F-DA9D686DDE84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52903,
+          42.92445
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "195",
+        "original_name": "Cestino 195",
+        "amenity": "waste_basket",
+        "short_id": "IFYIFQ",
+        "address": "Via Andrea Costa 2B\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "6803488A-83AA-4BF4-BA79-30887C08AE2E.jpg",
+        "created_at": "2023-09-20T13:29:05Z",
+        "modified_at": "2023-09-20T13:29:47Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0799C1B7-05F6-4337-96D5-3358F5390193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52912,
+          42.92445
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "196",
+        "original_name": "Cestino 196",
+        "amenity": "waste_basket",
+        "short_id": "B9QSZH",
+        "address": "Via Andrea Costa 2–8\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "CCF29B55-5E55-4ABA-934D-5DD25A9E6110.jpg",
+        "created_at": "2023-09-20T13:30:01Z",
+        "modified_at": "2023-09-20T13:30:28Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CF7181E2-90EA-4AA4-8B9E-CA2B9AE257D7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52912,
+          42.92445
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "197",
+        "original_name": "Cestino 197",
+        "amenity": "waste_basket",
+        "short_id": "TTJYEW",
+        "address": "Via Andrea Costa 2–8\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "BF994A91-6172-4E30-8BA2-07E425EAEAD0.jpg",
+        "created_at": "2023-09-20T13:30:07Z",
+        "modified_at": "2023-09-20T13:30:21Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FA991899-C86A-472D-8DB2-BB84EFD36319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532905140292558,
+          42.92693821811919
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "198",
+        "original_name": "Cestino 198",
+        "amenity": "waste_basket",
+        "short_id": "R1SOGC",
+        "address": "Via Lucca 5–9\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F556490C-BA2F-4AFB-AF09-8B9CA40A87E3.jpg",
+        "created_at": "2023-09-20T13:56:49Z",
+        "modified_at": "2023-09-20T13:56:50Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "798066AC-9E2E-48AE-98FC-E42EEB637C22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532866533860696,
+          42.926846039874825
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "199",
+        "original_name": "Cestino 199",
+        "amenity": "waste_basket",
+        "short_id": "M5BFW7",
+        "address": "Via Landi Landino 40\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "5AB7797E-A6A8-4034-8767-33A2639C3487.jpg",
+        "created_at": "2023-09-20T13:57:06Z",
+        "modified_at": "2023-09-20T13:57:08Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79F0E2D1-D87D-4E8A-B000-A07E9A065FAF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53395,
+          42.92591
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "200",
+        "original_name": "Cestino 200",
+        "amenity": "waste_basket",
+        "short_id": "XCQV54",
+        "address": "Via Flemalle 3\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "7C0DA188-D2F2-466D-B2F3-BC247F6041BD.jpg",
+        "created_at": "2023-09-20T14:00:24Z",
+        "modified_at": "2023-09-20T14:00:48Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B52C1AA9-67D8-4ED9-8C83-E46207067FE5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531820486213832,
+          42.921068114143786
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "201",
+        "original_name": "Cestino 201",
+        "amenity": "waste_basket",
+        "short_id": "BNVIYN",
+        "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "53D45593-DEDE-4BF8-98F7-BA5517ADB776.jpg",
+        "created_at": "2023-09-21T11:40:48Z",
+        "modified_at": "2023-09-21T11:40:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5430F5B5-FECF-4962-958D-7A30C6518715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.532172098718245,
+          42.921185727589965
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "202",
+        "original_name": "Cestino 202",
+        "amenity": "waste_basket",
+        "short_id": "EG485F",
+        "address": "Via Bruno Giordano 67–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "7A517C86-504F-4047-8150-27C97BD6B4B2.jpg",
+        "created_at": "2023-09-21T11:41:20Z",
+        "modified_at": "2023-09-21T11:41:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69846009-7868-4661-94C9-D0CF8E224BD6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529574063446951,
+          42.92111205948606
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "203",
+        "original_name": "Cestino 203",
+        "amenity": "waste_basket",
+        "short_id": "LJGK4W",
+        "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "87A9E076-19D2-46B4-AC8F-3833AAA4B44B.jpg",
+        "created_at": "2023-09-21T11:44:46Z",
+        "modified_at": "2023-09-21T11:44:47Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E9E31EA2-DC42-4DF8-8429-61D3426C9050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.528709143894087,
+          42.92126793576005
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "204",
+        "original_name": "Cestino 204",
+        "amenity": "waste_basket",
+        "short_id": "WQCCBI",
+        "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "CA2594BB-33A5-4145-A392-A56AD3056240.jpg",
+        "created_at": "2023-09-21T11:46:10Z",
+        "modified_at": "2023-09-21T11:46:12Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14409C78-A675-41FB-8D2E-772164B1130C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527936156285772,
+          42.92134737796505
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "205",
+        "original_name": "Cestino 205",
+        "amenity": "waste_basket",
+        "short_id": "FOL7GO",
+        "address": "Viale del Popolo 1–11\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "0420BDE9-36A5-4057-9FF2-22E0151D264F.jpg",
+        "created_at": "2023-09-21T11:47:20Z",
+        "modified_at": "2023-09-21T11:47:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66E80B56-26B1-41D4-AC07-E038BCA4E5A9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5266,
+          42.92143
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "206",
+        "original_name": "Cestino 206",
+        "amenity": "waste_basket",
+        "short_id": "3R1FMK",
+        "address": "Piazza Giovanni Bovio 2\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "FB7D74AA-F28A-4FAF-AD16-4083F8CF107B.jpg",
+        "created_at": "2023-09-21T11:48:59Z",
+        "modified_at": "2023-09-21T11:49:20Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9DBADA8B-C2D1-4756-B678-EF345CB75213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52646789543271,
+          42.92137920193212
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "207",
+        "original_name": "Cestino 207",
+        "amenity": "waste_basket",
+        "short_id": "3QUPM6",
+        "address": "Piazza Giovanni Bovio 2\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "13E76EBF-74A5-4ED3-B753-BF93FCC71413.jpg",
+        "created_at": "2023-09-21T11:49:35Z",
+        "modified_at": "2023-09-21T11:49:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8E25211C-D684-489A-BEBC-F842E1A02FC5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526177051795633,
+          42.921118063462096
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "208",
+        "original_name": "Cestino 208",
+        "amenity": "waste_basket",
+        "short_id": "0L09QH",
+        "address": "Piazza Giovanni Bovio 5\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "7E6CB7D3-A184-45AD-AA05-4068CF32151F.jpg",
+        "created_at": "2023-09-21T11:50:11Z",
+        "modified_at": "2023-09-21T11:50:12Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3221C45F-82F3-4A09-B238-E2044B816EC5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526101342131144,
+          42.92105794551484
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "209",
+        "original_name": "Cestino 209",
+        "amenity": "waste_basket",
+        "short_id": "4QTYWW",
+        "address": "Piazza Giovanni Bovio 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "8A81CAC9-C198-4E16-846F-E6283A652EBA.jpg",
+        "created_at": "2023-09-21T11:50:30Z",
+        "modified_at": "2023-09-21T11:50:31Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89FE2ABB-76FF-4AE1-B9CA-D64771CC4F58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526006080872294,
+          42.92095072387701
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "210",
+        "original_name": "Cestino 210",
+        "amenity": "waste_basket",
+        "short_id": "XD2B1P",
+        "address": "Piazza Giovanni Bovio 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "47F9BBF1-21B5-410C-8D8B-6661D67917B8.jpg",
+        "created_at": "2023-09-21T11:50:51Z",
+        "modified_at": "2023-09-21T11:50:52Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0A990ABF-3C2E-4D7D-94AF-2F3555B90566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52555538115974,
+          42.92107575529296
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "211",
+        "original_name": "Cestino 211",
+        "amenity": "waste_basket",
+        "short_id": "3IKPXI",
+        "address": "Piazza Giovanni Bovio 7\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "74A9C7CB-1A96-48D0-809E-01C8347D1FCC.jpg",
+        "created_at": "2023-09-21T11:51:41Z",
+        "modified_at": "2023-09-21T11:51:42Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "282E3AB4-82C4-41D4-91CF-4608DA36D1A6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525546273540064,
+          42.9209308925732
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "212",
+        "original_name": "Cestino 212",
+        "amenity": "waste_basket",
+        "short_id": "0P6HC2",
+        "address": "Piazza Giovanni Bovio 7\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "5C12DD68-B29D-45C1-BC31-5BDD94386570.jpg",
+        "created_at": "2023-09-21T11:51:59Z",
+        "modified_at": "2023-09-21T11:52:00Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8C6FB9E2-D131-4027-8709-69E9E03C00F7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52553498198573,
+          42.92075047435588
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "213",
+        "original_name": "Cestino 213",
+        "amenity": "waste_basket",
+        "short_id": "MMD8KU",
+        "address": "Piazza Giovanni Bovio 8\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A38A7DA9-5245-4776-9A93-A8AF71FF54DA.jpg",
+        "created_at": "2023-09-21T11:52:20Z",
+        "modified_at": "2023-09-21T11:52:21Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0DE760D9-5373-40F5-955C-949206A41639",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525554089470933,
+          42.92055812411708
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "214",
+        "original_name": "Cestino 214",
+        "amenity": "waste_basket",
+        "short_id": "DS1UQU",
+        "address": "Piazza Giovanni Bovio 8\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "98511F1A-1C50-4E5E-8B01-77E31FE02B29.jpg",
+        "created_at": "2023-09-21T11:52:43Z",
+        "modified_at": "2023-09-21T11:52:45Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3DE81679-5DED-4E9A-80D9-0A1BF7C97B76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525547697011737,
+          42.92032804770947
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "215",
+        "original_name": "Cestino 215",
+        "amenity": "waste_basket",
+        "short_id": "JR21WC",
+        "address": "57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "468CE109-2C6B-423E-B9CF-5F3BEAEBD6D7.jpg",
+        "created_at": "2023-09-21T11:53:08Z",
+        "modified_at": "2023-09-21T11:53:09Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7C1C9737-1653-4421-AF0E-91C2EB0B0E98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525620628735902,
+          42.91999386530073
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "216",
+        "original_name": "Cestino 216",
+        "amenity": "waste_basket",
+        "short_id": "G6UU1U",
+        "address": "Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "83942076-FDC3-44CB-BBB8-64A782A4B367.jpg",
+        "created_at": "2023-09-21T11:54:29Z",
+        "modified_at": "2023-09-21T11:54:30Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FC61F8C3-AF65-4203-906F-C4B844CFEED8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525710964912319,
+          42.92018317226295
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "217",
+        "original_name": "Cestino 217",
+        "amenity": "waste_basket",
+        "short_id": "P99JN4",
+        "address": "Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "9D2760D8-1863-4DEE-8BB6-8F5B50481F87.jpg",
+        "created_at": "2023-09-21T11:54:53Z",
+        "modified_at": "2023-09-21T11:54:54Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7114E2D7-3668-476C-BE36-AC393CE5BB84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525804164322132,
+          42.92053624106604
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "218",
+        "original_name": "Cestino 218",
+        "amenity": "waste_basket",
+        "short_id": "4JYVEZ",
+        "address": "Piazza Giovanni Bovio 15\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "441B55D2-1A5F-4E4E-A76B-1C20831EAA4C.jpg",
+        "created_at": "2023-09-21T11:55:29Z",
+        "modified_at": "2023-09-21T11:55:30Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B5890126-22BE-447C-8AB5-D675A05690FB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525902731840178,
+          42.9207494674417
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "219",
+        "original_name": "Cestino 219",
+        "amenity": "waste_basket",
+        "short_id": "LRVQHU",
+        "address": "Piazza Giovanni Bovio 15\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F9229244-50C0-4088-B4C3-81A14149B72F.jpg",
+        "created_at": "2023-09-21T11:55:58Z",
+        "modified_at": "2023-09-21T11:55:59Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "001F1BD8-4E44-4423-A472-A99D46A48683",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52636,
+          42.9213
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "220",
+        "original_name": "Cestino 220",
+        "amenity": "waste_basket",
+        "short_id": "U6XEQ1",
+        "address": "Piazza Giovanni Bovio 3\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "042DCC13-224D-477C-8EDD-74C6657D48E7.jpg",
+        "created_at": "2023-09-21T11:58:36Z",
+        "modified_at": "2023-09-21T11:58:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8B79E97D-F9B2-4F1F-A1F7-CA5FAFF01810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526382773166475,
+          42.92158673813832
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "221",
+        "original_name": "Cestino 221",
+        "amenity": "waste_basket",
+        "short_id": "J3GHRQ",
+        "address": "Via Giuseppe Mazzini 1A\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "EB77E12E-49E4-4EFE-A4F9-9354D6B94D80.jpg",
+        "created_at": "2023-09-21T11:59:12Z",
+        "modified_at": "2023-09-21T11:59:14Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ED100CB5-F4FD-4A1C-A847-3068C09F2FF8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52548684562137,
+          42.921198227897136
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "222",
+        "original_name": "Cestino 222",
+        "amenity": "waste_basket",
+        "short_id": "GADDSX",
+        "address": "Piazza Giovanni Bovio 7\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "7498B87C-8861-4FB9-84F4-75F8DEC91F38.jpg",
+        "created_at": "2023-09-21T12:01:11Z",
+        "modified_at": "2023-09-21T12:01:13Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C25A5129-D73F-477B-8492-DB17F589AEAF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523814337151803,
+          42.922293779050186
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "223",
+        "original_name": "Cestino 223",
+        "amenity": "waste_basket",
+        "short_id": "IGK4VT",
+        "address": "Piazzetta del Porticciolo 3\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "520ED211-2D39-40CE-B5A9-F02D8A3A0A1A.jpg",
+        "created_at": "2023-09-21T12:04:49Z",
+        "modified_at": "2023-09-21T12:04:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63906260-3970-4EC9-9D2A-A539498788CF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525510789162302,
+          42.92247418402052
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "224",
+        "original_name": "Cestino 224",
+        "amenity": "waste_basket",
+        "short_id": "EXKEY7",
+        "address": "Via Borgo alla Noce 1–99\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "AC934D52-058A-4FE3-9D49-FDA2FDA8EDA6.jpg",
+        "created_at": "2023-09-21T12:14:35Z",
+        "modified_at": "2023-09-21T12:14:37Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A14EDDE9-71DA-48D4-BD4C-27ABF2D398FA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525830612686978,
+          42.922642198001455
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "225",
+        "original_name": "Cestino 225",
+        "amenity": "waste_basket",
+        "short_id": "HGJOCP",
+        "address": "Via Borgo alla Noce 7B\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "CAF77451-2704-4681-A984-88D957C91BDD.jpg",
+        "created_at": "2023-09-21T12:15:32Z",
+        "modified_at": "2023-09-21T12:15:33Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "D222C229-DFA6-43BA-8358-4DC7BB5FC5E4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.525426738322363,
+          42.92205509261139
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "226",
+        "original_name": "Cestino 226",
+        "amenity": "waste_basket",
+        "short_id": "VB3XFS",
+        "address": "Via Giuseppe Mazzini 34–44\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "DD1CB7E1-848D-489D-BCDB-40849E642422.jpg",
+        "created_at": "2023-09-21T12:18:54Z",
+        "modified_at": "2023-09-21T12:18:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C0C2C2C7-D0B2-4328-8C32-8D0FE1CF244F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529482198593916,
+          42.92139125054269
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "227",
+        "original_name": "Cestino 227",
+        "amenity": "waste_basket",
+        "short_id": "762GVG",
+        "address": "Largo Marinai d'Italia 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "4121C4A2-4686-4367-8CAC-5A97DA25A69F.jpg",
+        "created_at": "2023-09-21T12:24:19Z",
+        "modified_at": "2023-09-21T14:07:17Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2F24F9FF-A29B-4C2F-AF4F-D9DCA3A40981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530150380394113,
+          42.92122479902921
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "228",
+        "original_name": "Cestino 228",
+        "amenity": "waste_basket",
+        "short_id": "68J38R",
+        "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "DEDB5310-4555-403B-82F8-0A265B8813B6.jpg",
+        "created_at": "2023-09-21T12:25:11Z",
+        "modified_at": "2023-09-21T12:25:12Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FFFC9F9D-BA49-4BB5-B7B7-48F179D52BE0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530283174397102,
+          42.92121836958109
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "229",
+        "original_name": "Cestino 229",
+        "amenity": "waste_basket",
+        "short_id": "2W2JLY",
+        "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "0AA91789-070D-4C9A-821D-7BAC7578532C.jpg",
+        "created_at": "2023-09-21T12:25:26Z",
+        "modified_at": "2023-09-21T12:25:27Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E1BD280A-4952-4AF0-9ED5-6A629ABEF479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.530449596115242,
+          42.92117391272198
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "230",
+        "original_name": "Cestino 230",
+        "amenity": "waste_basket",
+        "short_id": "ZRWRAI",
+        "address": "Piazzetta Sant'Anastasia 10\n57025 Piombino Tuscany\nItaly",
+        "condition": "new",
+        "image_url": "9F533DE6-83A9-4124-B6BD-3618BAEA9CA8.jpg",
+        "created_at": "2023-09-21T12:25:45Z",
+        "modified_at": "2023-09-21T12:25:46Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B3FBC62C-B5A5-4299-8C5B-B63FB0306B8C",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529583888921826,
+          42.92142203345792
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "231",
+        "original_name": "Cestino 231",
+        "amenity": "waste_basket",
+        "short_id": "CPVKZ4",
+        "address": "Viale del Popolo 23\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D42AF9C2-4385-437A-AB6B-717B47B3ED71.jpg",
+        "created_at": "2023-09-21T12:27:34Z",
+        "modified_at": "2023-09-21T12:27:35Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CCEB371E-EFEC-4207-8D41-01FD3998E125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.528515639642057,
+          42.92145431786057
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "232",
+        "original_name": "Cestino 232",
+        "amenity": "waste_basket",
+        "short_id": "2UG3X9",
+        "address": "Via del Coro 9–11\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A6FA9C34-B9B1-4063-98B6-9E99D35717EA.jpg",
+        "created_at": "2023-09-21T12:29:21Z",
+        "modified_at": "2023-09-21T12:29:22Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6852F80D-3A28-4831-A8B4-57A71AC1FFCD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52801968258859,
+          42.92148896043904
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "233",
+        "original_name": "Cestino 233",
+        "amenity": "waste_basket",
+        "short_id": "VERFYR",
+        "address": "Viale del Popolo 11\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "E641040E-D812-4757-BDEB-DB76EC9CDCD7.jpg",
+        "created_at": "2023-09-21T12:30:01Z",
+        "modified_at": "2023-09-21T12:30:02Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02E7B5C0-7B60-493C-B2E4-A6F21E2887B4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527299874679446,
+          42.921624541466585
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "234",
+        "original_name": "Cestino 234",
+        "amenity": "waste_basket",
+        "short_id": "SXOQIS",
+        "address": "Via del Prato 7\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "82607B26-55A9-428E-B4ED-28539F7E686D.jpg",
+        "created_at": "2023-09-21T12:31:37Z",
+        "modified_at": "2023-09-21T12:31:38Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "186C221B-91E7-4CDE-8EEC-4FDE6ACF8EEB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52803030216979,
+          42.92165217495262
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "235",
+        "original_name": "Cestino 235",
+        "amenity": "waste_basket",
+        "short_id": "JGR50R",
+        "address": "Via Francesco Ferruccio 45\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D83C2F84-4BD7-4E6E-B83F-411A469CDE40.jpg",
+        "created_at": "2023-09-21T12:33:59Z",
+        "modified_at": "2023-09-21T12:34:01Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90BEF0B7-2FE4-4D4F-ADE5-C033D0C134FC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527565137393077,
+          42.92231709133927
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "236",
+        "original_name": "Cestino 236",
+        "amenity": "waste_basket",
+        "short_id": "P7AK6O",
+        "address": "Piazza Don Ivo Micheletti 16\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "E0DBE4C5-F928-4851-9500-43347F96F650.jpg",
+        "created_at": "2023-09-21T12:40:48Z",
+        "modified_at": "2023-09-21T12:40:49Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1CBACA47-5F87-4256-A04D-C5A8BFCD48E0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52853,
+          42.92284
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "237",
+        "original_name": "Cestino 237",
+        "amenity": "waste_basket",
+        "short_id": "WPBY89",
+        "address": "Piazza Umberto I 1C\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "C5398DD9-B2DD-4C2A-8BE4-0ED9822DD15C.jpg",
+        "created_at": "2023-09-21T12:47:51Z",
+        "modified_at": "2023-09-21T12:48:35Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7C06A678-58E0-4585-9CD4-42F518F4283A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52734627780689,
+          42.92325383827944
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "238",
+        "original_name": "Cestino 238",
+        "amenity": "waste_basket",
+        "short_id": "5ETL7N",
+        "address": "Corso Vittorio Emanuele II 81\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "28045B47-59C0-4AAB-9600-C63F7D1055FA.jpg",
+        "created_at": "2023-09-21T12:54:13Z",
+        "modified_at": "2023-09-21T12:54:14Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "65781193-DCD4-4BB8-8A98-44990223D568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527086090995283,
+          42.922954260526346
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "239",
+        "original_name": "Cestino 239",
+        "amenity": "waste_basket",
+        "short_id": "0N0Q9H",
+        "address": "Corso Vittorio Emanuele II 67\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "36211D8D-89D4-4EDC-8CE8-85608F006FE4.jpg",
+        "created_at": "2023-09-21T12:54:57Z",
+        "modified_at": "2023-09-21T12:54:59Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FEA51F96-AC32-4268-88D8-A64C0BDBBC0D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52646247331618,
+          42.923034450329936
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "240",
+        "original_name": "Cestino 240",
+        "amenity": "waste_basket",
+        "short_id": "DQJOFV",
+        "address": "Via Giuseppe Garibaldi 24\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "20B1CE25-FD9F-483F-8E21-C0DD54C08F88.jpg",
+        "created_at": "2023-09-21T12:55:49Z",
+        "modified_at": "2023-09-21T12:55:50Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "951A1CFA-71E1-44F9-8921-E6E50F4457FE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5249,
+          42.92294
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "241",
+        "original_name": "Cestino 241",
+        "amenity": "waste_basket",
+        "short_id": "N2JMF3",
+        "address": "Via Giuseppe Garibaldi 71\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "5EA52089-5A3D-4F37-B0B0-A2C9A17C37AA.jpg",
+        "created_at": "2023-09-21T12:58:20Z",
+        "modified_at": "2023-09-21T12:58:38Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E7E2A4EA-6546-467E-9961-32A750379F95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526587718290644,
+          42.92263112905971
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "242",
+        "original_name": "Cestino 242",
+        "amenity": "waste_basket",
+        "short_id": "7Q8LIJ",
+        "address": "Via del Fossato 10\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "69241841-1703-4BBC-ABFA-401591F48C36.jpg",
+        "created_at": "2023-09-21T13:03:46Z",
+        "modified_at": "2023-09-21T13:03:53Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DE8D6335-093E-4275-8BFE-2FF1B34F28E2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5268012975434,
+          42.922070439053485
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "243",
+        "original_name": "Cestino 243",
+        "amenity": "waste_basket",
+        "short_id": "DBJHYN",
+        "address": "Corso Vittorio Emanuele II 28\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "917D99DE-6A81-4DFB-964D-8793C56F4C79.jpg",
+        "created_at": "2023-09-21T13:05:22Z",
+        "modified_at": "2023-09-21T13:05:24Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3A08142C-3776-44D5-BBA7-DABAF1F18B5E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5266,
+          42.92195
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "244",
+        "original_name": "Cestino 244",
+        "amenity": "waste_basket",
+        "short_id": "7NI1G8",
+        "address": "Corso Vittorio Emanuele II 17\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "C54E9882-B421-4FD0-B070-C5A4D4AEA16B.jpg",
+        "created_at": "2023-09-21T13:08:10Z",
+        "modified_at": "2023-09-21T13:08:39Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7476E1F7-11D1-4A57-8910-F67265D92236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52647,
+          42.92166
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "245",
+        "original_name": "Cestino 245",
+        "amenity": "waste_basket",
+        "short_id": "N8OIZ4",
+        "address": "Corso Vittorio Emanuele II 1–27\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "618F7E04-DCC7-41AB-A340-E2D49F72E61F.jpg",
+        "created_at": "2023-09-21T13:09:26Z",
+        "modified_at": "2023-09-21T13:09:40Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "102C1771-AB8D-4907-82CF-9741C1BA33D7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526792493693684,
+          42.92175308046117
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "246",
+        "original_name": "Cestino 246",
+        "amenity": "waste_basket",
+        "short_id": "R85LOU",
+        "address": "Sant'Antonio 3\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A10C3862-6837-47E2-9B43-174C0706BC5B.jpg",
+        "created_at": "2023-09-21T13:10:42Z",
+        "modified_at": "2023-09-21T13:10:44Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C5EABCF7-BC93-4AF5-8D1B-38C2E1527512",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52693387658301,
+          42.922093699042335
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "247",
+        "original_name": "Cestino 247",
+        "amenity": "waste_basket",
+        "short_id": "ZNT59M",
+        "address": "Via Francesco Ferruccio 4\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A14CA52D-1313-4EAE-A978-D88566184298.jpg",
+        "created_at": "2023-09-21T13:12:11Z",
+        "modified_at": "2023-09-21T13:12:12Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "578BFC91-C218-4592-B95A-27243CD650E4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52692512616727,
+          42.922388686851676
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "248",
+        "original_name": "Cestino 248",
+        "amenity": "waste_basket",
+        "short_id": "LG4WVC",
+        "address": "Via Venti Settembre 1–17\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "0B078B5D-298D-47FB-B74F-8DF70A5B52F5.jpg",
+        "created_at": "2023-09-21T13:12:48Z",
+        "modified_at": "2023-09-21T13:12:49Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "460A063C-4263-439A-B1DA-4CA416ABB895",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526954359770963,
+          42.92265458286897
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "249",
+        "original_name": "Cestino 249",
+        "amenity": "waste_basket",
+        "short_id": "BLC9HU",
+        "address": "Corso Vittorio Emanuele II 53\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "43227B67-FF90-41F5-BF95-3C6AF52B83EF.jpg",
+        "created_at": "2023-09-21T13:13:38Z",
+        "modified_at": "2023-09-21T13:13:39Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0312C6AB-78EE-46E6-B495-62F24562D72A",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.526524013954154,
+          42.92282958656517
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "250",
+        "original_name": "Cestino 250",
+        "amenity": "waste_basket",
+        "short_id": "4FBHZT",
+        "address": "Via Cavour 14\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "46076151-A978-46F6-A4EE-749ECAA098A7.jpg",
+        "created_at": "2023-09-21T13:15:05Z",
+        "modified_at": "2023-09-21T13:15:07Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B288310F-30E0-4C02-8024-231F026AE896",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527393941414852,
+          42.92285067502613
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "251",
+        "original_name": "Cestino 251",
+        "amenity": "waste_basket",
+        "short_id": "7E1P3X",
+        "address": "Piazzetta Santa Maria 4\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C1B6AEB0-CD04-4E06-B62F-92B6B235A4ED.jpg",
+        "created_at": "2023-09-21T13:17:52Z",
+        "modified_at": "2023-09-21T13:17:54Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3B25FC90-0FA5-4960-9FE7-E82AB0F9531E",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527652781466513,
+          42.92317578573052
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "252",
+        "original_name": "Cestino 252",
+        "amenity": "waste_basket",
+        "short_id": "IOFXHK",
+        "address": "Via dell'Arsenale 1\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "65B16984-3C75-432C-BF02-0C44105747DE.jpg",
+        "created_at": "2023-09-28T18:49:42Z",
+        "modified_at": "2023-09-29T17:50:06Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15772C9F-7946-4695-AF6A-2C6A73F361BD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52823,
+          42.92303
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "253",
+        "original_name": "Cestino 253",
+        "amenity": "waste_basket",
+        "short_id": "HAGVJE",
+        "address": "Piazza Umberto I 5A\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": null,
+        "created_at": "2023-09-29T17:50:52Z",
+        "modified_at": "2023-09-29T17:50:52Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2545C28A-C658-4BD7-9FA7-4E65D6209177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51869,
+          42.92617
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "254",
+        "original_name": "Cestino 254",
+        "amenity": "waste_basket",
+        "short_id": "MG168R",
+        "address": "Viale Giovanni Amendola 31\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": null,
+        "created_at": "2023-09-29T17:51:30Z",
+        "modified_at": "2023-10-06T16:44:51Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84F946F1-73D4-4754-857D-0F43B9474990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52553,
+          42.92809
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "255",
+        "original_name": "Cestino 255",
+        "amenity": "waste_basket",
+        "short_id": "X1RGK7",
+        "address": "Viale della Repubblica 64\n57025 Piombino Toscana\nItalia",
+        "condition": "unknown",
+        "image_url": "BDEBCA76-C821-42C5-9A82-5324983A5D83.jpg",
+        "created_at": "2023-09-29T19:26:56Z",
+        "modified_at": "2023-10-05T20:13:14Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E18A0F28-81DD-4FCB-ABE0-7A4D338F286D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533277876684938,
+          42.923945286351184
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "256",
+        "original_name": "Cestino 256",
+        "amenity": "waste_basket",
+        "short_id": "6N1A54",
+        "address": "Via Emilio Salgari 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D6D41837-8014-4066-9EC7-A8E0BD6ACC8D.jpg",
+        "created_at": "2023-10-12T16:59:41Z",
+        "modified_at": "2023-10-12T16:59:45Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "012C141E-2123-4D1B-9676-F1D70FE0F03B",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53323739209262,
+          42.92391435712848
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "257",
+        "original_name": "Cestino 257",
+        "amenity": "waste_basket",
+        "short_id": "1RU238",
+        "address": "Via Emilio Salgari 6\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A973319A-901B-4B33-8EE2-A011B73B67BA.jpg",
+        "created_at": "2023-10-12T17:00:01Z",
+        "modified_at": "2023-10-12T17:00:05Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0101666D-A6FA-4F57-9264-4BBD3EF18193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.535152712876329,
+          42.92462066006907
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "258",
+        "original_name": "Cestino 258",
+        "amenity": "waste_basket",
+        "short_id": "O3W2NE",
+        "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "F0FCD86B-CB9B-4188-8E92-079F1DDE2433.jpg",
+        "created_at": "2024-02-16T17:33:07Z",
+        "modified_at": "2024-02-16T17:33:09Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "065DDDA3-DB3A-491E-A026-89F89667C007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53517212456554,
+          42.924613784606215
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "258",
+        "original_name": "Cestino 258",
+        "amenity": "waste_basket",
+        "short_id": "JTMUHR",
+        "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "A24E7E6A-9C63-449E-8EF0-549B3D8B59B8.jpg",
+        "created_at": "2024-02-16T17:33:35Z",
+        "modified_at": "2024-02-16T17:33:36Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "599EFC97-A03B-4F66-8DCA-C0165D74C917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.536113698206702,
+          42.92459418432783
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "259",
+        "original_name": "Cestino 259",
+        "amenity": "waste_basket",
+        "short_id": "N3BSVR",
+        "address": "Viale Regina Margherita 49\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "C248CB2D-44C6-4625-AE50-B8C0895DB888.jpg",
+        "created_at": "2024-02-16T17:34:45Z",
+        "modified_at": "2024-02-16T17:34:47Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "E0D202DA-635C-4FD7-B485-6F4BC7F77556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.535053734777373,
+          42.92445115018827
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "260",
+        "original_name": "Cestino 260",
+        "amenity": "waste_basket",
+        "short_id": "YCGG14",
+        "address": "Viale Regina Margherita 72\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "D9ED75BF-8F0D-4275-91C8-D47B21617AAF.jpg",
+        "created_at": "2024-02-16T17:35:54Z",
+        "modified_at": "2024-02-16T17:35:55Z",
+        "version": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3C00F3F4-43D5-409A-AE27-1AD093CDEF69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.534920553269862,
+          42.924477954806406
+        ]
+      },
+      "properties": {
+        "name": "Cestino",
+        "ref": "261",
+        "original_name": "Cestino 261",
+        "amenity": "waste_basket",
+        "short_id": "0STKC0",
+        "address": "Viale Regina Margherita 58–66\n57025 Piombino Tuscany\nItaly",
+        "condition": "unknown",
+        "image_url": "1FF90635-A4BC-4D67-8F60-A2697ACA9C03.jpg",
+        "created_at": "2024-02-16T17:36:11Z",
+        "modified_at": "2024-02-16T17:36:12Z",
+        "version": 1
+      }
+    }
+  ]
+}
