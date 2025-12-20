@@ -1,0 +1,5600 @@
+[
+  {
+    "meta": {
+      "title": "Rear Window",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "release_year": "1954"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "01-07-2025 09:08:30"
+    },
+    "ids": {
+      "tmdb": "567",
+      "imdb": "tt0047396",
+      "simkl": "53924"
+    }
+  },
+  {
+    "meta": {
+      "title": "Blue Valentine",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+      "overview": "Dean and Cindy live a quiet life in a modest neighborhood. They appear to have the world at their feet at the outset of the relationship. However, his lack of ambition and her retreat into self-absorption cause potentially irreversible cracks in their marriage.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2010"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "10-07-2025 23:57:19"
+    },
+    "ids": {
+      "tmdb": "46705",
+      "imdb": "tt1120985",
+      "simkl": "114796"
+    }
+  },
+  {
+    "meta": {
+      "title": "Scarface",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "release_year": "1983"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "28-07-2025 12:13:52"
+    },
+    "ids": {
+      "tmdb": "111",
+      "imdb": "tt0086250",
+      "simkl": "53210"
+    }
+  },
+  {
+    "meta": {
+      "title": "Days of Heaven",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+      "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "1978"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "31-08-2025 00:59:54"
+    },
+    "ids": {
+      "tmdb": "16642",
+      "imdb": "tt0077405",
+      "simkl": "72912"
+    }
+  },
+  {
+    "meta": {
+      "title": "Vertigo",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+      "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "release_year": "1958"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "28-07-2025 01:08:12"
+    },
+    "ids": {
+      "tmdb": "426",
+      "imdb": "tt0052357",
+      "simkl": "53710"
+    }
+  },
+  {
+    "meta": {
+      "title": "A Clockwork Orange",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "genres": [
+        "Science Fiction",
+        "Crime"
+      ],
+      "release_year": "1971"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "10-08-2025 03:44:30"
+    },
+    "ids": {
+      "tmdb": "185",
+      "imdb": "tt0066921",
+      "simkl": "53340"
+    }
+  },
+  {
+    "meta": {
+      "title": "Blue Spring",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/DTZSp1CysLZCT5ZjIvsA11Prtt.jpg",
+      "overview": "Soon after being named the new leader of his high school's gang system, Kujo grows bored with the violence and hatred that surround him. He wants desperately to abandon his post… but his once-enviable position of power has a strange way of making him feel powerless.",
+      "genres": [
+        "Drama"
+      ],
+      "release_year": "2001"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "11-09-2025 11:17:31"
+    },
+    "ids": {
+      "tmdb": "33333",
+      "imdb": "tt0309291",
+      "simkl": "1634820"
+    }
+  },
+  {
+    "meta": {
+      "title": "Trainspotting",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "1996"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "24-07-2025 00:12:41"
+    },
+    "ids": {
+      "tmdb": "627",
+      "imdb": "tt0117951",
+      "simkl": "54034"
+    }
+  },
+  {
+    "meta": {
+      "title": "Fight Club",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "16-06-2023 17:56:00"
+    },
+    "ids": {
+      "tmdb": "550",
+      "imdb": "tt0137523",
+      "simkl": "53894"
+    }
+  },
+  {
+    "meta": {
+      "title": "Making 'The Shining'",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/upBsuweJjBftrkJGqVf8PHCdH0l.jpg",
+      "overview": "Directed and edited by Stanley Kubrick's daughter Vivian Kubrick, this film offers a look behind the scenes during the making of The Shining.",
+      "genres": [
+        "Documentary"
+      ],
+      "release_year": "1980"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "05-11-2023 21:52:52"
+    },
+    "ids": {
+      "tmdb": "18875",
+      "imdb": "tt0203667",
+      "simkl": "75514"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Wolf of Wall Street",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "11-03-2024 14:10:33"
+    },
+    "ids": {
+      "tmdb": "106646",
+      "imdb": "tt0993846",
+      "simkl": "199692"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Place Beyond the Pines",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "overview": "A motorcycle stunt rider considers committing a crime in order to provide for his wife and child, an act that puts him on a collision course with a cop-turned-politician.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 6,
+      "watched_at": "02-05-2023 23:37:23"
+    },
+    "ids": {
+      "tmdb": "97367",
+      "imdb": "tt1817273",
+      "simkl": "190054"
+    }
+  },
+  {
+    "meta": {
+      "title": "Moonrise Kingdom",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "overview": "Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore – and the peaceful island community is turned upside down in more ways than anyone can handle.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "02-01-2024 02:49:38"
+    },
+    "ids": {
+      "tmdb": "83666",
+      "imdb": "tt1748122",
+      "simkl": "174278"
+    }
+  },
+  {
+    "meta": {
+      "title": "Drive",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "16-04-2023 14:29:02"
+    },
+    "ids": {
+      "tmdb": "64690",
+      "imdb": "tt0780504",
+      "simkl": "143260"
+    }
+  },
+  {
+    "meta": {
+      "title": "Source Code",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+      "overview": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "09-04-2023 16:37:26"
+    },
+    "ids": {
+      "tmdb": "45612",
+      "imdb": "tt0945513",
+      "simkl": "113010"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Truman Show",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "14-10-2023 13:26:23"
+    },
+    "ids": {
+      "tmdb": "37165",
+      "imdb": "tt0120382",
+      "simkl": "98864"
+    }
+  },
+  {
+    "meta": {
+      "title": "Falling Down",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+      "overview": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "release_year": "1993"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "17-11-2024 02:25:55"
+    },
+    "ids": {
+      "tmdb": "37094",
+      "imdb": "tt0106856",
+      "simkl": "98758"
+    }
+  },
+  {
+    "meta": {
+      "title": "Inception",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "release_year": "2010"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "23-04-2023 23:03:51"
+    },
+    "ids": {
+      "tmdb": "27205",
+      "imdb": "tt1375666",
+      "simkl": "472214"
+    }
+  },
+  {
+    "meta": {
+      "title": "(500) Days of Summer",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2009"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "11-04-2023 11:41:48"
+    },
+    "ids": {
+      "tmdb": "19913",
+      "imdb": "tt1022603",
+      "simkl": "76734"
+    }
+  },
+  {
+    "meta": {
+      "title": "Paddington",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family"
+      ],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "28-12-2024 02:44:47"
+    },
+    "ids": {
+      "tmdb": "116149",
+      "imdb": "tt1109624",
+      "simkl": "210036"
+    }
+  },
+  {
+    "meta": {
+      "title": "All About Lily Chou-Chou",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pLBNmJUH9JYRCRsh349PJ22WpkS.jpg",
+      "overview": "Charts the troubled teenage years of students Yūichi Hasumi and Shūsuke Hoshino, exploring the shifting and complex power dynamics of their relationship against the backdrop of Yūichi's love for the dreamy and abstract music of pop star Lily Chou-Chou.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "2001"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "18-05-2024 01:26:27"
+    },
+    "ids": {
+      "tmdb": "16664",
+      "imdb": "tt0297721",
+      "simkl": "656004"
+    }
+  },
+  {
+    "meta": {
+      "title": "A Matter of Loaf and Death",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aCRoffkRpWRlArR7dAkxabaimLr.jpg",
+      "overview": "Wallace and Gromit open a bakery, accidentally getting tied up with a murder mystery in the process. But when Wallace falls in love, Gromit is left to solve the case by himself.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy",
+        "Mystery"
+      ],
+      "release_year": "2008"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "22-12-2024 02:45:38"
+    },
+    "ids": {
+      "tmdb": "14447",
+      "imdb": "tt1118511",
+      "simkl": "69948"
+    }
+  },
+  {
+    "meta": {
+      "title": "Friday the 13th",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+      "overview": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "release_year": "2009"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "07-03-2024 14:12:16"
+    },
+    "ids": {
+      "tmdb": "13207",
+      "imdb": "tt0758746",
+      "simkl": "68142"
+    }
+  },
+  {
+    "meta": {
+      "title": "Fallen Angels",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+      "overview": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
+      "genres": [
+        "Action",
+        "Romance",
+        "Crime"
+      ],
+      "release_year": "1995"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "05-05-2023 22:35:31"
+    },
+    "ids": {
+      "tmdb": "11220",
+      "imdb": "tt0112913",
+      "simkl": "65440"
+    }
+  },
+  {
+    "meta": {
+      "title": "Chungking Express",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "release_year": "1994"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-05-2023 11:55:08"
+    },
+    "ids": {
+      "tmdb": "11104",
+      "imdb": "tt0109424",
+      "simkl": "65226"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Crow",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+      "overview": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Thriller"
+      ],
+      "release_year": "1994"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "23-03-2024 18:03:10"
+    },
+    "ids": {
+      "tmdb": "9495",
+      "imdb": "tt0109506",
+      "simkl": "62382"
+    }
+  },
+  {
+    "meta": {
+      "title": "Event Horizon",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+      "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "release_year": "1997"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "11-10-2023 23:18:23"
+    },
+    "ids": {
+      "tmdb": "8413",
+      "imdb": "tt0119081",
+      "simkl": "61216"
+    }
+  },
+  {
+    "meta": {
+      "title": "Disturbia",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/je3sZZpcfPeiR4eIqBKbxomOw6d.jpg",
+      "overview": "Kale has a life most teenagers would envy. He spends his days endlessly playing video games, surfing the net, eating junk food and watching cable. He has complete free reign of the house, and a beautiful young hottie named Ashley has just moved in next door. There’s only one problem—he’s not allowed to leave the house. Kale’s under court-ordered house arrest for three months, and if he takes one step beyond a 100-foot perimeter of the house, his next confinement will be in a real prison.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "release_year": "2007"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "25-11-2023 03:10:38"
+    },
+    "ids": {
+      "tmdb": "8271",
+      "imdb": "tt0486822",
+      "simkl": "61056"
+    }
+  },
+  {
+    "meta": {
+      "title": "Boogie Nights",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+      "genres": [
+        "Drama"
+      ],
+      "release_year": "1997"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "14-02-2024 11:41:56"
+    },
+    "ids": {
+      "tmdb": "4995",
+      "imdb": "tt0118749",
+      "simkl": "58764"
+    }
+  },
+  {
+    "meta": {
+      "title": "Happy Death Day",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+      "overview": "Caught in a bizarre and terrifying time warp, college student Tree finds herself repeatedly reliving the day of her murder, ultimately realizing that she must identify the killer and the reason for her death before her chances of survival run out.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery"
+      ],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "12-04-2023 13:56:50"
+    },
+    "ids": {
+      "tmdb": "440021",
+      "imdb": "tt5308322",
+      "simkl": "658288"
+    }
+  },
+  {
+    "meta": {
+      "title": "South Park: The End of Obesity",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zxM1AIKBP83plf2buLR0cbGfvl2.jpg",
+      "overview": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "TV Movie"
+      ],
+      "release_year": "2024"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "27-05-2024 08:42:17"
+    },
+    "ids": {
+      "tmdb": "1290938",
+      "imdb": "tt32375562",
+      "simkl": "2466469"
+    }
+  },
+  {
+    "meta": {
+      "title": "South Park (Not Suitable for Children)",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg",
+      "overview": "After it's discovered that a teacher at South Park Elementary has an OnlyFans page, Randy is compelled to take a closer look at the seedy underbelly of the world of online influencers.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "TV Movie"
+      ],
+      "release_year": "2023"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "19-02-2024 13:23:54"
+    },
+    "ids": {
+      "tmdb": "1219926",
+      "imdb": "tt30505159",
+      "simkl": "2327431"
+    }
+  },
+  {
+    "meta": {
+      "title": "Scream VI",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+      "genres": [
+        "Horror",
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "2023"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "07-03-2024 23:35:44"
+    },
+    "ids": {
+      "tmdb": "934433",
+      "imdb": "tt17663992",
+      "simkl": "1840647"
+    }
+  },
+  {
+    "meta": {
+      "title": "Wallace & Gromit: Vengeance Most Fowl",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
+      "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "release_year": "2024"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "05-05-2025 23:46:56"
+    },
+    "ids": {
+      "tmdb": "929204",
+      "imdb": "tt17163970",
+      "simkl": "1830511"
+    }
+  },
+  {
+    "meta": {
+      "title": "X",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 5,
+      "watched_at": "20-09-2024 13:23:29"
+    },
+    "ids": {
+      "tmdb": "760104",
+      "imdb": "tt13560574",
+      "simkl": "1469246"
+    }
+  },
+  {
+    "meta": {
+      "title": "El Camino: A Breaking Bad Movie",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+      "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "08-04-2023 18:48:36"
+    },
+    "ids": {
+      "tmdb": "559969",
+      "imdb": "tt9243946",
+      "simkl": "959586"
+    }
+  },
+  {
+    "meta": {
+      "title": "Happy Death Day 2U",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+      "overview": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "12-04-2023 13:56:47"
+    },
+    "ids": {
+      "tmdb": "512196",
+      "imdb": "tt8155288",
+      "simkl": "783318"
+    }
+  },
+  {
+    "meta": {
+      "title": "Joker",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "08-04-2023 10:54:13"
+    },
+    "ids": {
+      "tmdb": "475557",
+      "imdb": "tt7286456",
+      "simkl": "768908"
+    }
+  },
+  {
+    "meta": {
+      "title": "10 Things I Hate About You",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "14-10-2023 19:20:45"
+    },
+    "ids": {
+      "tmdb": "4951",
+      "imdb": "tt0147800",
+      "simkl": "58686"
+    }
+  },
+  {
+    "meta": {
+      "title": "Blade Runner 2049",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "15-04-2023 22:50:20"
+    },
+    "ids": {
+      "tmdb": "335984",
+      "imdb": "tt1856101",
+      "simkl": "489468"
+    }
+  },
+  {
+    "meta": {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "02-07-2023 00:30:01"
+    },
+    "ids": {
+      "tmdb": "324857",
+      "imdb": "tt4633694",
+      "simkl": "520592"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ex Machina",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "13-10-2023 22:37:47"
+    },
+    "ids": {
+      "tmdb": "264660",
+      "imdb": "tt0470752",
+      "simkl": "369892"
+    }
+  },
+  {
+    "meta": {
+      "title": "John Wick",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+      "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "05-01-2025 05:10:12"
+    },
+    "ids": {
+      "tmdb": "245891",
+      "imdb": "tt2911666",
+      "simkl": "342994"
+    }
+  },
+  {
+    "meta": {
+      "title": "Nightcrawler",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "12-11-2023 16:33:44"
+    },
+    "ids": {
+      "tmdb": "242582",
+      "imdb": "tt2872718",
+      "simkl": "339262"
+    }
+  },
+  {
+    "meta": {
+      "title": "Predestination",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+      "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "08-10-2023 18:01:22"
+    },
+    "ids": {
+      "tmdb": "206487",
+      "imdb": "tt2397535",
+      "simkl": "301966"
+    }
+  },
+  {
+    "meta": {
+      "title": "About Time",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iR1bVfURbN7r1C46WHFbwCkVve.jpg",
+      "overview": "The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "12-04-2023 13:56:53"
+    },
+    "ids": {
+      "tmdb": "122906",
+      "imdb": "tt2194499",
+      "simkl": "217392"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Grand Budapest Hotel",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+      "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "01-01-2024 05:40:56"
+    },
+    "ids": {
+      "tmdb": "120467",
+      "imdb": "tt2278388",
+      "simkl": "214872"
+    }
+  },
+  {
+    "meta": {
+      "title": "Garden State",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+      "overview": "Andrew returns to his hometown for the funeral of his mother, a journey that reconnects him with past friends. The trip coincides with his decision to stop taking his powerful antidepressants. A chance meeting with Sam - a girl also suffering from various maladies - opens up the possibility of rekindling emotional attachments, confronting his psychologist father, and perhaps beginning a new life.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "02-12-2024 00:15:43"
+    },
+    "ids": {
+      "tmdb": "401",
+      "imdb": "tt0333766",
+      "simkl": "53672"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Matrix Reloaded",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "release_year": "2003"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "07-04-2023 23:48:02"
+    },
+    "ids": {
+      "tmdb": "604",
+      "imdb": "tt0234215",
+      "simkl": "53994"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Matrix",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+      "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "07-04-2023 23:47:50"
+    },
+    "ids": {
+      "tmdb": "603",
+      "imdb": "tt0133093",
+      "simkl": "53992"
+    }
+  },
+  {
+    "meta": {
+      "title": "Psycho",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "release_year": "1960"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "05-11-2023 03:37:37"
+    },
+    "ids": {
+      "tmdb": "539",
+      "imdb": "tt0054215",
+      "simkl": "53876"
+    }
+  },
+  {
+    "meta": {
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+      "overview": "Cheese-loving eccentric Wallace and his cunning canine pal, Gromit, investigate a mystery in Nick Park's animated adventure, in which the lovable inventor and his intrepid pup run a business ridding the town of garden pests. Using only humane methods that turn their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "release_year": "2005"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "22-12-2024 02:12:49"
+    },
+    "ids": {
+      "tmdb": "533",
+      "imdb": "tt0312004",
+      "simkl": "53864"
+    }
+  },
+  {
+    "meta": {
+      "title": "A Close Shave",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+      "overview": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "release_year": "1996"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "22-12-2024 13:40:43"
+    },
+    "ids": {
+      "tmdb": "532",
+      "imdb": "tt0112691",
+      "simkl": "53862"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Wrong Trousers",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+      "overview": "Wallace rents out Gromit's former bedroom to a penguin, who takes up an interest in the techno pants created by Wallace. However, Gromit later learns that the penguin is a wanted criminal.  Preserved by the Academy Film Archive.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "release_year": "1993"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "22-12-2024 23:04:18"
+    },
+    "ids": {
+      "tmdb": "531",
+      "imdb": "tt0108598",
+      "simkl": "53860"
+    }
+  },
+  {
+    "meta": {
+      "title": "A Grand Day Out",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lyYwwMBWK0hurt1K221GKRaay1c.jpg",
+      "overview": "Wallace and Gromit have run out of cheese, and this provides an excellent excuse for the duo to take their holiday to the moon, where, as everyone knows, there is ample cheese.  Preserved by the Academy Film Archive.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "release_year": "1990"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "23-12-2024 01:00:47"
+    },
+    "ids": {
+      "tmdb": "530",
+      "imdb": "tt0104361",
+      "simkl": "53858"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Green Mile",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg",
+      "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 3,
+      "watched_at": "17-11-2023 16:49:47"
+    },
+    "ids": {
+      "tmdb": "497",
+      "imdb": "tt0120689",
+      "simkl": "53812"
+    }
+  },
+  {
+    "meta": {
+      "title": "Being John Malkovich",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vKVUsumbCzK5Kn3aDpKM4EizKCA.jpg",
+      "overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "08-12-2024 01:10:35"
+    },
+    "ids": {
+      "tmdb": "492",
+      "imdb": "tt0120601",
+      "simkl": "53804"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Matrix Revolutions",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+      "overview": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "release_year": "2003"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "07-04-2023 23:48:35"
+    },
+    "ids": {
+      "tmdb": "605",
+      "imdb": "tt0242653",
+      "simkl": "53996"
+    }
+  },
+  {
+    "meta": {
+      "title": "Stand by Me",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. On the way, Gordie,  Vern, Chris and Teddy encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "release_year": "1986"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "17-02-2024 01:52:32"
+    },
+    "ids": {
+      "tmdb": "235",
+      "imdb": "tt0092005",
+      "simkl": "53428"
+    }
+  },
+  {
+    "meta": {
+      "title": "Edward Scissorhands",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+      "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "1990"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "24-12-2023 02:59:05"
+    },
+    "ids": {
+      "tmdb": "162",
+      "imdb": "tt0099487",
+      "simkl": "53296"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Dark Knight",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "2008"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "29-04-2023 18:25:32"
+    },
+    "ids": {
+      "tmdb": "155",
+      "imdb": "tt0468569",
+      "simkl": "53282"
+    }
+  },
+  {
+    "meta": {
+      "title": "Donnie Darko",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "release_year": "2001"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "02-03-2024 05:23:58"
+    },
+    "ids": {
+      "tmdb": "141",
+      "imdb": "tt0246578",
+      "simkl": "53260"
+    }
+  },
+  {
+    "meta": {
+      "title": "Taxi Driver",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "release_year": "1976"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "12-11-2023 16:07:31"
+    },
+    "ids": {
+      "tmdb": "103",
+      "imdb": "tt0075314",
+      "simkl": "53196"
+    }
+  },
+  {
+    "meta": {
+      "title": "Léon: The Professional",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action"
+      ],
+      "release_year": "1994"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "22-04-2023 18:13:51"
+    },
+    "ids": {
+      "tmdb": "101",
+      "imdb": "tt0110413",
+      "simkl": "53192"
+    }
+  },
+  {
+    "meta": {
+      "title": "American History X",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+      "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+      "genres": [
+        "Drama"
+      ],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "04-01-2024 07:46:30"
+    },
+    "ids": {
+      "tmdb": "73",
+      "imdb": "tt0120586",
+      "simkl": "53142"
+    }
+  },
+  {
+    "meta": {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "08-04-2023 02:42:03"
+    },
+    "ids": {
+      "tmdb": "38",
+      "imdb": "tt0338013",
+      "simkl": "53114"
+    }
+  },
+  {
+    "meta": {
+      "title": "Se7en",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "release_year": "1995"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "19-11-2023 01:46:34"
+    },
+    "ids": {
+      "tmdb": "807",
+      "imdb": "tt0114369",
+      "simkl": "54320"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Machinist",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "overview": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "24-12-2024 03:25:52"
+    },
+    "ids": {
+      "tmdb": "4553",
+      "imdb": "tt0361862",
+      "simkl": "58276"
+    }
+  },
+  {
+    "meta": {
+      "title": "Scream",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "release_year": "1996"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "06-03-2024 20:23:16"
+    },
+    "ids": {
+      "tmdb": "4232",
+      "imdb": "tt0117571",
+      "simkl": "57888"
+    }
+  },
+  {
+    "meta": {
+      "title": "Identity",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sYgimsiBywqVwJI8H4sETke8m7v.jpg",
+      "overview": "Complete strangers stranded at a remote desert motel during a raging storm soon find themselves the target of a deranged murderer. As their numbers thin out, the travelers begin to turn on each other, as each tries to figure out who the killer is.",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "release_year": "2003"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "22-04-2023 22:47:03"
+    },
+    "ids": {
+      "tmdb": "2832",
+      "imdb": "tt0309698",
+      "simkl": "56738"
+    }
+  },
+  {
+    "meta": {
+      "title": "Dark City",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+      "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+      "genres": [
+        "Mystery",
+        "Science Fiction"
+      ],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "08-04-2023 14:37:04"
+    },
+    "ids": {
+      "tmdb": "2666",
+      "imdb": "tt0118929",
+      "simkl": "56552"
+    }
+  },
+  {
+    "meta": {
+      "title": "Closer",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
+      "overview": "The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "26-11-2023 04:02:52"
+    },
+    "ids": {
+      "tmdb": "2288",
+      "imdb": "tt0376541",
+      "simkl": "56182"
+    }
+  },
+  {
+    "meta": {
+      "title": "While You Were Sleeping",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "overview": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "release_year": "1995"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 5,
+      "watched_at": "31-12-2023 16:27:52"
+    },
+    "ids": {
+      "tmdb": "2064",
+      "imdb": "tt0114924",
+      "simkl": "55802"
+    }
+  },
+  {
+    "meta": {
+      "title": "American Psycho",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "2000"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "08-04-2023 10:53:54"
+    },
+    "ids": {
+      "tmdb": "1359",
+      "imdb": "tt0144084",
+      "simkl": "54794"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Thing",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "release_year": "1982"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "23-04-2023 18:20:39"
+    },
+    "ids": {
+      "tmdb": "1091",
+      "imdb": "tt0084787",
+      "simkl": "54688"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gremlins",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Comedy"
+      ],
+      "release_year": "1984"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "25-12-2024 01:02:32"
+    },
+    "ids": {
+      "tmdb": "927",
+      "imdb": "tt0087363",
+      "simkl": "54544"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kill Bill: Vol. 1",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "release_year": "2003"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "02-01-2025 03:47:07"
+    },
+    "ids": {
+      "tmdb": "24",
+      "imdb": "tt0266697",
+      "simkl": "473822"
+    }
+  },
+  {
+    "meta": {
+      "title": "Cruel Intentions",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+      "overview": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "25-11-2023 00:01:46"
+    },
+    "ids": {
+      "tmdb": "796",
+      "imdb": "tt0139134",
+      "simkl": "54298"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gattaca",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Mystery",
+        "Romance"
+      ],
+      "release_year": "1997"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "04-10-2023 22:52:52"
+    },
+    "ids": {
+      "tmdb": "782",
+      "imdb": "tt0119177",
+      "simkl": "54270"
+    }
+  },
+  {
+    "meta": {
+      "title": "GoodFellas",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "1990"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "09-02-2024 14:09:49"
+    },
+    "ids": {
+      "tmdb": "769",
+      "imdb": "tt0099685",
+      "simkl": "54244"
+    }
+  },
+  {
+    "meta": {
+      "title": "V for Vendetta",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/piZOwjyk1g51oPHonc7zaQY3WOv.jpg",
+      "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "release_year": "2006"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "07-04-2023 23:42:03"
+    },
+    "ids": {
+      "tmdb": "752",
+      "imdb": "tt0434409",
+      "simkl": "54210"
+    }
+  },
+  {
+    "meta": {
+      "title": "Pulp Fiction",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "release_year": "1994"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "05-03-2024 20:33:00"
+    },
+    "ids": {
+      "tmdb": "680",
+      "imdb": "tt0110912",
+      "simkl": "54130"
+    }
+  },
+  {
+    "meta": {
+      "title": "Requiem for a Dream",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "release_year": "2000"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "22-03-2024 18:51:18"
+    },
+    "ids": {
+      "tmdb": "641",
+      "imdb": "tt0180093",
+      "simkl": "54062"
+    }
+  },
+  {
+    "meta": {
+      "title": "Catch Me If You Can",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg",
+      "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "2002"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "26-12-2023 01:23:00"
+    },
+    "ids": {
+      "tmdb": "640",
+      "imdb": "tt0264464",
+      "simkl": "54060"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ghostbusters",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "release_year": "1984"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "23-12-2023 14:12:48"
+    },
+    "ids": {
+      "tmdb": "620",
+      "imdb": "tt0087332",
+      "simkl": "54020"
+    }
+  },
+  {
+    "meta": {
+      "title": "Cowboy Bebop",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "07-09-2024 12:55:21"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0213338",
+      "simkl": "37089"
+    }
+  },
+  {
+    "meta": {
+      "title": "South Park",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1997"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "03-09-2025 13:07:11"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0121955",
+      "simkl": "5437"
+    }
+  },
+  {
+    "meta": {
+      "title": "Family Guy",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "26-03-2024 18:20:31"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0182576",
+      "simkl": "5545"
+    }
+  },
+  {
+    "meta": {
+      "title": "Mike Judge's Beavis and Butt-Head",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "03-03-2024 02:11:35"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt20859904",
+      "simkl": "1952493"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Sopranos",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "14-01-2024 02:49:53"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0141842",
+      "simkl": "4836"
+    }
+  },
+  {
+    "meta": {
+      "title": "Mr. Robot",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "30-12-2023 04:08:59"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4158110",
+      "simkl": "452264"
+    }
+  },
+  {
+    "meta": {
+      "title": "Game of Thrones",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "29-10-2023 22:42:56"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0944947",
+      "simkl": "17465"
+    }
+  },
+  {
+    "meta": {
+      "title": "Squid Game",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "13-10-2023 22:58:53"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt10919420",
+      "simkl": "1360242"
+    }
+  },
+  {
+    "meta": {
+      "title": "Clarkson's Farm",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "13-10-2023 22:58:22"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt10541088",
+      "simkl": "1294890"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Boys",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "02-08-2023 07:31:49"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1190634",
+      "simkl": "967226"
+    }
+  },
+  {
+    "meta": {
+      "title": "Better Call Saul",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "01-07-2023 18:20:30"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3032476",
+      "simkl": "46614"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Queen's Gambit",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": 8,
+      "watched_at": "25-04-2023 16:57:55"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt10048342",
+      "simkl": "1413900"
+    }
+  },
+  {
+    "meta": {
+      "title": "Breaking Bad",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2008"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "23-03-2023 12:34:33"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0903747",
+      "simkl": "11121"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Last of Us",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2023"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "23-03-2023 00:00:56"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3581920",
+      "simkl": "1482218"
+    }
+  },
+  {
+    "meta": {
+      "title": "Wednesday",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": null,
+      "watched_at": "22-03-2023 23:58:20"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13443470",
+      "simkl": "1548432"
+    }
+  },
+  {
+    "meta": {
+      "title": "Stranger Things",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "watching",
+      "rating": 10,
+      "watched_at": "01-07-2022 09:22:00"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4574334",
+      "simkl": "548312"
+    }
+  },
+  {
+    "meta": {
+      "title": "Brickleberry",
+      "type": "tv show",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": null,
+      "watched_at": "28-02-2022 00:37:00"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2022713",
+      "simkl": "23894"
+    }
+  },
+  {
+    "meta": {
+      "title": "3D Kanojo: Real Girl",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 10:06:48"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "925875"
+    }
+  },
+  {
+    "meta": {
+      "title": "Go-Toubun no Hanayome",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:53:03"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt9584920",
+      "simkl": "872381"
+    }
+  },
+  {
+    "meta": {
+      "title": "Go-Toubun no Hanayome II",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:53:22"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1088631"
+    }
+  },
+  {
+    "meta": {
+      "title": "Adachi to Shimamura",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 09:02:40"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt12728882",
+      "simkl": "1090183"
+    }
+  },
+  {
+    "meta": {
+      "title": "Akame ga Kill!",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "18-09-2022 15:58:27"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3742982",
+      "simkl": "46890"
+    }
+  },
+  {
+    "meta": {
+      "title": "Akira",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1988"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "17-06-2023 20:58:47"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0094625",
+      "simkl": "40079"
+    }
+  },
+  {
+    "meta": {
+      "title": "Another",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "03-09-2022 21:22:33"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2176165",
+      "simkl": "39608"
+    }
+  },
+  {
+    "meta": {
+      "title": "Bakemonogatari",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2009"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:59:37"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1480925",
+      "simkl": "45006"
+    }
+  },
+  {
+    "meta": {
+      "title": "Boku dake ga Inai Machi",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "24-09-2023 14:44:48"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5249462",
+      "simkl": "503490"
+    }
+  },
+  {
+    "meta": {
+      "title": "Bokutachi wa Benkyou ga Dekinai",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "06-06-2022 08:57:56"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt9883676",
+      "simkl": "882817"
+    }
+  },
+  {
+    "meta": {
+      "title": "Byousoku 5 Centimeter",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2007"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 09:07:11"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0983213",
+      "simkl": "40227"
+    }
+  },
+  {
+    "meta": {
+      "title": "Chainsaw Man",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "28-12-2022 00:37:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13616990",
+      "simkl": "1498301"
+    }
+  },
+  {
+    "meta": {
+      "title": "Charlotte",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "03-12-2022 12:03:39"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4574736",
+      "simkl": "452782"
+    }
+  },
+  {
+    "meta": {
+      "title": "Coquelicot-zaka kara",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 09:05:48"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1798188",
+      "simkl": "40166"
+    }
+  },
+  {
+    "meta": {
+      "title": "Darling in the Franxx",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 09:06:18"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7865090",
+      "simkl": "698501"
+    }
+  },
+  {
+    "meta": {
+      "title": "Death Note",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2006"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 10:20:21"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0877057",
+      "simkl": "40190"
+    }
+  },
+  {
+    "meta": {
+      "title": "Devilman: Crybaby",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "24-09-2022 22:23:31"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt6660498",
+      "simkl": "668933"
+    }
+  },
+  {
+    "meta": {
+      "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 09:00:16"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4728568",
+      "simkl": "428658"
+    }
+  },
+  {
+    "meta": {
+      "title": "Fruits Basket 1st Season",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 08:52:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt9304350",
+      "simkl": "963713"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gokushufudou",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 15:11:23"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13357124",
+      "simkl": "1468679"
+    }
+  },
+  {
+    "meta": {
+      "title": "Hige o Soru. Soshite Joshikousei o Hirou.",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 09:00:38"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13198632",
+      "simkl": "1231745"
+    }
+  },
+  {
+    "meta": {
+      "title": "High School DxD",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "05-12-2022 21:08:50"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2230051",
+      "simkl": "36253"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gakuen Mokushiroku: High School of the Dead",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2010"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "04-12-2022 20:39:33"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1685401",
+      "simkl": "40990"
+    }
+  },
+  {
+    "meta": {
+      "title": "Horimiya",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:45:29"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13103134",
+      "simkl": "1434331"
+    }
+  },
+  {
+    "meta": {
+      "title": "Hotarubi no Mori e",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 14:20:57"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2061702",
+      "simkl": "39809"
+    }
+  },
+  {
+    "meta": {
+      "title": "Howl no Ugoku Shiro",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 14:18:08"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0347149",
+      "simkl": "36368"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ijiranaide, Nagatoro-san",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 08:55:28"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt12635162",
+      "simkl": "1382225"
+    }
+  },
+  {
+    "meta": {
+      "title": "Itsudatte Bokura no Koi wa 10 Centi Datta.",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 08:57:26"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7351628",
+      "simkl": "671803"
+    }
+  },
+  {
+    "meta": {
+      "title": "Josee to Tora to Sakana-tachi",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 14:18:41"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt12879624",
+      "simkl": "1218867"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 10:07:17"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1191669"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kakegurui",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:10:04"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7131720",
+      "simkl": "661603"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kakegurui XX",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "06-06-2022 10:13:43"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "753053"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kami nomi zo Shiru Sekai: Megami Hen",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 09:10:05"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "44770"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kamisama Hajimemashita",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 08:49:22"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2320220",
+      "simkl": "39492"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kamisama Hajimemashita 2",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 08:50:21"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "52948"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kanojo, Okarishimasu",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 09:01:38"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt11448214",
+      "simkl": "1223559"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kanojo, Okarishimasu",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "23-11-2022 18:39:12"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1440927"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasuka?",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "06-06-2022 09:09:36"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt10470356",
+      "simkl": "1047325"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kimi ni Todoke",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2009"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 10:15:26"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1745240",
+      "simkl": "39321"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kimi no Na wa.",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:46:31"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5311514",
+      "simkl": "543146"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kimi no Suizou o Tabetai",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:14:15"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7236034",
+      "simkl": "708497"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kiseijuu: Sei no Kakuritsu",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 15:20:08"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3358020",
+      "simkl": "47304"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kishuku Gakkou no Juliet",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 10:16:02"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt8496638",
+      "simkl": "781643"
+    }
+  },
+  {
+    "meta": {
+      "title": "Eiga Koe no Katachi",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 14:13:49"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5323662",
+      "simkl": "436948"
+    }
+  },
+  {
+    "meta": {
+      "title": "Koi to Yobu ni wa Kimochi Warui",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "06-06-2022 15:11:52"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13618148",
+      "simkl": "1493927"
+    }
+  },
+  {
+    "meta": {
+      "title": "Komi-san wa, Komyushou Desu.",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 10:24:48"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt14626352",
+      "simkl": "1642619"
+    }
+  },
+  {
+    "meta": {
+      "title": "Konbini Kareshi",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "06-06-2022 09:03:04"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt9728264",
+      "simkl": "678747"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kotonoha no Niwa",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 08:55:59"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2591814",
+      "simkl": "39899"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ghost in the Shell",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1995"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "15-10-2022 11:06:56"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0113568",
+      "simkl": "37585"
+    }
+  },
+  {
+    "meta": {
+      "title": "Mirai Nikki",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "22-09-2023 21:13:40"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2069441",
+      "simkl": "39336"
+    }
+  },
+  {
+    "meta": {
+      "title": "Mirai no Mirai",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 15:17:58"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt6900448",
+      "simkl": "687035"
+    }
+  },
+  {
+    "meta": {
+      "title": "Nande Koko ni Sensei ga!?",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 15:30:34"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt9826344",
+      "simkl": "919279"
+    }
+  },
+  {
+    "meta": {
+      "title": "NHK ni Youkoso!",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2006"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "02-10-2022 11:07:43"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0857297",
+      "simkl": "40231"
+    }
+  },
+  {
+    "meta": {
+      "title": "Noragami",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "11-06-2022 16:24:53"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3225270",
+      "simkl": "46052"
+    }
+  },
+  {
+    "meta": {
+      "title": "Omoi, Omoware, Furi, Furare",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 08:54:01"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt11427380",
+      "simkl": "1079855"
+    }
+  },
+  {
+    "meta": {
+      "title": "Orange",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:17:43"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5839732",
+      "simkl": "560578"
+    }
+  },
+  {
+    "meta": {
+      "title": "Overflow",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "28-10-2022 21:15:01"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt14962432",
+      "simkl": "2722926"
+    }
+  },
+  {
+    "meta": {
+      "title": "Paprika",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2006"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 6,
+      "watched_at": "05-05-2024 21:53:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0851578",
+      "simkl": "40881"
+    }
+  },
+  {
+    "meta": {
+      "title": "Perfect Blue",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "04-12-2022 12:32:34"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0156887",
+      "simkl": "38794"
+    }
+  },
+  {
+    "meta": {
+      "title": "Prison School",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 09:00:59"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4917066",
+      "simkl": "477378"
+    }
+  },
+  {
+    "meta": {
+      "title": "Prison School: Mad Wax",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 09:01:15"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5533294",
+      "simkl": "541658"
+    }
+  },
+  {
+    "meta": {
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "29-09-2022 15:44:09"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5607616",
+      "simkl": "509292"
+    }
+  },
+  {
+    "meta": {
+      "title": "Sakura-sou no Pet na Kanojo",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 08:54:27"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2296348",
+      "simkl": "39733"
+    }
+  },
+  {
+    "meta": {
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 09:10:42"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt8993398",
+      "simkl": "779705"
+    }
+  },
+  {
+    "meta": {
+      "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 09:10:53"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt10472884",
+      "simkl": "911137"
+    }
+  },
+  {
+    "meta": {
+      "title": "Sen to Chihiro no Kamikakushi",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2001"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 09:04:21"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0245429",
+      "simkl": "39079"
+    }
+  },
+  {
+    "meta": {
+      "title": "Shigatsu wa Kimi no Uso",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 15:29:33"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3895150",
+      "simkl": "48926"
+    }
+  },
+  {
+    "meta": {
+      "title": "Shokugeki no Souma",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 10:08:09"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4731072",
+      "simkl": "428720"
+    }
+  },
+  {
+    "meta": {
+      "title": "Shokugeki no Souma: Ni no Sara",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 10:08:43"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "543144"
+    }
+  },
+  {
+    "meta": {
+      "title": "Shokugeki no Souma: Shin no Sara",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:08:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1109881"
+    }
+  },
+  {
+    "meta": {
+      "title": "Sono Bisque Doll wa Koi o Suru",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "05-09-2022 15:12:29"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt15765670",
+      "simkl": "1612467"
+    }
+  },
+  {
+    "meta": {
+      "title": "Spy x Family",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "29-10-2022 13:21:54"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13706018",
+      "simkl": "1766469"
+    }
+  },
+  {
+    "meta": {
+      "title": "Spy x Family",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "26-12-2022 01:05:21"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1809622"
+    }
+  },
+  {
+    "meta": {
+      "title": "Steins;Gate",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2011"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "20-09-2022 20:50:13"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1910272",
+      "simkl": "38960"
+    }
+  },
+  {
+    "meta": {
+      "title": "Suzumiya Haruhi no Shoushitsu",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2010"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "02-06-2023 12:00:08"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1572781",
+      "simkl": "40278"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tamako Love Story",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "04-12-2022 01:02:01"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3413018",
+      "simkl": "45904"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tenki no Ko",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2019"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:51:46"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt9426210",
+      "simkl": "988895"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tokyo Ghoul",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:19:05"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3741634",
+      "simkl": "46740"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tokyo Ghoul Root A",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:18:50"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5497534",
+      "simkl": "426236"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tokyo Revengers",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:19:31"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt13196080",
+      "simkl": "1372805"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tonari no Kaibutsu-kun",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "16-06-2023 00:08:13"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2309302",
+      "simkl": "37186"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tonikaku Kawaii",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 08:51:13"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt12311976",
+      "simkl": "1293493"
+    }
+  },
+  {
+    "meta": {
+      "title": "Toradora!",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2008"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "06-06-2022 08:54:54"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1279024",
+      "simkl": "36227"
+    }
+  },
+  {
+    "meta": {
+      "title": "Uzaki-chan wa Asobitai!",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "06-06-2022 08:56:34"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt12464182",
+      "simkl": "1253797"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gekijouban Violet Evergarden",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2020"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 09:10:23"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt8652818",
+      "simkl": "799363"
+    }
+  },
+  {
+    "meta": {
+      "title": "Otaku ni Koi wa Muzukashii",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-06-2022 10:09:30"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt8254880",
+      "simkl": "703753"
+    }
+  },
+  {
+    "meta": {
+      "title": "Yagate Kimi ni Naru",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "06-06-2022 09:02:19"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt8993464",
+      "simkl": "810691"
+    }
+  },
+  {
+    "meta": {
+      "title": "Zankyou no Terror",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "28-12-2022 14:51:49"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3613454",
+      "simkl": "48922"
+    }
+  },
+  {
+    "meta": {
+      "title": "Bleach: Sennen Kessen Hen",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "28-12-2022 00:40:40"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt14986406",
+      "simkl": "1300367"
+    }
+  },
+  {
+    "meta": {
+      "title": "Chaos;Head",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2008"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "11-11-2022 19:18:10"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1278254",
+      "simkl": "39886"
+    }
+  },
+  {
+    "meta": {
+      "title": "Code Geass: Hangyaku no Lelouch",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2006"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "26-05-2023 20:43:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0994314",
+      "simkl": "40180"
+    }
+  },
+  {
+    "meta": {
+      "title": "Death Parade",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "18-09-2022 01:05:35"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4279012",
+      "simkl": "428814"
+    }
+  },
+  {
+    "meta": {
+      "title": "Furi Kuri",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2000"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "11-11-2022 19:18:21"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0279077",
+      "simkl": "40225"
+    }
+  },
+  {
+    "meta": {
+      "title": "Haikyuu!!",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2014"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "18-09-2022 01:06:03"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt3398540",
+      "simkl": "47270"
+    }
+  },
+  {
+    "meta": {
+      "title": "High School DxD New",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "08-12-2022 00:31:54"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "44560"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ijiranaide, Nagatoro-san 2nd Attack",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2023"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "26-05-2023 20:43:12"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1760555"
+    }
+  },
+  {
+    "meta": {
+      "title": "Inuyashiki",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "26-05-2023 20:43:47"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt6340502",
+      "simkl": "643267"
+    }
+  },
+  {
+    "meta": {
+      "title": "Isekai Shokudou",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "18-11-2022 11:12:05"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7224994",
+      "simkl": "615059"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gekijouban Jujutsu Kaisen 0",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2021"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "20-10-2022 09:30:13"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt14331144",
+      "simkl": "1578599"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "18-09-2022 01:05:43"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1462529"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kanojo, Okarishimasu",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2023"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": 2,
+      "watched_at": "24-09-2023 20:51:15"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1994640"
+    }
+  },
+  {
+    "meta": {
+      "title": "Kawaii dake ja Nai Shikimori-san",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": 8,
+      "watched_at": "01-10-2022 11:30:29"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt15529074",
+      "simkl": "1573469"
+    }
+  },
+  {
+    "meta": {
+      "title": "Lycoris Recoil",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": 9,
+      "watched_at": "01-10-2022 11:30:57"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt16755706",
+      "simkl": "1817414"
+    }
+  },
+  {
+    "meta": {
+      "title": "Mousou Dairinin",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "11-11-2022 19:18:41"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0433722",
+      "simkl": "40713"
+    }
+  },
+  {
+    "meta": {
+      "title": "One Punch Man",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2015"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": 10,
+      "watched_at": "01-10-2022 11:31:06"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt4508902",
+      "simkl": "478386"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ouran Koukou Host Club",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2006"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "28-12-2022 00:40:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0816397",
+      "simkl": "40638"
+    }
+  },
+  {
+    "meta": {
+      "title": "Psycho-Pass",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "17-12-2022 22:43:04"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2379308",
+      "simkl": "37912"
+    }
+  },
+  {
+    "meta": {
+      "title": "Sukitte Ii na yo.",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2012"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": 7,
+      "watched_at": "26-06-2023 18:16:44"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt2309312",
+      "simkl": "37519"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tsuki ga Kirei",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "18-11-2022 11:12:18"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt6472710",
+      "simkl": "654993"
+    }
+  },
+  {
+    "meta": {
+      "title": "Tsurezure Children",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": 6,
+      "watched_at": "19-06-2022 14:31:04"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7155052",
+      "simkl": "659449"
+    }
+  },
+  {
+    "meta": {
+      "title": "Yojouhan Shinwa Taikei",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2010"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "11-11-2022 19:18:32"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1847445",
+      "simkl": "37929"
+    }
+  },
+  {
+    "meta": {
+      "title": "Yuru Camp",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "dropped",
+      "rating": null,
+      "watched_at": "16-12-2022 16:23:45"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt7742120",
+      "simkl": "653175"
+    }
+  },
+  {
+    "meta": {
+      "title": "Boku no Hero Academia",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2016"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": null,
+      "watched_at": "27-11-2022 16:31:51"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5626028",
+      "simkl": "532942"
+    }
+  },
+  {
+    "meta": {
+      "title": "Elfen Lied",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": null,
+      "watched_at": "08-12-2022 01:07:34"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0480489",
+      "simkl": "45000"
+    }
+  },
+  {
+    "meta": {
+      "title": "Hagane no Renkinjutsushi",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2009"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": null,
+      "watched_at": "13-09-2024 16:52:43"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt1355642",
+      "simkl": "41586"
+    }
+  },
+  {
+    "meta": {
+      "title": "Komi-san wa, Komyushou Desu.",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": 4,
+      "watched_at": "20-06-2022 14:45:18"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1812124"
+    }
+  },
+  {
+    "meta": {
+      "title": "Serial Experiments Lain",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": 9,
+      "watched_at": "29-11-2022 18:12:56"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0500092",
+      "simkl": "37513"
+    }
+  },
+  {
+    "meta": {
+      "title": "Steins;Gate 0",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2018"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": null,
+      "watched_at": "16-12-2022 16:23:59"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt5514358",
+      "simkl": "484356"
+    }
+  },
+  {
+    "meta": {
+      "title": "Uzaki-chan wa Asobitai! Double",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "on hold",
+      "rating": null,
+      "watched_at": "25-11-2022 13:36:29"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "",
+      "simkl": "1440923"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gake no Ue no Ponyo",
+      "type": "anime",
+      "poster_url": null,
+      "overview": null,
+      "genres": [],
+      "release_year": "2008"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "09-06-2025 22:05:19"
+    },
+    "ids": {
+      "tmdb": "",
+      "imdb": "tt0876563",
+      "simkl": "37317"
+    }
+  },
+  {
+    "meta": {
+      "title": "Body Double",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+      "overview": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "release_year": "1984"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "12-08-2025 11:10:04"
+    },
+    "ids": {
+      "tmdb": "11507",
+      "imdb": "tt0086984",
+      "simkl": "65912"
+    }
+  },
+  {
+    "meta": {
+      "title": "Peeping Tom",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kM4AfLIlbcuRZ621vYjyeBFkuba.jpg",
+      "overview": "Loner Mark Lewis works at a film studio during the day and, at night, takes racy photographs of women. Also he's making a documentary on fear, which involves recording the reactions of victims as he murders them. He befriends Helen, the daughter of the family living in the apartment below his, and he tells her vaguely about the movie he is making.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "release_year": "1960"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "01-07-2025 23:20:17"
+    },
+    "ids": {
+      "tmdb": "11167",
+      "imdb": "tt0054167",
+      "simkl": "65338"
+    }
+  },
+  {
+    "meta": {
+      "title": "Eyes Wide Shut",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "release_year": "1999"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "11-07-2025 03:24:11"
+    },
+    "ids": {
+      "tmdb": "345",
+      "imdb": "tt0120663",
+      "simkl": "53620"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Great Gatsby",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg",
+      "overview": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "12-07-2025 01:53:14"
+    },
+    "ids": {
+      "tmdb": "64682",
+      "imdb": "tt1343092",
+      "simkl": "143246"
+    }
+  },
+  {
+    "meta": {
+      "title": "Pearl",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "release_year": "2022"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "05-08-2025 02:32:21"
+    },
+    "ids": {
+      "tmdb": "949423",
+      "imdb": "tt18925334",
+      "simkl": "1869571"
+    }
+  },
+  {
+    "meta": {
+      "title": "T2 Trainspotting",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg",
+      "overview": "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud and Begbie.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "release_year": "2017"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "24-07-2025 02:41:23"
+    },
+    "ids": {
+      "tmdb": "180863",
+      "imdb": "tt2763304",
+      "simkl": "273864"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Shining",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "release_year": "1980"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "24-07-2025 18:30:43"
+    },
+    "ids": {
+      "tmdb": "694",
+      "imdb": "tt0081505",
+      "simkl": "54154"
+    }
+  },
+  {
+    "meta": {
+      "title": "This Is England",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bmhVn89BoAAIziFklH3TusE26H0.jpg",
+      "overview": "A story about a troubled boy growing up in England, set in 1983. He comes across a few skinheads on his way home from school, after a fight. They become his new best friends, even like family. Based on experiences of director Shane Meadows.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "release_year": "2007"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "24-07-2025 21:52:03"
+    },
+    "ids": {
+      "tmdb": "11798",
+      "imdb": "tt0480025",
+      "simkl": "66362"
+    }
+  },
+  {
+    "meta": {
+      "title": "Clue",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "release_year": "1985"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "04-08-2025 00:16:47"
+    },
+    "ids": {
+      "tmdb": "15196",
+      "imdb": "tt0088930",
+      "simkl": "70982"
+    }
+  },
+  {
+    "meta": {
+      "title": "Dial M for Murder",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4KKiFDvtEusJzqzlwHp7iMceXKS.jpg",
+      "overview": "When her American lover visits London, a wealthy woman’s jealous husband hatches a plan to murder her and inherit her fortune.",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "release_year": "1954"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "11-08-2025 01:37:19"
+    },
+    "ids": {
+      "tmdb": "521",
+      "imdb": "tt0046912",
+      "simkl": "53844"
+    }
+  },
+  {
+    "meta": {
+      "title": "Submarine",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
+      "overview": "15-year-old deep-thinking Welsh schoolboy Oliver Tate struggles to initiate and maintain a relationship with Jordana, his devilish, dark-haired classmate at their Swansea high school. As his parents' marriage begins to fall apart, similar problems arise in his relationship with Jordana.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "release_year": "2010"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "11-08-2025 04:05:59"
+    },
+    "ids": {
+      "tmdb": "49020",
+      "imdb": "tt1440292",
+      "simkl": "118646"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Spectacular Now",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tYDbDuZ3K4Xwp3cwtmZM6k53bwq.jpg",
+      "overview": "Sutter, a popular party animal, unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "release_year": "2013"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "12-08-2025 03:04:20"
+    },
+    "ids": {
+      "tmdb": "157386",
+      "imdb": "tt1714206",
+      "simkl": "250864"
+    }
+  },
+  {
+    "meta": {
+      "title": "North by Northwest",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+      "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "release_year": "1959"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "29-08-2025 01:46:50"
+    },
+    "ids": {
+      "tmdb": "213",
+      "imdb": "tt0053125",
+      "simkl": "53386"
+    }
+  },
+  {
+    "meta": {
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+      "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "15-08-2025 00:47:54"
+    },
+    "ids": {
+      "tmdb": "100",
+      "imdb": "tt0120735",
+      "simkl": "53190"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Beguiled",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zfYYQxt0rjrgEVTbpBQ2oVWlVfV.jpg",
+      "overview": "Offbeat Civil War drama in which a wounded Yankee soldier, after finding refuge in an isolated girls' school in the South towards the end of the war, becomes the object of the young women's sexual fantasies. The soldier manipulates the situation for his own gratification, but when he refuses to completely comply with the girls' wishes, they make it very difficult for him to leave.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "War"
+      ],
+      "release_year": "1971"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 5,
+      "watched_at": "16-08-2025 01:02:07"
+    },
+    "ids": {
+      "tmdb": "31906",
+      "imdb": "tt0066819",
+      "simkl": "92646"
+    }
+  },
+  {
+    "meta": {
+      "title": "The 39 Steps",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
+      "overview": "Richard Hanney has a rude awakening when a glamorous female spy falls into his bed - with a knife in her back. Having a bit of trouble explaining it all to Scotland Yard, he heads for the hills of Scotland to try to clear his name by locating the spy ring known as The 39 Steps.",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "release_year": "1935"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "18-08-2025 02:03:17"
+    },
+    "ids": {
+      "tmdb": "260",
+      "imdb": "tt0026029",
+      "simkl": "53474"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Lady Vanishes",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c1t9LB76LvEARPanfEzXmkm7fwY.jpg",
+      "overview": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "release_year": "1938"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "25-08-2025 09:46:56"
+    },
+    "ids": {
+      "tmdb": "940",
+      "imdb": "tt0030341",
+      "simkl": "54566"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Third Man",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wxTbbrWypRgUcsTS9zw7p9tMbNq.jpg",
+      "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "release_year": "1949"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "25-08-2025 07:23:59"
+    },
+    "ids": {
+      "tmdb": "1092",
+      "imdb": "tt0041959",
+      "simkl": "54690"
+    }
+  },
+  {
+    "meta": {
+      "title": "To Catch a Thief",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6M6NwjV3XvtayljoiZ8wRHOKCQG.jpg",
+      "overview": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "release_year": "1955"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "25-08-2025 22:25:34"
+    },
+    "ids": {
+      "tmdb": "381",
+      "imdb": "tt0048728",
+      "simkl": "53644"
+    }
+  },
+  {
+    "meta": {
+      "title": "Notorious",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
+      "overview": "In order to help bring Nazis to justice, U.S. government agent T.R. Devlin recruits Alicia Huberman, the American daughter of a convicted German war criminal, as a spy. As they begin to fall for one another, Alicia is instructed to win the affections of Alexander Sebastian, a Nazi hiding out in Brazil. When Sebastian becomes serious about his relationship with Alicia, the stakes get higher, and Devlin must watch her slip further undercover.",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "release_year": "1946"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "26-08-2025 02:46:02"
+    },
+    "ids": {
+      "tmdb": "303",
+      "imdb": "tt0038787",
+      "simkl": "53550"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Big Sleep",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "1946"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "27-08-2025 01:18:49"
+    },
+    "ids": {
+      "tmdb": "910",
+      "imdb": "tt0038355",
+      "simkl": "54516"
+    }
+  },
+  {
+    "meta": {
+      "title": "Touch of Evil",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+      "overview": "When a car bomb explodes on the American side of the U.S./Mexico border, Mexican drug enforcement agent Miguel Vargas begins his investigation, along with American police captain Hank Quinlan. When Vargas begins to suspect that Quinlan and his shady partner, Menzies, are planting evidence to frame an innocent man, his investigations into their possible corruption quickly put himself and his new bride, Susie, in jeopardy.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "1958"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-09-2025 12:15:04"
+    },
+    "ids": {
+      "tmdb": "1480",
+      "imdb": "tt0052311",
+      "simkl": "54948"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Maltese Falcon",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+      "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "1941"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 6,
+      "watched_at": "30-08-2025 02:24:32"
+    },
+    "ids": {
+      "tmdb": "963",
+      "imdb": "tt0033870",
+      "simkl": "54602"
+    }
+  },
+  {
+    "meta": {
+      "title": "Billy Elliot",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Music"
+      ],
+      "release_year": "2000"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "30-08-2025 05:55:48"
+    },
+    "ids": {
+      "tmdb": "71",
+      "imdb": "tt0249462",
+      "simkl": "53140"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Lady from Shanghai",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+      "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "1947"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "31-08-2025 04:20:06"
+    },
+    "ids": {
+      "tmdb": "3766",
+      "imdb": "tt0040525",
+      "simkl": "57620"
+    }
+  },
+  {
+    "meta": {
+      "title": "Some Like It Hot",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "overview": "Two musicians witness a mob hit and need to quickly find a way out of Chicago. Their only opportunity comes in the form of joining an all-girl band as they prepare to leave on a tour. The two disguise themselves as women and struggle to keep their identities secret as the gangsters close in.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Crime"
+      ],
+      "release_year": "1959"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "01-09-2025 01:04:04"
+    },
+    "ids": {
+      "tmdb": "239",
+      "imdb": "tt0053291",
+      "simkl": "53436"
+    }
+  },
+  {
+    "meta": {
+      "title": "Young and Innocent",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/knc0wcxarPM6Qy3uOm1RV38JGzS.jpg",
+      "overview": "When a young writer is falsely accused of murdering a famous actress, he escapes custody and joins forces with the daughter of a police constable to prove his innocence.",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "release_year": "1937"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "04-09-2025 04:46:54"
+    },
+    "ids": {
+      "tmdb": "2762",
+      "imdb": "tt0029811",
+      "simkl": "56648"
+    }
+  },
+  {
+    "meta": {
+      "title": "Gilda",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+      "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Thriller"
+      ],
+      "release_year": "1946"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "04-09-2025 07:33:12"
+    },
+    "ids": {
+      "tmdb": "3767",
+      "imdb": "tt0038559",
+      "simkl": "57622"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Big Lebowski",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+      "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "release_year": "1998"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "05-09-2025 00:50:19"
+    },
+    "ids": {
+      "tmdb": "115",
+      "imdb": "tt0118715",
+      "simkl": "53218"
+    }
+  },
+  {
+    "meta": {
+      "title": "Strangers on a Train",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+      "overview": "A charming psychopath tries to coerce a tennis star into his theory that two strangers can commit the perfect crime by exchanging murders—each killing the other’s most-hated person.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "release_year": "1951"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "06-09-2025 08:32:14"
+    },
+    "ids": {
+      "tmdb": "845",
+      "imdb": "tt0044079",
+      "simkl": "54388"
+    }
+  },
+  {
+    "meta": {
+      "title": "12 Angry Men",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "genres": [
+        "Drama"
+      ],
+      "release_year": "1957"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "07-09-2025 11:36:38"
+    },
+    "ids": {
+      "tmdb": "389",
+      "imdb": "tt0050083",
+      "simkl": "53652"
+    }
+  },
+  {
+    "meta": {
+      "title": "Batman Begins",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action"
+      ],
+      "release_year": "2005"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "07-09-2025 17:20:49"
+    },
+    "ids": {
+      "tmdb": "272",
+      "imdb": "tt0372784",
+      "simkl": "53494"
+    }
+  },
+  {
+    "meta": {
+      "title": "F1",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "release_year": "2025"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 10,
+      "watched_at": "09-09-2025 15:22:42"
+    },
+    "ids": {
+      "tmdb": "911430",
+      "imdb": "tt16311594",
+      "simkl": "1798843"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Graduate",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+      "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "release_year": "1967"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 8,
+      "watched_at": "10-09-2025 12:31:33"
+    },
+    "ids": {
+      "tmdb": "37247",
+      "imdb": "tt0061722",
+      "simkl": "98994"
+    }
+  },
+  {
+    "meta": {
+      "title": "Ferris Bueller's Day Off",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+      "genres": [
+        "Comedy"
+      ],
+      "release_year": "1986"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 7,
+      "watched_at": "10-09-2025 15:50:10"
+    },
+    "ids": {
+      "tmdb": "9377",
+      "imdb": "tt0091042",
+      "simkl": "62164"
+    }
+  },
+  {
+    "meta": {
+      "title": "The Notebook",
+      "type": "movie",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "release_year": "2004"
+    },
+    "user_data": {
+      "status": "completed",
+      "rating": 9,
+      "watched_at": "13-09-2025 19:04:19"
+    },
+    "ids": {
+      "tmdb": "11036",
+      "imdb": "tt0332280",
+      "simkl": "65100"
+    }
+  }
+]
