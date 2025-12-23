@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  Questo repository è il punto d'incontro tra la mia vita fisica e quella digitale. 
-  Qui raccolgo e curo tutto ciò che traccio: dalle <strong>panchine</strong> che incontro passeggiando, alle <strong>partite di scacchi</strong> che gioco online, fino ai <strong>meme audio</strong> che hanno fatto la storia.
+  Questo repository è un archivio di dataset personali raccolti nel tempo come pratica di <em>quantified self</em>.
+  I dati documentano attività, abitudini e osservazioni sia fisiche che digitali.
+  I dataset sono strutturati e, quando applicabile, arricchiti tramite API esterne,
+  con attenzione alla qualità, alla continuità temporale e alla riusabilità.
 </p>
 
 
@@ -198,7 +200,7 @@ graph TD
 <td>attivo</td>
 <td>2023-04-07</td>
 <td>2025-09-13</td>
-<td>231</td>
+<td>121</td>
 <td>-</td>
 </tr>
 <tr>
@@ -242,31 +244,39 @@ Tutto è nato dalla frustrazione di vedere rifiuti a pochi passi dai cestini a P
 
 Per approfondire il progetto, visita il mio blog: [CESTINI su aaa.craft.me](https://aaa.craft.me/blog/b/AE6DD80D-6506-46E1-B744-22B0EC17B047/)
 
+<details>
+<summary>Struttura</summary>
+
 <!-- data/cestini.geojson -->
-```JSON
+<details>
+<summary>Struttura</summary>
+
+```json
 {
     "type": "Feature",
     "id": "4A12E89A-543C-4F56-B131-030CC40428DC",
     "geometry": {
-    "type": "Point",
-    "coordinates": [
-        10.52283650762667,
-        42.92546109446996
-    ]
+        "type": "Point",
+        "coordinates": [
+            10.52283650762667,
+            42.92546109446996
+        ]
     },
     "properties": {
-    "name": "Cestino",
-    "ref": "1",
-    "amenity": "waste_basket",
-    "short_id": "O3QY4W",
-    "address": "Via Giovanni Pascoli 2\n57025 Piombino Tuscany\nItaly",
-    "type": "Nuovo",
-    "image_url": "media/image/C019CAC7-8B2C-45C0-9F1F-802834FC0613.jpg",
-    "created_at": "2023-09-15T10:22:56Z",
-    "modified_at": "2023-09-15T10:22:57Z"
+        "name": "Cestino",
+        "ref": "1",
+        "amenity": "waste_basket",
+        "short_id": "O3QY4W",
+        "address": "Via Giovanni Pascoli 2\n57025 Piombino Tuscany\nItaly",
+        "type": "Nuovo",
+        "image_url": "media/image/C019CAC7-8B2C-45C0-9F1F-802834FC0613.jpg",
+        "created_at": "2023-09-15T10:22:56Z",
+        "modified_at": "2023-09-15T10:22:57Z"
     }
 }
 ```
+</details>
+</details>
 
 <table>
   <tr>
@@ -454,28 +464,6 @@ Avevamo anche collaborato con la Biblioteca Civica Falesiana; potete trovare qua
 
 **Link:** https://maps.app.goo.gl/FW8y27prsTJfGnFaA
 
-#### Qualche ricordo 
-
-<table>
-    <tr>
-        <th>Inizio</th>
-        <th>Il gruppo su WA eravamo quasi 100 al picco</th>
-        <th>Il volantino che fu stampato</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="assets/screenshots/scacchi_1.JPEG" alt="Inizio" width="300"/>
-        </td>
-        <td align="center">
-            <img src="assets/screenshots/scacchi_2.JPEG" alt="Il gruppo su WA eravamo quasi 100 al picco" width="300"/>
-        </td>
-        <td align="center">
-            <img src="assets/screenshots/scacchi_3.JPEG" alt="Il volantino che fu stampato" width="300"/>
-        </td>
-    </tr>
-</table>
-
-
 <!-- data/chess.json -->
 <details>
 <summary>Struttura</summary>
@@ -507,6 +495,27 @@ Avevamo anche collaborato con la Biblioteca Civica Falesiana; potete trovare qua
 }
 ```
 </details>
+
+#### Qualche ricordo 
+
+<table>
+    <tr>
+        <th>Inizio</th>
+        <th>Il gruppo su WA eravamo quasi 100 al picco</th>
+        <th>Il volantino che fu stampato</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/screenshots/scacchi_1.JPEG" alt="Inizio" width="300"/>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/scacchi_2.JPEG" alt="Il gruppo su WA eravamo quasi 100 al picco" width="300"/>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/scacchi_3.JPEG" alt="Il volantino che fu stampato" width="300"/>
+        </td>
+    </tr>
+</table>
 
 <hr>
 
@@ -1564,6 +1573,33 @@ In seguito avevo creato anche un canale Telegram, nel quale condividevo ogni gio
 
 Se siete curiosi di sapere quanto leggo e che cosa leggo, visita il mio blog: [QUANTO LEGGO su aaa.craft.me](https://aaa.craft.me/blog/b/5CE28A05-C36D-4601-AB7B-15B267A5EC62/(QUANTO-LEGGO))
 
+<!-- data/parole.json -->
+<details>
+<summary>Struttura</summary>
+
+```json
+{
+    "id": 1,
+    "word": "rupture",
+    "added_at": "2024-12-09T13:59:58",
+    "meta": {
+        "type": "noun",
+        "date": "15th century{ds||2|a|}",
+        "pronunciation": "ˈrəp(t)-shər",
+        "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ruptur01.mp3",
+        "definitions": [
+            "breach of peace or concord; specifically : open hostility or war between nations",
+            "the tearing apart of a tissue",
+            "hernia"
+        ],
+        "etymology": "Middle English _ruptur_, from Anglo-French or Latin; Anglo-French _rupture_, from Latin _ruptura_ fracture, from _ruptus_, past participle of _rumpere_ to break {ma}{mat|reave|}{/ma}",
+        "examples": [],
+        "audio_path": "media/audio/ruptur01.mp3"
+    }
+}
+```
+</details>
+
 #### Shortcut
 
 Potete vedere come funziona in questa breve presentazione, creata perché fui obbligato a realizzarla per il Capolavoro delle superiori.
@@ -1602,34 +1638,6 @@ Il canale è sempre disponibile su Telegram, ma non è più attivo.
         </td>
     </tr>
 </table>
-
-
-<!-- data/parole.json -->
-<details>
-<summary>Struttura</summary>
-
-```json
-{
-    "id": 1,
-    "word": "rupture",
-    "added_at": "2024-12-09T13:59:58",
-    "meta": {
-        "type": "noun",
-        "date": "15th century{ds||2|a|}",
-        "pronunciation": "ˈrəp(t)-shər",
-        "audio_url": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ruptur01.mp3",
-        "definitions": [
-            "breach of peace or concord; specifically : open hostility or war between nations",
-            "the tearing apart of a tissue",
-            "hernia"
-        ],
-        "etymology": "Middle English _ruptur_, from Anglo-French or Latin; Anglo-French _rupture_, from Latin _ruptura_ fracture, from _ruptus_, past participle of _rumpere_ to break {ma}{mat|reave|}{/ma}",
-        "examples": [],
-        "audio_path": "media/audio/ruptur01.mp3"
-    }
-}
-```
-</details>
 
 <br>
 
