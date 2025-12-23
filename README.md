@@ -244,9 +244,6 @@ Tutto è nato dalla frustrazione di vedere rifiuti a pochi passi dai cestini a P
 
 Per approfondire il progetto, visita il mio blog: [CESTINI su aaa.craft.me](https://aaa.craft.me/blog/b/AE6DD80D-6506-46E1-B744-22B0EC17B047/)
 
-<details>
-<summary>Struttura</summary>
-
 <!-- data/cestini.geojson -->
 <details>
 <summary>Struttura</summary>
@@ -275,7 +272,6 @@ Per approfondire il progetto, visita il mio blog: [CESTINI su aaa.craft.me](http
     }
 }
 ```
-</details>
 </details>
 
 <table>
