@@ -18,7 +18,7 @@
         "short_id": "O3QY4W",
         "address": "Via Giovanni Pascoli 2\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "C019CAC7-8B2C-45C0-9F1F-802834FC0613.jpg",
+        "image_url": "media/image/C019CAC7-8B2C-45C0-9F1F-802834FC0613.jpg",
         "created_at": "2023-09-15T10:22:56Z",
         "modified_at": "2023-09-15T10:22:57Z"
       }
@@ -40,7 +40,7 @@
         "short_id": "1CZ8XM",
         "address": "Via Giovanni Pascoli 2–14\n57025 Piombino Toscana\nItalia",
         "type": "Nuovo",
-        "image_url": "F11A773D-58F5-41F0-9601-206EB98AF511.jpg",
+        "image_url": "media/image/F11A773D-58F5-41F0-9601-206EB98AF511.jpg",
         "created_at": "2023-09-15T10:23:54Z",
         "modified_at": "2023-09-15T10:28:17Z"
       }
@@ -62,7 +62,7 @@
         "short_id": "87CACU",
         "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "DC862F3E-D8E3-4257-B4FF-461E7B9C8A6F.jpg",
+        "image_url": "media/image/DC862F3E-D8E3-4257-B4FF-461E7B9C8A6F.jpg",
         "created_at": "2023-09-15T10:25:16Z",
         "modified_at": "2023-09-15T10:25:17Z"
       }
@@ -84,7 +84,7 @@
         "short_id": "4Q285U",
         "address": "Via Giovanni Pascoli 2–14\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "CE829AE9-4D9D-4BB2-9C35-E902ED856D40.jpg",
+        "image_url": "media/image/CE829AE9-4D9D-4BB2-9C35-E902ED856D40.jpg",
         "created_at": "2023-09-15T11:07:54Z",
         "modified_at": "2023-09-15T11:07:55Z"
       }
@@ -106,7 +106,7 @@
         "short_id": "L0M08C",
         "address": "Via Padre Giustino Senni 11\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "6D5E85B1-4910-4BFC-B0CB-2580F6E66BF6.jpg",
+        "image_url": "media/image/6D5E85B1-4910-4BFC-B0CB-2580F6E66BF6.jpg",
         "created_at": "2023-09-15T11:11:40Z",
         "modified_at": "2023-09-15T11:11:41Z"
       }
@@ -128,7 +128,7 @@
         "short_id": "U89E70",
         "address": "Via Padre Giustino Senni 3\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "75EE7632-AC35-4034-96AA-967671738A2F.jpg",
+        "image_url": "media/image/75EE7632-AC35-4034-96AA-967671738A2F.jpg",
         "created_at": "2023-09-15T11:13:54Z",
         "modified_at": "2023-09-15T11:13:55Z"
       }
@@ -150,7 +150,7 @@
         "short_id": "PO9F6W",
         "address": "Piazza della Cittadella 10\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "0461880B-DB2C-480A-B2C8-1D6416FBB8C6.jpg",
+        "image_url": "media/image/0461880B-DB2C-480A-B2C8-1D6416FBB8C6.jpg",
         "created_at": "2023-09-15T11:14:28Z",
         "modified_at": "2023-09-15T11:14:29Z"
       }
@@ -172,7 +172,7 @@
         "short_id": "PY6U5M",
         "address": "Piazza della Cittadella 10\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "5928EF4E-33DB-44F8-A3ED-7F7FCEB0779E.jpg",
+        "image_url": "media/image/5928EF4E-33DB-44F8-A3ED-7F7FCEB0779E.jpg",
         "created_at": "2023-09-15T11:15:30Z",
         "modified_at": "2023-09-15T11:15:31Z"
       }
@@ -194,7 +194,7 @@
         "short_id": "84N4AE",
         "address": "Piazza Alessandro Manzoni 32\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "E78C1DBE-427A-4852-A43E-8767F00FC1A4.jpg",
+        "image_url": "media/image/E78C1DBE-427A-4852-A43E-8767F00FC1A4.jpg",
         "created_at": "2023-09-15T11:17:17Z",
         "modified_at": "2023-09-15T11:17:22Z"
       }
@@ -216,7 +216,7 @@
         "short_id": "LW2SMC",
         "address": "Piazza Alessandro Manzoni 32\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "11A34CE8-3212-4D33-A686-9CDC05D0F2ED.jpg",
+        "image_url": "media/image/11A34CE8-3212-4D33-A686-9CDC05D0F2ED.jpg",
         "created_at": "2023-09-15T11:17:53Z",
         "modified_at": "2023-09-15T11:17:55Z"
       }
@@ -238,7 +238,7 @@
         "short_id": "INK70B",
         "address": "Piazza Alessandro Manzoni 15\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "BC00774F-3D16-40CF-B403-5F47B85E0DD6.jpg",
+        "image_url": "media/image/BC00774F-3D16-40CF-B403-5F47B85E0DD6.jpg",
         "created_at": "2023-09-15T11:18:54Z",
         "modified_at": "2023-09-15T11:18:55Z"
       }
@@ -260,7 +260,7 @@
         "short_id": "YPMS5L",
         "address": "Piazza Alessandro Manzoni 24\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "77BF6910-443C-4BA7-B857-8FE06A3E3022.jpg",
+        "image_url": "media/image/77BF6910-443C-4BA7-B857-8FE06A3E3022.jpg",
         "created_at": "2023-09-15T11:19:33Z",
         "modified_at": "2023-09-15T11:19:35Z"
       }
@@ -282,7 +282,7 @@
         "short_id": "4X34KQ",
         "address": "Piazza Alessandro Manzoni 19\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "625A3155-8D4D-4EC3-92B7-9FBFD9C51CEC.jpg",
+        "image_url": "media/image/625A3155-8D4D-4EC3-92B7-9FBFD9C51CEC.jpg",
         "created_at": "2023-09-15T11:21:05Z",
         "modified_at": "2023-09-15T17:14:34Z"
       }
@@ -304,7 +304,7 @@
         "short_id": "9EW51D",
         "address": "Piazza Alessandro Manzoni 9\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "8B77FA8A-3566-4255-BC3C-9D071DB498E9.jpg",
+        "image_url": "media/image/8B77FA8A-3566-4255-BC3C-9D071DB498E9.jpg",
         "created_at": "2023-09-15T11:21:59Z",
         "modified_at": "2023-09-15T17:14:54Z"
       }
@@ -326,7 +326,7 @@
         "short_id": "0S5HCH",
         "address": "Via Niccolò Copernico 22\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "DCC3CD63-FC96-49E3-BF12-A1D4611BE7A7.jpg",
+        "image_url": "media/image/DCC3CD63-FC96-49E3-BF12-A1D4611BE7A7.jpg",
         "created_at": "2023-09-15T11:26:55Z",
         "modified_at": "2023-09-19T12:03:37Z"
       }
@@ -348,7 +348,7 @@
         "short_id": "748CT7",
         "address": "Via San Francesco d'Assisi 75\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "4076AE3E-EEA1-4F83-9B52-9A7C1B2B2991.jpg",
+        "image_url": "media/image/4076AE3E-EEA1-4F83-9B52-9A7C1B2B2991.jpg",
         "created_at": "2023-09-15T11:30:18Z",
         "modified_at": "2023-09-15T11:30:20Z"
       }
@@ -370,7 +370,7 @@
         "short_id": "RHEQY1",
         "address": "Via Ugo Foscolo 1–13\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C68E78D1-B413-40D9-BADD-510B8477ABE3.jpg",
+        "image_url": "media/image/C68E78D1-B413-40D9-BADD-510B8477ABE3.jpg",
         "created_at": "2023-09-15T11:33:20Z",
         "modified_at": "2023-09-15T11:33:22Z"
       }
@@ -392,7 +392,7 @@
         "short_id": "4YXY4N",
         "address": "Via Vittorio Veneto 43A\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "277AE80E-139F-490F-B2D2-A7B73B11D665.jpg",
+        "image_url": "media/image/277AE80E-139F-490F-B2D2-A7B73B11D665.jpg",
         "created_at": "2023-09-15T11:38:07Z",
         "modified_at": "2023-09-15T17:10:31Z"
       }
@@ -414,7 +414,7 @@
         "short_id": "Z1CPGM",
         "address": "Via Vittorio Veneto 26\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "F4630A85-D39C-4D49-9CA4-7A191E7A3705.jpg",
+        "image_url": "media/image/F4630A85-D39C-4D49-9CA4-7A191E7A3705.jpg",
         "created_at": "2023-09-15T11:55:06Z",
         "modified_at": "2023-09-15T17:10:46Z"
       }
@@ -436,7 +436,7 @@
         "short_id": "PWSRZN",
         "address": "Piazza della Cittadella 6\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "931FBFBE-171F-4A00-ABD5-71D9DBF3386D.jpg",
+        "image_url": "media/image/931FBFBE-171F-4A00-ABD5-71D9DBF3386D.jpg",
         "created_at": "2023-09-15T12:03:53Z",
         "modified_at": "2023-09-15T12:03:56Z"
       }
@@ -458,7 +458,7 @@
         "short_id": "MFIVIS",
         "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "AA7D5F7D-7D21-4C40-9BF6-EEE9FBDA0E9B.jpg",
+        "image_url": "media/image/AA7D5F7D-7D21-4C40-9BF6-EEE9FBDA0E9B.jpg",
         "created_at": "2023-09-15T12:19:08Z",
         "modified_at": "2023-09-15T12:19:11Z"
       }
@@ -480,7 +480,7 @@
         "short_id": "7XC6N9",
         "address": "Via Giuseppe Parini 1B\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "1DCEAE85-E9A9-480B-A14B-44118829FA56.jpg",
+        "image_url": "media/image/1DCEAE85-E9A9-480B-A14B-44118829FA56.jpg",
         "created_at": "2023-09-15T12:20:03Z",
         "modified_at": "2023-09-15T12:20:05Z"
       }
@@ -502,7 +502,7 @@
         "short_id": "YXDLTF",
         "address": "Via Giuseppe Parini 1B\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "342EACF9-66A3-4B7F-A0DC-5F4AB6D69FFE.jpg",
+        "image_url": "media/image/342EACF9-66A3-4B7F-A0DC-5F4AB6D69FFE.jpg",
         "created_at": "2023-09-15T12:20:16Z",
         "modified_at": "2023-09-15T12:20:18Z"
       }
@@ -524,7 +524,7 @@
         "short_id": "E14VP7",
         "address": "Piazza della Costituzione 69\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "EF57B24A-2F86-4A2D-9114-8D1997996555.jpg",
+        "image_url": "media/image/EF57B24A-2F86-4A2D-9114-8D1997996555.jpg",
         "created_at": "2023-09-15T12:32:01Z",
         "modified_at": "2023-09-15T17:09:55Z"
       }
@@ -546,7 +546,7 @@
         "short_id": "JBOLDK",
         "address": "Via Petrarca 131\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "41922E95-5FD0-441C-B04A-0C64B9B7CFB0.jpg",
+        "image_url": "media/image/41922E95-5FD0-441C-B04A-0C64B9B7CFB0.jpg",
         "created_at": "2023-09-15T12:33:09Z",
         "modified_at": "2023-09-15T13:10:43Z"
       }
@@ -568,7 +568,7 @@
         "short_id": "CGFQS1",
         "address": "Via Petrarca 108\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "56123362-350E-4070-818E-281598B37810.jpg",
+        "image_url": "media/image/56123362-350E-4070-818E-281598B37810.jpg",
         "created_at": "2023-09-15T12:37:03Z",
         "modified_at": "2023-09-15T13:15:37Z"
       }
@@ -590,7 +590,7 @@
         "short_id": "Y6ON52",
         "address": "Via Petrarca 88\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "4C00EFB9-EFDE-4C93-8263-296F1AD89D66.jpg",
+        "image_url": "media/image/4C00EFB9-EFDE-4C93-8263-296F1AD89D66.jpg",
         "created_at": "2023-09-15T12:37:58Z",
         "modified_at": "2023-09-15T13:14:25Z"
       }
@@ -612,7 +612,7 @@
         "short_id": "IY57AW",
         "address": "Via Petrarca 72\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "DDB3BC42-BCCD-4BC6-99E7-BB62725C2430.jpg",
+        "image_url": "media/image/DDB3BC42-BCCD-4BC6-99E7-BB62725C2430.jpg",
         "created_at": "2023-09-15T12:39:51Z",
         "modified_at": "2023-09-15T13:27:01Z"
       }
@@ -634,7 +634,7 @@
         "short_id": "BIGBWO",
         "address": "Via Petrarca 40\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "F33BC7A6-371B-4ED5-B7A8-D248AE404753.jpg",
+        "image_url": "media/image/F33BC7A6-371B-4ED5-B7A8-D248AE404753.jpg",
         "created_at": "2023-09-15T12:40:33Z",
         "modified_at": "2023-09-15T13:26:41Z"
       }
@@ -656,7 +656,7 @@
         "short_id": "3129KF",
         "address": "Via Petrarca 16A\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "18D15EFE-58E6-4F40-8955-8D8E1F5068F7.jpg",
+        "image_url": "media/image/18D15EFE-58E6-4F40-8955-8D8E1F5068F7.jpg",
         "created_at": "2023-09-15T12:41:45Z",
         "modified_at": "2023-09-15T13:16:37Z"
       }
@@ -678,7 +678,7 @@
         "short_id": "RQTYU1",
         "address": "Via Petrarca 2\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "6F6C09CF-D3DB-4CC8-B539-CCA78431D251.jpg",
+        "image_url": "media/image/6F6C09CF-D3DB-4CC8-B539-CCA78431D251.jpg",
         "created_at": "2023-09-15T12:42:52Z",
         "modified_at": "2023-09-15T12:42:54Z"
       }
@@ -700,7 +700,7 @@
         "short_id": "9BBOJF",
         "address": "Via Petrarca 61\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "7753B516-D756-4565-AEAB-00657DA1243D.jpg",
+        "image_url": "media/image/7753B516-D756-4565-AEAB-00657DA1243D.jpg",
         "created_at": "2023-09-15T12:47:06Z",
         "modified_at": "2023-09-15T13:28:04Z"
       }
@@ -722,7 +722,7 @@
         "short_id": "9GS1JP",
         "address": "Via Petrarca 85\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "71206767-350A-4B03-9011-7A3B9952A8DA.jpg",
+        "image_url": "media/image/71206767-350A-4B03-9011-7A3B9952A8DA.jpg",
         "created_at": "2023-09-15T12:48:05Z",
         "modified_at": "2023-09-15T13:27:41Z"
       }
@@ -744,7 +744,7 @@
         "short_id": "PXBMPX",
         "address": "Via Petrarca 117\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "E01211DF-D0B9-4018-810B-531B2C7730E8.jpg",
+        "image_url": "media/image/E01211DF-D0B9-4018-810B-531B2C7730E8.jpg",
         "created_at": "2023-09-15T12:49:50Z",
         "modified_at": "2023-09-15T13:20:47Z"
       }
@@ -766,7 +766,7 @@
         "short_id": "YKXMTF",
         "address": "Via Filippo Turati 56\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "64B681A3-5621-4565-B245-AA7B1154FFA2.jpg",
+        "image_url": "media/image/64B681A3-5621-4565-B245-AA7B1154FFA2.jpg",
         "created_at": "2023-09-15T12:51:58Z",
         "modified_at": "2023-09-15T12:52:00Z"
       }
@@ -788,7 +788,7 @@
         "short_id": "9HMWZR",
         "address": "Via Giovanni Boccaccio 8\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "B9B1ECF2-B7BB-4060-A23A-7109EF9DB9AD.jpg",
+        "image_url": "media/image/B9B1ECF2-B7BB-4060-A23A-7109EF9DB9AD.jpg",
         "created_at": "2023-09-15T12:54:16Z",
         "modified_at": "2023-09-15T17:11:35Z"
       }
@@ -810,7 +810,7 @@
         "short_id": "SK9WPT",
         "address": "Piazza della Costituzione 56\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "55910796-639A-4B9B-B279-9891C3ADFF82.jpg",
+        "image_url": "media/image/55910796-639A-4B9B-B279-9891C3ADFF82.jpg",
         "created_at": "2023-09-15T12:55:13Z",
         "modified_at": "2023-09-15T17:09:22Z"
       }
@@ -832,7 +832,7 @@
         "short_id": "9LNDD4",
         "address": "Piazza della Costituzione 49\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "5355A0EF-9BC3-42FD-A31F-BD167C7EF64E.jpg",
+        "image_url": "media/image/5355A0EF-9BC3-42FD-A31F-BD167C7EF64E.jpg",
         "created_at": "2023-09-15T12:55:56Z",
         "modified_at": "2023-09-15T17:08:49Z"
       }
@@ -854,7 +854,7 @@
         "short_id": "EJKWE7",
         "address": "Piazza della Costituzione 37\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "C093DB95-EAC8-4723-A7F0-04F9E7A4D68B.jpg",
+        "image_url": "media/image/C093DB95-EAC8-4723-A7F0-04F9E7A4D68B.jpg",
         "created_at": "2023-09-15T12:56:35Z",
         "modified_at": "2023-09-15T17:06:13Z"
       }
@@ -876,7 +876,7 @@
         "short_id": "VIID0R",
         "address": "Piazza della Costituzione 32–36\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "0238A8CB-2B8B-4F00-B13C-567E227EB754.jpg",
+        "image_url": "media/image/0238A8CB-2B8B-4F00-B13C-567E227EB754.jpg",
         "created_at": "2023-09-15T12:57:28Z",
         "modified_at": "2023-09-15T17:07:52Z"
       }
@@ -898,7 +898,7 @@
         "short_id": "9SXOUQ",
         "address": "Piazza della Costituzione 37–49\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "33182B37-73E1-440F-85CC-BDFA0FA90B2E.jpg",
+        "image_url": "media/image/33182B37-73E1-440F-85CC-BDFA0FA90B2E.jpg",
         "created_at": "2023-09-15T12:57:59Z",
         "modified_at": "2023-09-15T12:58:01Z"
       }
@@ -920,7 +920,7 @@
         "short_id": "N49JIX",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "08BC2302-776B-45BA-B3D4-64E730CC6F0D.jpg",
+        "image_url": "media/image/08BC2302-776B-45BA-B3D4-64E730CC6F0D.jpg",
         "created_at": "2023-09-15T12:58:36Z",
         "modified_at": "2023-09-15T12:58:38Z"
       }
@@ -942,7 +942,7 @@
         "short_id": "SFJPOF",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "7A14E6A4-6A42-4F06-A98D-E060396BF906.jpg",
+        "image_url": "media/image/7A14E6A4-6A42-4F06-A98D-E060396BF906.jpg",
         "created_at": "2023-09-15T12:59:09Z",
         "modified_at": "2023-09-15T12:59:11Z"
       }
@@ -964,7 +964,7 @@
         "short_id": "L5GN8H",
         "address": "Piazza della Costituzione 76–80\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "F82CAD11-080E-41CC-8353-BDB15B57383B.jpg",
+        "image_url": "media/image/F82CAD11-080E-41CC-8353-BDB15B57383B.jpg",
         "created_at": "2023-09-15T13:00:01Z",
         "modified_at": "2023-09-15T13:00:03Z"
       }
@@ -986,7 +986,7 @@
         "short_id": "CBTSJM",
         "address": "Piazza della Costituzione 11–23\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "5D1E0694-3FC0-416D-8E6E-87F5BD267DEA.jpg",
+        "image_url": "media/image/5D1E0694-3FC0-416D-8E6E-87F5BD267DEA.jpg",
         "created_at": "2023-09-15T13:00:39Z",
         "modified_at": "2023-09-15T13:00:41Z"
       }
@@ -1008,7 +1008,7 @@
         "short_id": "4GPPFD",
         "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "F8AA95F7-C98D-4F16-9B3E-2AD8DDB8C271.jpg",
+        "image_url": "media/image/F8AA95F7-C98D-4F16-9B3E-2AD8DDB8C271.jpg",
         "created_at": "2023-09-15T13:01:29Z",
         "modified_at": "2023-09-15T13:01:31Z"
       }
@@ -1030,7 +1030,7 @@
         "short_id": "AWQSYO",
         "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "2DDAECA7-4756-48AD-B3E4-656072354B7E.jpg",
+        "image_url": "media/image/2DDAECA7-4756-48AD-B3E4-656072354B7E.jpg",
         "created_at": "2023-09-15T13:02:06Z",
         "modified_at": "2023-09-15T13:02:07Z"
       }
@@ -1052,7 +1052,7 @@
         "short_id": "6R7GKZ",
         "address": "Piazza della Costituzione 34\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "2B13C886-EA2A-47BF-A791-A5D4A37D89D6.jpg",
+        "image_url": "media/image/2B13C886-EA2A-47BF-A791-A5D4A37D89D6.jpg",
         "created_at": "2023-09-15T13:04:15Z",
         "modified_at": "2023-09-15T13:04:17Z"
       }
@@ -1074,7 +1074,7 @@
         "short_id": "DKXNRW",
         "address": "Piazza della Costituzione 25\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "12DB134C-2525-409B-AFF4-14F24E352D75.jpg",
+        "image_url": "media/image/12DB134C-2525-409B-AFF4-14F24E352D75.jpg",
         "created_at": "2023-09-15T13:04:54Z",
         "modified_at": "2023-09-15T13:04:55Z"
       }
@@ -1096,7 +1096,7 @@
         "short_id": "U0ZLDF",
         "address": "Via Trento e Trieste 55\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "69C43BC8-D70A-4695-99D0-4F7578294C0F.jpg",
+        "image_url": "media/image/69C43BC8-D70A-4695-99D0-4F7578294C0F.jpg",
         "created_at": "2023-09-15T13:06:11Z",
         "modified_at": "2023-09-15T13:06:13Z"
       }
@@ -1118,7 +1118,7 @@
         "short_id": "4U1UG8",
         "address": "Piazza della Costituzione 12\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "B5A8A5D3-E52D-4103-88C9-3757643028B7.jpg",
+        "image_url": "media/image/B5A8A5D3-E52D-4103-88C9-3757643028B7.jpg",
         "created_at": "2023-09-15T13:07:30Z",
         "modified_at": "2023-09-15T17:12:06Z"
       }
@@ -1140,7 +1140,7 @@
         "short_id": "MSNLIF",
         "address": "Piazza della Costituzione 6\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "B899EBA2-BED7-4AE9-8299-D83B5F1A755E.jpg",
+        "image_url": "media/image/B899EBA2-BED7-4AE9-8299-D83B5F1A755E.jpg",
         "created_at": "2023-09-15T13:07:58Z",
         "modified_at": "2023-09-15T13:07:59Z"
       }
@@ -1162,7 +1162,7 @@
         "short_id": "ZOE8LI",
         "address": "Via Filippo Turati 15\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "1AF522E8-9326-481A-AFCF-C63E8D94A7A9.jpg",
+        "image_url": "media/image/1AF522E8-9326-481A-AFCF-C63E8D94A7A9.jpg",
         "created_at": "2023-09-16T10:21:04Z",
         "modified_at": "2023-09-16T10:21:08Z"
       }
@@ -1184,7 +1184,7 @@
         "short_id": "ZMBU2R",
         "address": "Via Gaetano Donizetti 1–11\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "672F7A5F-2DF6-4C38-B70D-D4BEF9E4D303.jpg",
+        "image_url": "media/image/672F7A5F-2DF6-4C38-B70D-D4BEF9E4D303.jpg",
         "created_at": "2023-09-16T10:24:55Z",
         "modified_at": "2023-09-16T10:24:57Z"
       }
@@ -1206,7 +1206,7 @@
         "short_id": "BK9UQD",
         "address": "Viale Giacomo Matteotti 35\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "D50A41D0-DF90-49AE-8920-3CFE87C365AA.jpg",
+        "image_url": "media/image/D50A41D0-DF90-49AE-8920-3CFE87C365AA.jpg",
         "created_at": "2023-09-16T10:28:10Z",
         "modified_at": "2023-09-16T10:28:12Z"
       }
@@ -1228,7 +1228,7 @@
         "short_id": "TU5M2O",
         "address": "Via Vittorio Veneto 7A\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "43025F33-3C95-467E-9030-F206769C8092.jpg",
+        "image_url": "media/image/43025F33-3C95-467E-9030-F206769C8092.jpg",
         "created_at": "2023-09-16T10:34:45Z",
         "modified_at": "2023-09-16T10:34:47Z"
       }
@@ -1250,7 +1250,7 @@
         "short_id": "GN86TT",
         "address": "Via Emanuele Appiani 46\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "B4045024-52EA-4925-AAF0-2A9C0B588973.jpg",
+        "image_url": "media/image/B4045024-52EA-4925-AAF0-2A9C0B588973.jpg",
         "created_at": "2023-09-16T10:49:18Z",
         "modified_at": "2023-09-16T10:49:20Z"
       }
@@ -1272,7 +1272,7 @@
         "short_id": "64FIVK",
         "address": "Lungomare Guglielmo Marconi 5A\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "08F5C81F-B873-4D1A-8599-629CB2AFA749.jpg",
+        "image_url": "media/image/08F5C81F-B873-4D1A-8599-629CB2AFA749.jpg",
         "created_at": "2023-09-16T11:00:54Z",
         "modified_at": "2023-09-16T11:00:56Z"
       }
@@ -1294,7 +1294,7 @@
         "short_id": "09E89C",
         "address": "Via Gaetano Donizetti 19\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "4278C1E6-294E-4ED6-8774-E5F0B6F25F0F.jpg",
+        "image_url": "media/image/4278C1E6-294E-4ED6-8774-E5F0B6F25F0F.jpg",
         "created_at": "2023-09-16T11:15:02Z",
         "modified_at": "2023-09-16T11:15:04Z"
       }
@@ -1316,7 +1316,7 @@
         "short_id": "WNTPHC",
         "address": "Viale Giovanni Amendola 33\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "4D8AFF2F-756F-4FA8-A0B8-DEAE15E7C14B.jpg",
+        "image_url": "media/image/4D8AFF2F-756F-4FA8-A0B8-DEAE15E7C14B.jpg",
         "created_at": "2023-09-16T11:17:56Z",
         "modified_at": "2023-09-16T11:17:58Z"
       }
@@ -1338,7 +1338,7 @@
         "short_id": "NSZLS4",
         "address": "Via Giovanni Boccaccio 9\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "F9FCFB1F-816B-4604-889A-56FD2AB2A18F.jpg",
+        "image_url": "media/image/F9FCFB1F-816B-4604-889A-56FD2AB2A18F.jpg",
         "created_at": "2023-09-16T11:21:49Z",
         "modified_at": "2023-09-16T11:21:51Z"
       }
@@ -1360,7 +1360,7 @@
         "short_id": "G2QKQK",
         "address": "Viale Giovanni Amendola 93\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "0B042078-8F10-4BE4-94FE-ED17A0999CBF.jpg",
+        "image_url": "media/image/0B042078-8F10-4BE4-94FE-ED17A0999CBF.jpg",
         "created_at": "2023-09-16T11:22:09Z",
         "modified_at": "2023-09-16T11:22:11Z"
       }
@@ -1382,7 +1382,7 @@
         "short_id": "CWFN09",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "E9568686-765D-4841-A5B8-C38F0684109E.jpg",
+        "image_url": "media/image/E9568686-765D-4841-A5B8-C38F0684109E.jpg",
         "created_at": "2023-09-16T11:22:40Z",
         "modified_at": "2023-09-16T11:22:42Z"
       }
@@ -1404,7 +1404,7 @@
         "short_id": "66ZT1K",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "F926A9B1-5E6A-4CB0-9AC1-DECE8D20295C.jpg",
+        "image_url": "media/image/F926A9B1-5E6A-4CB0-9AC1-DECE8D20295C.jpg",
         "created_at": "2023-09-16T11:23:20Z",
         "modified_at": "2023-09-16T11:23:22Z"
       }
@@ -1426,7 +1426,7 @@
         "short_id": "DX4EI2",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "3AA057B3-6A64-4839-A8A5-B913FB0FFEDA.jpg",
+        "image_url": "media/image/3AA057B3-6A64-4839-A8A5-B913FB0FFEDA.jpg",
         "created_at": "2023-09-16T11:23:41Z",
         "modified_at": "2023-09-16T11:23:43Z"
       }
@@ -1448,7 +1448,7 @@
         "short_id": "AGRVD1",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "45192C95-D894-4439-8EE2-A6E6074719AD.jpg",
+        "image_url": "media/image/45192C95-D894-4439-8EE2-A6E6074719AD.jpg",
         "created_at": "2023-09-16T11:24:00Z",
         "modified_at": "2023-09-16T11:24:02Z"
       }
@@ -1470,7 +1470,7 @@
         "short_id": "3HR9QT",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "1E90E97D-F133-454C-A0B9-1BFA7CA0B0BE.jpg",
+        "image_url": "media/image/1E90E97D-F133-454C-A0B9-1BFA7CA0B0BE.jpg",
         "created_at": "2023-09-16T11:24:27Z",
         "modified_at": "2023-09-16T11:24:29Z"
       }
@@ -1492,7 +1492,7 @@
         "short_id": "XZ3YMQ",
         "address": "Viale Giovanni Amendola 31\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M",
-        "image_url": "91ADCB76-8E4D-442B-84DB-CD7FBEE7A103.jpg",
+        "image_url": "media/image/91ADCB76-8E4D-442B-84DB-CD7FBEE7A103.jpg",
         "created_at": "2023-09-16T11:25:36Z",
         "modified_at": "2023-09-16T11:25:38Z"
       }
@@ -1514,7 +1514,7 @@
         "short_id": "6SZ77X",
         "address": "Viale Giovanni Amendola 12\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M",
-        "image_url": "F3B248BD-487D-4A7A-ACE6-875C1118435B.jpg",
+        "image_url": "media/image/F3B248BD-487D-4A7A-ACE6-875C1118435B.jpg",
         "created_at": "2023-09-16T11:26:55Z",
         "modified_at": "2023-09-16T11:26:57Z"
       }
@@ -1536,7 +1536,7 @@
         "short_id": "JKYVY7",
         "address": "Viale Giovanni Amendola 12\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M",
-        "image_url": "5284768C-7287-4183-86A5-E4E7CCA257C7.jpg",
+        "image_url": "media/image/5284768C-7287-4183-86A5-E4E7CCA257C7.jpg",
         "created_at": "2023-09-16T11:27:50Z",
         "modified_at": "2023-09-16T11:27:52Z"
       }
@@ -1558,7 +1558,7 @@
         "short_id": "RYDRMR",
         "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "3F704253-E9D2-4F2C-B68F-7E66C97AC6D8.jpg",
+        "image_url": "media/image/3F704253-E9D2-4F2C-B68F-7E66C97AC6D8.jpg",
         "created_at": "2023-09-16T11:38:42Z",
         "modified_at": "2023-09-16T11:38:44Z"
       }
@@ -1580,7 +1580,7 @@
         "short_id": "T94RR1",
         "address": "Via San Francesco d'Assisi 58A\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "E8FF2B71-FAF3-4FA6-BD59-578377276107.jpg",
+        "image_url": "media/image/E8FF2B71-FAF3-4FA6-BD59-578377276107.jpg",
         "created_at": "2023-09-16T11:38:53Z",
         "modified_at": "2023-09-16T11:38:55Z"
       }
@@ -1602,7 +1602,7 @@
         "short_id": "OYWTRO",
         "address": "Piazza della Costituzione 66–74\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "759EC44A-A66E-47CD-BE5D-458BA8349D15.jpg",
+        "image_url": "media/image/759EC44A-A66E-47CD-BE5D-458BA8349D15.jpg",
         "created_at": "2023-09-16T11:43:10Z",
         "modified_at": "2023-09-16T11:43:13Z"
       }
@@ -1624,7 +1624,7 @@
         "short_id": "CUSL1F",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "48132D49-6A94-4467-8A4C-9FE34FCCB45E.jpg",
+        "image_url": "media/image/48132D49-6A94-4467-8A4C-9FE34FCCB45E.jpg",
         "created_at": "2023-09-16T11:43:34Z",
         "modified_at": "2023-09-16T11:43:36Z"
       }
@@ -1646,7 +1646,7 @@
         "short_id": "IQJ1P7",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "4F1D4749-0030-4D20-BF9C-5868911F3132.jpg",
+        "image_url": "media/image/4F1D4749-0030-4D20-BF9C-5868911F3132.jpg",
         "created_at": "2023-09-16T11:44:03Z",
         "modified_at": "2023-09-16T11:44:05Z"
       }
@@ -1668,7 +1668,7 @@
         "short_id": "3MSW2M",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C9E548B2-52FA-458A-81AD-A3811C2E638F.jpg",
+        "image_url": "media/image/C9E548B2-52FA-458A-81AD-A3811C2E638F.jpg",
         "created_at": "2023-09-16T11:44:21Z",
         "modified_at": "2023-09-16T11:44:23Z"
       }
@@ -1690,7 +1690,7 @@
         "short_id": "CLJB37",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-B",
-        "image_url": "54EAC7CD-AE6F-4C12-A602-30854EA1C014.jpg",
+        "image_url": "media/image/54EAC7CD-AE6F-4C12-A602-30854EA1C014.jpg",
         "created_at": "2023-09-16T11:44:34Z",
         "modified_at": "2023-09-16T11:44:36Z"
       }
@@ -1712,7 +1712,7 @@
         "short_id": "HQVVA2",
         "address": "Piazza della Costituzione 51–65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C52E4CD8-8D99-4460-9F17-787D100ABF53.jpg",
+        "image_url": "media/image/C52E4CD8-8D99-4460-9F17-787D100ABF53.jpg",
         "created_at": "2023-09-16T11:44:49Z",
         "modified_at": "2023-09-16T11:44:51Z"
       }
@@ -1734,7 +1734,7 @@
         "short_id": "YD4WAP",
         "address": "Piazza della Costituzione 37–49\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "6C6B52BD-E9E9-434A-B6F0-DC4F01ED851D.jpg",
+        "image_url": "media/image/6C6B52BD-E9E9-434A-B6F0-DC4F01ED851D.jpg",
         "created_at": "2023-09-16T11:45:12Z",
         "modified_at": "2023-09-16T11:45:14Z"
       }
@@ -1756,7 +1756,7 @@
         "short_id": "DV49QN",
         "address": "Piazza della Costituzione 32–36\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "DD860F83-CB26-4CFA-A70B-86C56100E484.jpg",
+        "image_url": "media/image/DD860F83-CB26-4CFA-A70B-86C56100E484.jpg",
         "created_at": "2023-09-16T11:45:35Z",
         "modified_at": "2023-09-16T11:45:37Z"
       }
@@ -1778,7 +1778,7 @@
         "short_id": "ODIG0K",
         "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "E459CA3D-294A-4559-8615-2C2C35D87CE0.jpg",
+        "image_url": "media/image/E459CA3D-294A-4559-8615-2C2C35D87CE0.jpg",
         "created_at": "2023-09-16T11:45:56Z",
         "modified_at": "2023-09-16T11:45:58Z"
       }
@@ -1800,7 +1800,7 @@
         "short_id": "QG3YCA",
         "address": "Piazza della Costituzione 24–30\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "0CD157F7-7E4D-412D-813F-4656533C5B97.jpg",
+        "image_url": "media/image/0CD157F7-7E4D-412D-813F-4656533C5B97.jpg",
         "created_at": "2023-09-16T11:46:14Z",
         "modified_at": "2023-09-16T11:46:16Z"
       }
@@ -1822,7 +1822,7 @@
         "short_id": "E8ZHGN",
         "address": "Piazza della Costituzione 11–23\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "22B90AA6-9346-4977-BC56-652F3C65DF50.jpg",
+        "image_url": "media/image/22B90AA6-9346-4977-BC56-652F3C65DF50.jpg",
         "created_at": "2023-09-16T11:46:34Z",
         "modified_at": "2023-09-16T11:46:36Z"
       }
@@ -1844,7 +1844,7 @@
         "short_id": "TMR733",
         "address": "Piazza della Costituzione 11–23\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "AE848292-F3A0-4427-9F89-E00AA823CF28.jpg",
+        "image_url": "media/image/AE848292-F3A0-4427-9F89-E00AA823CF28.jpg",
         "created_at": "2023-09-16T11:46:58Z",
         "modified_at": "2023-09-16T11:47:00Z"
       }
@@ -1866,7 +1866,7 @@
         "short_id": "RU463Q",
         "address": "Via Trento e Trieste 27\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "4CBFDE92-177D-408E-A579-7A0DE43F13F3.jpg",
+        "image_url": "media/image/4CBFDE92-177D-408E-A579-7A0DE43F13F3.jpg",
         "created_at": "2023-09-16T11:54:51Z",
         "modified_at": "2023-09-16T11:54:53Z"
       }
@@ -1888,7 +1888,7 @@
         "short_id": "E7FJ61",
         "address": "Corso Italia 181\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "4DC7EAFD-C2BC-4C46-9102-214C31BF2002.jpg",
+        "image_url": "media/image/4DC7EAFD-C2BC-4C46-9102-214C31BF2002.jpg",
         "created_at": "2023-09-18T11:39:36Z",
         "modified_at": "2023-09-18T13:10:41Z"
       }
@@ -1910,7 +1910,7 @@
         "short_id": "G141A8",
         "address": "Corso Italia 163D\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "93A6C12F-034A-439C-A2AF-ACA6DAB975A3.jpg",
+        "image_url": "media/image/93A6C12F-034A-439C-A2AF-ACA6DAB975A3.jpg",
         "created_at": "2023-09-18T11:40:21Z",
         "modified_at": "2023-09-18T13:11:19Z"
       }
@@ -1932,7 +1932,7 @@
         "short_id": "G9DFO4",
         "address": "Corso Italia 163\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "C8020F07-27FE-409E-8BBE-2A269196BDBF.jpg",
+        "image_url": "media/image/C8020F07-27FE-409E-8BBE-2A269196BDBF.jpg",
         "created_at": "2023-09-18T11:40:44Z",
         "modified_at": "2023-09-18T13:11:37Z"
       }
@@ -1954,7 +1954,7 @@
         "short_id": "T6NSG2",
         "address": "Corso Italia 151\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "F53AEC42-5EBA-4109-B2BF-BF17B88BECB3.jpg",
+        "image_url": "media/image/F53AEC42-5EBA-4109-B2BF-BF17B88BECB3.jpg",
         "created_at": "2023-09-18T11:41:15Z",
         "modified_at": "2023-09-18T13:12:20Z"
       }
@@ -1976,7 +1976,7 @@
         "short_id": "6XK167",
         "address": "Via Torino 9\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "16AFFE04-B76F-4F0E-9FAD-0CCD1F6E91D7.jpg",
+        "image_url": "media/image/16AFFE04-B76F-4F0E-9FAD-0CCD1F6E91D7.jpg",
         "created_at": "2023-09-18T11:48:55Z",
         "modified_at": "2023-09-18T11:48:57Z"
       }
@@ -1998,7 +1998,7 @@
         "short_id": "XAYENZ",
         "address": "Via Torino 16\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "9062DBED-1B1E-4C52-A8EA-ED67D36E1E07.jpg",
+        "image_url": "media/image/9062DBED-1B1E-4C52-A8EA-ED67D36E1E07.jpg",
         "created_at": "2023-09-18T11:49:03Z",
         "modified_at": "2023-09-18T11:49:05Z"
       }
@@ -2020,7 +2020,7 @@
         "short_id": "B7H1AG",
         "address": "Via Renato Fucini 6\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "85C21E71-79F2-4D50-88FC-4C3E7BC2F2BF.jpg",
+        "image_url": "media/image/85C21E71-79F2-4D50-88FC-4C3E7BC2F2BF.jpg",
         "created_at": "2023-09-18T11:51:17Z",
         "modified_at": "2023-09-18T11:51:19Z"
       }
@@ -2042,7 +2042,7 @@
         "short_id": "J6F026",
         "address": "Via Piave 17\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C0556762-9A8A-4349-B1DC-8D484A204831.jpg",
+        "image_url": "media/image/C0556762-9A8A-4349-B1DC-8D484A204831.jpg",
         "created_at": "2023-09-18T12:00:59Z",
         "modified_at": "2023-09-18T12:01:01Z"
       }
@@ -2064,7 +2064,7 @@
         "short_id": "2LABTW",
         "address": "Via Renato Fucini 22\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "4A85D6E9-E204-4B88-9187-A5F75DD63284.jpg",
+        "image_url": "media/image/4A85D6E9-E204-4B88-9187-A5F75DD63284.jpg",
         "created_at": "2023-09-18T12:09:04Z",
         "modified_at": "2023-09-18T12:09:06Z"
       }
@@ -2086,7 +2086,7 @@
         "short_id": "VJBS1X",
         "address": "Via Renato Fucini 13\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "31DCC2CE-39F8-4AC8-9178-DBA36F990A7E.jpg",
+        "image_url": "media/image/31DCC2CE-39F8-4AC8-9178-DBA36F990A7E.jpg",
         "created_at": "2023-09-18T12:12:10Z",
         "modified_at": "2023-09-18T13:17:41Z"
       }
@@ -2108,7 +2108,7 @@
         "short_id": "X8UC9U",
         "address": "Via Renato Fucini 21\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "506034E5-A6CC-442D-BC6A-8F2BF49CCFAC.jpg",
+        "image_url": "media/image/506034E5-A6CC-442D-BC6A-8F2BF49CCFAC.jpg",
         "created_at": "2023-09-18T12:12:44Z",
         "modified_at": "2023-09-18T13:19:12Z"
       }
@@ -2130,7 +2130,7 @@
         "short_id": "U3FS6R",
         "address": "Via Renato Fucini 23D\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "7BCBBC6B-F13F-486F-8831-9732F9F532D6.jpg",
+        "image_url": "media/image/7BCBBC6B-F13F-486F-8831-9732F9F532D6.jpg",
         "created_at": "2023-09-18T12:13:29Z",
         "modified_at": "2023-09-18T13:19:47Z"
       }
@@ -2152,7 +2152,7 @@
         "short_id": "HM20G5",
         "address": "Via Renato Fucini 37\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "366E0820-4C76-450F-B1F4-AB9E2C4C278F.jpg",
+        "image_url": "media/image/366E0820-4C76-450F-B1F4-AB9E2C4C278F.jpg",
         "created_at": "2023-09-18T12:15:06Z",
         "modified_at": "2023-09-18T13:20:13Z"
       }
@@ -2174,7 +2174,7 @@
         "short_id": "9KDNDZ",
         "address": "Via Renato Fucini 41–99\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "A94EB901-299C-49C9-A5C0-155308334699.jpg",
+        "image_url": "media/image/A94EB901-299C-49C9-A5C0-155308334699.jpg",
         "created_at": "2023-09-18T12:15:39Z",
         "modified_at": "2023-09-18T12:15:41Z"
       }
@@ -2196,7 +2196,7 @@
         "short_id": "2Y9KUI",
         "address": "Via Renato Fucini 47\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "ABEA1F84-3143-4799-82A1-13DFA7162EF4.jpg",
+        "image_url": "media/image/ABEA1F84-3143-4799-82A1-13DFA7162EF4.jpg",
         "created_at": "2023-09-18T12:16:02Z",
         "modified_at": "2023-09-18T12:16:04Z"
       }
@@ -2218,7 +2218,7 @@
         "short_id": "CMBXHI",
         "address": "Viale della Repubblica 12\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "F78209E8-6B66-4019-A061-F13C0C8EFE21.jpg",
+        "image_url": "media/image/F78209E8-6B66-4019-A061-F13C0C8EFE21.jpg",
         "created_at": "2023-09-18T12:17:08Z",
         "modified_at": "2023-09-18T13:48:02Z"
       }
@@ -2240,7 +2240,7 @@
         "short_id": "899NHH",
         "address": "Via Cesare Lombroso 70\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "246E6D34-9587-4DB0-A09F-0B59F9E4C9E7.jpg",
+        "image_url": "media/image/246E6D34-9587-4DB0-A09F-0B59F9E4C9E7.jpg",
         "created_at": "2023-09-18T12:17:57Z",
         "modified_at": "2023-09-18T13:48:24Z"
       }
@@ -2262,7 +2262,7 @@
         "short_id": "PGN8RW",
         "address": "Via Alessandro Volta 26A\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "144B80D3-7F3C-4114-AA9B-286ACD83B443.jpg",
+        "image_url": "media/image/144B80D3-7F3C-4114-AA9B-286ACD83B443.jpg",
         "created_at": "2023-09-18T12:20:22Z",
         "modified_at": "2023-09-18T14:11:34Z"
       }
@@ -2284,7 +2284,7 @@
         "short_id": "587NI8",
         "address": "Via Alessandro Volta 12\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "7EAF436D-EBA4-4F7F-89BB-F4301DED5502.jpg",
+        "image_url": "media/image/7EAF436D-EBA4-4F7F-89BB-F4301DED5502.jpg",
         "created_at": "2023-09-18T12:21:12Z",
         "modified_at": "2023-09-18T14:11:17Z"
       }
@@ -2306,7 +2306,7 @@
         "short_id": "QOVETO",
         "address": "Via Cesare Lombroso 50\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "BDB9D5E5-9BE1-434D-B7BC-3525E7998768.jpg",
+        "image_url": "media/image/BDB9D5E5-9BE1-434D-B7BC-3525E7998768.jpg",
         "created_at": "2023-09-18T12:22:01Z",
         "modified_at": "2023-09-18T13:49:13Z"
       }
@@ -2328,7 +2328,7 @@
         "short_id": "CJ91V6",
         "address": "Via Generale Tellini 1\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "917C629E-B730-47F8-9931-0EE4D5D2EAC2.jpg",
+        "image_url": "media/image/917C629E-B730-47F8-9931-0EE4D5D2EAC2.jpg",
         "created_at": "2023-09-18T12:25:32Z",
         "modified_at": "2023-09-18T12:25:34Z"
       }
@@ -2350,7 +2350,7 @@
         "short_id": "Z9RMWU",
         "address": "Corso Italia 65\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "5FD2C943-7480-48B8-830C-58DDDC5CEC14.jpg",
+        "image_url": "media/image/5FD2C943-7480-48B8-830C-58DDDC5CEC14.jpg",
         "created_at": "2023-09-18T12:29:49Z",
         "modified_at": "2023-09-18T12:29:51Z"
       }
@@ -2372,7 +2372,7 @@
         "short_id": "K5NMT8",
         "address": "Corso Italia 97\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "8CDC3FB5-B976-4EC7-9CBD-98BC80ACDE98.jpg",
+        "image_url": "media/image/8CDC3FB5-B976-4EC7-9CBD-98BC80ACDE98.jpg",
         "created_at": "2023-09-18T12:31:43Z",
         "modified_at": "2023-09-18T13:08:01Z"
       }
@@ -2394,7 +2394,7 @@
         "short_id": "8Z7IWP",
         "address": "Corso Italia 107\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "66FFE1B3-4477-4ACF-9099-775D62BD53E1.jpg",
+        "image_url": "media/image/66FFE1B3-4477-4ACF-9099-775D62BD53E1.jpg",
         "created_at": "2023-09-18T12:32:25Z",
         "modified_at": "2023-09-18T13:08:18Z"
       }
@@ -2416,7 +2416,7 @@
         "short_id": "VKR2DO",
         "address": "Corso Italia 78\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "4E86D1D2-82E3-4BFC-A852-8708B35A04A2.jpg",
+        "image_url": "media/image/4E86D1D2-82E3-4BFC-A852-8708B35A04A2.jpg",
         "created_at": "2023-09-18T12:32:41Z",
         "modified_at": "2023-09-18T13:08:33Z"
       }
@@ -2438,7 +2438,7 @@
         "short_id": "UAZL53",
         "address": "Corso Italia 52\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "5AA543C0-01D1-40F0-A2E3-15FE03463A00.jpg",
+        "image_url": "media/image/5AA543C0-01D1-40F0-A2E3-15FE03463A00.jpg",
         "created_at": "2023-09-18T12:33:31Z",
         "modified_at": "2023-09-18T13:07:39Z"
       }
@@ -2460,7 +2460,7 @@
         "short_id": "V5AWSG",
         "address": "Corso Italia 46\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "0E201CEE-281D-4A63-8F5D-BD6E6D7052EA.jpg",
+        "image_url": "media/image/0E201CEE-281D-4A63-8F5D-BD6E6D7052EA.jpg",
         "created_at": "2023-09-18T12:34:04Z",
         "modified_at": "2023-09-18T13:06:51Z"
       }
@@ -2482,7 +2482,7 @@
         "short_id": "PTLO6D",
         "address": "Corso Italia 134\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "20128D85-84DF-488A-8BBA-6AB4C4D49E0B.jpg",
+        "image_url": "media/image/20128D85-84DF-488A-8BBA-6AB4C4D49E0B.jpg",
         "created_at": "2023-09-18T12:37:04Z",
         "modified_at": "2023-09-18T13:12:36Z"
       }
@@ -2504,7 +2504,7 @@
         "short_id": "H3A2AP",
         "address": "Via Antonio da Piombino 2\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "DC55037D-28BC-4AE1-8555-A0A0FEEBD94B.jpg",
+        "image_url": "media/image/DC55037D-28BC-4AE1-8555-A0A0FEEBD94B.jpg",
         "created_at": "2023-09-18T12:37:39Z",
         "modified_at": "2023-09-18T13:11:53Z"
       }
@@ -2526,7 +2526,7 @@
         "short_id": "C6D4KV",
         "address": "Corso Italia 180\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "0E5ECB8C-C765-41A3-A0B2-05BF7797CC3A.jpg",
+        "image_url": "media/image/0E5ECB8C-C765-41A3-A0B2-05BF7797CC3A.jpg",
         "created_at": "2023-09-18T12:41:57Z",
         "modified_at": "2023-09-18T13:10:23Z"
       }
@@ -2548,7 +2548,7 @@
         "short_id": "Y7WDAW",
         "address": "Corso Italia 71\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "F7C42881-F3B5-4582-AFD2-3ED3E1C05F7F.jpg",
+        "image_url": "media/image/F7C42881-F3B5-4582-AFD2-3ED3E1C05F7F.jpg",
         "created_at": "2023-09-19T05:42:38Z",
         "modified_at": "2023-09-19T12:42:55Z"
       }
@@ -2570,7 +2570,7 @@
         "short_id": "XIRDZM",
         "address": "Viale della Repubblica 23A\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "7FBF1A96-BD23-44A1-A767-A9B30BD6B9CE.jpg",
+        "image_url": "media/image/7FBF1A96-BD23-44A1-A767-A9B30BD6B9CE.jpg",
         "created_at": "2023-09-19T11:31:32Z",
         "modified_at": "2023-09-19T12:09:33Z"
       }
@@ -2592,7 +2592,7 @@
         "short_id": "1S0KGI",
         "address": "Viale della Repubblica 21D\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "44A0B956-B80F-459C-932E-B0A1373EFB4E.jpg",
+        "image_url": "media/image/44A0B956-B80F-459C-932E-B0A1373EFB4E.jpg",
         "created_at": "2023-09-19T11:32:12Z",
         "modified_at": "2023-09-19T12:08:40Z"
       }
@@ -2614,7 +2614,7 @@
         "short_id": "UKOGCG",
         "address": "Viale della Repubblica 19\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "C7FDD27C-F977-4540-9197-D95A071C8E7C.jpg",
+        "image_url": "media/image/C7FDD27C-F977-4540-9197-D95A071C8E7C.jpg",
         "created_at": "2023-09-19T11:32:57Z",
         "modified_at": "2023-09-19T12:07:34Z"
       }
@@ -2636,7 +2636,7 @@
         "short_id": "CJSWXA",
         "address": "Viale della Repubblica 2\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "49012B07-4CDC-455E-9AF9-CD6CB2D8A2FE.jpg",
+        "image_url": "media/image/49012B07-4CDC-455E-9AF9-CD6CB2D8A2FE.jpg",
         "created_at": "2023-09-19T11:33:37Z",
         "modified_at": "2023-09-19T12:06:32Z"
       }
@@ -2658,7 +2658,7 @@
         "short_id": "HVKPW5",
         "address": "Via Niccolò Copernico 14A\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "EF178B96-8265-4DE2-A9A5-ED2E45708007.jpg",
+        "image_url": "media/image/EF178B96-8265-4DE2-A9A5-ED2E45708007.jpg",
         "created_at": "2023-09-19T11:34:54Z",
         "modified_at": "2023-09-19T12:05:14Z"
       }
@@ -2680,7 +2680,7 @@
         "short_id": "D6HDFD",
         "address": "Via Niccolò Copernico 25\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "2129C8D2-267F-45C7-9D9C-4C37D72BF8DA.jpg",
+        "image_url": "media/image/2129C8D2-267F-45C7-9D9C-4C37D72BF8DA.jpg",
         "created_at": "2023-09-19T11:38:25Z",
         "modified_at": "2023-09-19T12:04:43Z"
       }
@@ -2702,7 +2702,7 @@
         "short_id": "9RKXNE",
         "address": "Via Niccolò Copernico 9\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "38A61A10-10F6-4F58-9FE0-B3F144497575.jpg",
+        "image_url": "media/image/38A61A10-10F6-4F58-9FE0-B3F144497575.jpg",
         "created_at": "2023-09-19T11:39:18Z",
         "modified_at": "2023-09-19T12:13:04Z"
       }
@@ -2724,7 +2724,7 @@
         "short_id": "WS8GVF",
         "address": "Via Galileo Galilei 47\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "486945C1-AD46-4BE5-BB3E-E24EDE717982.jpg",
+        "image_url": "media/image/486945C1-AD46-4BE5-BB3E-E24EDE717982.jpg",
         "created_at": "2023-09-19T11:40:45Z",
         "modified_at": "2023-09-19T12:14:17Z"
       }
@@ -2746,7 +2746,7 @@
         "short_id": "PBX0X5",
         "address": "Via Galileo Galilei 21\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "2417C9CD-236D-409D-BD83-7C3767118E1F.jpg",
+        "image_url": "media/image/2417C9CD-236D-409D-BD83-7C3767118E1F.jpg",
         "created_at": "2023-09-19T11:41:54Z",
         "modified_at": "2023-09-19T12:16:16Z"
       }
@@ -2768,7 +2768,7 @@
         "short_id": "T0OA3B",
         "address": "Via Galileo Galilei 1\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "F5DAF170-BEF4-409F-A8E0-E89A856D564B.jpg",
+        "image_url": "media/image/F5DAF170-BEF4-409F-A8E0-E89A856D564B.jpg",
         "created_at": "2023-09-19T11:45:56Z",
         "modified_at": "2023-09-19T12:18:00Z"
       }
@@ -2790,7 +2790,7 @@
         "short_id": "I9EVB7",
         "address": "Via Cesare Battisti 12\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M4",
-        "image_url": "71E3D951-E5AB-4AD4-99F7-69E640916E48.jpg",
+        "image_url": "media/image/71E3D951-E5AB-4AD4-99F7-69E640916E48.jpg",
         "created_at": "2023-09-19T11:53:08Z",
         "modified_at": "2023-09-19T11:53:10Z"
       }
@@ -2812,7 +2812,7 @@
         "short_id": "3SQNVO",
         "address": "Via Leonardo da Vinci 2A\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M4",
-        "image_url": "C8E96243-7DC8-4FED-A703-E0BCA100B90D.jpg",
+        "image_url": "media/image/C8E96243-7DC8-4FED-A703-E0BCA100B90D.jpg",
         "created_at": "2023-09-19T11:53:32Z",
         "modified_at": "2023-09-19T11:53:33Z"
       }
@@ -2834,7 +2834,7 @@
         "short_id": "UY7425",
         "address": "Via San Francesco d'Assisi 4\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "AE3C6989-EE22-452B-9CA1-9B148E8EDD8D.jpg",
+        "image_url": "media/image/AE3C6989-EE22-452B-9CA1-9B148E8EDD8D.jpg",
         "created_at": "2023-09-19T11:55:08Z",
         "modified_at": "2023-09-19T11:55:10Z"
       }
@@ -2856,7 +2856,7 @@
         "short_id": "KXDP32",
         "address": "Via San Francesco d'Assisi 4\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "05A4D0CC-E332-435C-AC47-0E6E83E93E73.jpg",
+        "image_url": "media/image/05A4D0CC-E332-435C-AC47-0E6E83E93E73.jpg",
         "created_at": "2023-09-19T11:55:15Z",
         "modified_at": "2023-09-19T11:55:16Z"
       }
@@ -2878,7 +2878,7 @@
         "short_id": "X5UOZI",
         "address": "Piazza Giuseppe Verdi 7\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "EF6FE759-E25A-4764-965E-8605F4CD0C0C.jpg",
+        "image_url": "media/image/EF6FE759-E25A-4764-965E-8605F4CD0C0C.jpg",
         "created_at": "2023-09-19T11:56:08Z",
         "modified_at": "2023-09-19T11:56:09Z"
       }
@@ -2900,7 +2900,7 @@
         "short_id": "X8NKUZ",
         "address": "Piazza Giuseppe Verdi 1\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "A8B9ECE4-27BE-4685-9283-2B6799CBD86A.jpg",
+        "image_url": "media/image/A8B9ECE4-27BE-4685-9283-2B6799CBD86A.jpg",
         "created_at": "2023-09-19T11:56:33Z",
         "modified_at": "2023-09-19T11:56:35Z"
       }
@@ -2922,7 +2922,7 @@
         "short_id": "CW42ZG",
         "address": "Piazza Thomas Edison 2\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "A5B86A3F-1369-4A3C-BC3A-43A72B6A0E86.jpg",
+        "image_url": "media/image/A5B86A3F-1369-4A3C-BC3A-43A72B6A0E86.jpg",
         "created_at": "2023-09-19T11:57:14Z",
         "modified_at": "2023-09-19T11:57:15Z"
       }
@@ -2944,7 +2944,7 @@
         "short_id": "CTYIVC",
         "address": "Via del Fosso 24–40\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "D7FCE6BE-ACC5-4388-8B38-AD9F16261FBA.jpg",
+        "image_url": "media/image/D7FCE6BE-ACC5-4388-8B38-AD9F16261FBA.jpg",
         "created_at": "2023-09-19T11:57:40Z",
         "modified_at": "2023-09-19T11:57:41Z"
       }
@@ -2966,7 +2966,7 @@
         "short_id": "P5DWLO",
         "address": "Via Leonardo da Vinci\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "F56E528D-6D3D-447E-8CA9-C5E51971679E.jpg",
+        "image_url": "media/image/F56E528D-6D3D-447E-8CA9-C5E51971679E.jpg",
         "created_at": "2023-09-19T11:58:07Z",
         "modified_at": "2023-09-19T11:58:08Z"
       }
@@ -2988,7 +2988,7 @@
         "short_id": "LGLOYS",
         "address": "Via Leonardo da Vinci 27B\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "7B03A75D-88EF-41E2-A6A5-67121D83CE8E.jpg",
+        "image_url": "media/image/7B03A75D-88EF-41E2-A6A5-67121D83CE8E.jpg",
         "created_at": "2023-09-19T12:00:55Z",
         "modified_at": "2023-09-19T12:00:56Z"
       }
@@ -3010,7 +3010,7 @@
         "short_id": "GPWQGT",
         "address": "Via Galileo Galilei\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "6AADB626-2005-4485-92C8-302CD85D5381.jpg",
+        "image_url": "media/image/6AADB626-2005-4485-92C8-302CD85D5381.jpg",
         "created_at": "2023-09-19T12:19:55Z",
         "modified_at": "2023-09-19T12:20:23Z"
       }
@@ -3032,7 +3032,7 @@
         "short_id": "60DN1Y",
         "address": "Via Galileo Galilei 38\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "FEB6F178-EECC-46DA-B70A-E79824F1BC54.jpg",
+        "image_url": "media/image/FEB6F178-EECC-46DA-B70A-E79824F1BC54.jpg",
         "created_at": "2023-09-19T12:22:07Z",
         "modified_at": "2023-09-19T12:23:57Z"
       }
@@ -3054,7 +3054,7 @@
         "short_id": "P7UGMD",
         "address": "Via Cesare Lombroso 65\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "BBBD60C8-A166-49F5-8F95-3AA8E7D62C92.jpg",
+        "image_url": "media/image/BBBD60C8-A166-49F5-8F95-3AA8E7D62C92.jpg",
         "created_at": "2023-09-19T12:23:52Z",
         "modified_at": "2023-09-19T12:24:17Z"
       }
@@ -3076,7 +3076,7 @@
         "short_id": "1MN0X3",
         "address": "Via Cesare Lombroso 9A\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "39548B42-164A-4FCB-B1E8-106C89856F54.jpg",
+        "image_url": "media/image/39548B42-164A-4FCB-B1E8-106C89856F54.jpg",
         "created_at": "2023-09-19T12:26:25Z",
         "modified_at": "2023-09-19T12:26:44Z"
       }
@@ -3098,7 +3098,7 @@
         "short_id": "DHPLJB",
         "address": "Via Benvenuto Cellini 17\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "E07D611D-D4C8-4D95-B67C-7E7BE8D90469.jpg",
+        "image_url": "media/image/E07D611D-D4C8-4D95-B67C-7E7BE8D90469.jpg",
         "created_at": "2023-09-19T12:27:14Z",
         "modified_at": "2023-09-19T12:27:34Z"
       }
@@ -3120,7 +3120,7 @@
         "short_id": "B7KODY",
         "address": "Via Cesare Lombroso 5\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "1FE9E715-60E7-4F78-B1BE-3AF8F0582D54.jpg",
+        "image_url": "media/image/1FE9E715-60E7-4F78-B1BE-3AF8F0582D54.jpg",
         "created_at": "2023-09-19T12:29:51Z",
         "modified_at": "2023-09-19T12:30:23Z"
       }
@@ -3142,7 +3142,7 @@
         "short_id": "XKIR2U",
         "address": "Corso Italia 57\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "7D87F065-E3F0-49C1-8FB2-7E1346D8D3E6.jpg",
+        "image_url": "media/image/7D87F065-E3F0-49C1-8FB2-7E1346D8D3E6.jpg",
         "created_at": "2023-09-19T12:31:18Z",
         "modified_at": "2023-09-19T12:31:46Z"
       }
@@ -3164,7 +3164,7 @@
         "short_id": "55MBF3",
         "address": "Corso Italia 51\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "0354E9E3-7861-4A46-8E78-6838FA7F2480.jpg",
+        "image_url": "media/image/0354E9E3-7861-4A46-8E78-6838FA7F2480.jpg",
         "created_at": "2023-09-19T12:32:15Z",
         "modified_at": "2023-09-19T12:33:19Z"
       }
@@ -3186,7 +3186,7 @@
         "short_id": "OE8HRS",
         "address": "Corso Italia 21\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "79D33B11-4D43-49DA-AC94-7E34BC21122E.jpg",
+        "image_url": "media/image/79D33B11-4D43-49DA-AC94-7E34BC21122E.jpg",
         "created_at": "2023-09-19T12:34:22Z",
         "modified_at": "2023-09-19T12:34:40Z"
       }
@@ -3208,7 +3208,7 @@
         "short_id": "QZ27E1",
         "address": "Corso Italia 3\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "38D57274-7E89-497C-83C0-87698A3BEA3B.jpg",
+        "image_url": "media/image/38D57274-7E89-497C-83C0-87698A3BEA3B.jpg",
         "created_at": "2023-09-19T12:35:22Z",
         "modified_at": "2023-09-19T12:35:46Z"
       }
@@ -3230,7 +3230,7 @@
         "short_id": "UGOKH3",
         "address": "Corso Italia 2\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "4E28B57B-F16E-41B6-A096-955942D263AA.jpg",
+        "image_url": "media/image/4E28B57B-F16E-41B6-A096-955942D263AA.jpg",
         "created_at": "2023-09-19T12:36:29Z",
         "modified_at": "2023-09-19T12:36:51Z"
       }
@@ -3252,7 +3252,7 @@
         "short_id": "EOPA4K",
         "address": "Corso Italia 12\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "7ADFC368-A4C1-4466-B823-4D0A071856CD.jpg",
+        "image_url": "media/image/7ADFC368-A4C1-4466-B823-4D0A071856CD.jpg",
         "created_at": "2023-09-19T12:37:30Z",
         "modified_at": "2023-09-19T12:37:48Z"
       }
@@ -3274,7 +3274,7 @@
         "short_id": "LV1KUV",
         "address": "Corso Italia 32\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "D07C2BB3-7662-4E14-912B-F2E80DD4B314.jpg",
+        "image_url": "media/image/D07C2BB3-7662-4E14-912B-F2E80DD4B314.jpg",
         "created_at": "2023-09-19T12:38:23Z",
         "modified_at": "2023-09-19T12:38:37Z"
       }
@@ -3296,7 +3296,7 @@
         "short_id": "3ABHLN",
         "address": "Piazza Antonio Gramsci 12A\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "2343F920-C4FD-4620-A43B-D208B2C71BD5.jpg",
+        "image_url": "media/image/2343F920-C4FD-4620-A43B-D208B2C71BD5.jpg",
         "created_at": "2023-09-19T12:39:00Z",
         "modified_at": "2023-09-19T12:39:21Z"
       }
@@ -3318,7 +3318,7 @@
         "short_id": "TE8YJY",
         "address": "Piazza Antonio Gramsci 10\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "7D1E126F-28A1-42E0-89E6-EB14D72AA0EE.jpg",
+        "image_url": "media/image/7D1E126F-28A1-42E0-89E6-EB14D72AA0EE.jpg",
         "created_at": "2023-09-19T12:40:00Z",
         "modified_at": "2023-09-19T12:40:16Z"
       }
@@ -3340,7 +3340,7 @@
         "short_id": "51WRY4",
         "address": "Via Andrea Costa\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "659184BE-B43A-4F0F-A5AF-F7282B3CF337.jpg",
+        "image_url": "media/image/659184BE-B43A-4F0F-A5AF-F7282B3CF337.jpg",
         "created_at": "2023-09-19T12:41:03Z",
         "modified_at": "2023-09-19T12:41:16Z"
       }
@@ -3362,7 +3362,7 @@
         "short_id": "5GIIR2",
         "address": "Via Carlo Pisacane 55\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "77634960-9C09-4398-82B3-1638D5548201.jpg",
+        "image_url": "media/image/77634960-9C09-4398-82B3-1638D5548201.jpg",
         "created_at": "2023-09-19T12:45:32Z",
         "modified_at": "2023-09-19T12:45:33Z"
       }
@@ -3384,7 +3384,7 @@
         "short_id": "CQLMH7",
         "address": "Via Carlo Pisacane 103\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "350201FF-DF71-4598-B33D-419C1F8FB9FA.jpg",
+        "image_url": "media/image/350201FF-DF71-4598-B33D-419C1F8FB9FA.jpg",
         "created_at": "2023-09-19T12:49:34Z",
         "modified_at": "2023-09-19T12:49:36Z"
       }
@@ -3406,7 +3406,7 @@
         "short_id": "24KDVH",
         "address": "Vicolo Rosa 1–7\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "4F6EC093-8DBD-4E07-A66F-A4ED77CE70C2.jpg",
+        "image_url": "media/image/4F6EC093-8DBD-4E07-A66F-A4ED77CE70C2.jpg",
         "created_at": "2023-09-19T12:50:32Z",
         "modified_at": "2023-09-19T12:50:33Z"
       }
@@ -3428,7 +3428,7 @@
         "short_id": "4XDQL3",
         "address": "Via Carlo Pisacane 114A\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "F52D5D17-D7AD-4E74-8550-4C7400D029F4.jpg",
+        "image_url": "media/image/F52D5D17-D7AD-4E74-8550-4C7400D029F4.jpg",
         "created_at": "2023-09-19T12:54:29Z",
         "modified_at": "2023-09-19T12:54:30Z"
       }
@@ -3450,7 +3450,7 @@
         "short_id": "AUJZ8R",
         "address": "Via Carlo Pisacane 100A\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "30B5F3FD-C677-466A-B30C-A029F5016F3B.jpg",
+        "image_url": "media/image/30B5F3FD-C677-466A-B30C-A029F5016F3B.jpg",
         "created_at": "2023-09-19T12:55:33Z",
         "modified_at": "2023-09-19T12:55:50Z"
       }
@@ -3472,7 +3472,7 @@
         "short_id": "PP2A9N",
         "address": "Via Carlo Pisacane 90\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "3D8F9710-63A5-4DD0-B664-9D4A0500F433.jpg",
+        "image_url": "media/image/3D8F9710-63A5-4DD0-B664-9D4A0500F433.jpg",
         "created_at": "2023-09-19T12:57:41Z",
         "modified_at": "2023-09-19T12:57:57Z"
       }
@@ -3494,7 +3494,7 @@
         "short_id": "O9X8VZ",
         "address": "Via Carlo Pisacane 44\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "F3421DB0-D4A3-4F98-A5EE-C9053D8AB8ED.jpg",
+        "image_url": "media/image/F3421DB0-D4A3-4F98-A5EE-C9053D8AB8ED.jpg",
         "created_at": "2023-09-19T13:00:10Z",
         "modified_at": "2023-09-19T13:00:24Z"
       }
@@ -3516,7 +3516,7 @@
         "short_id": "I7AGK0",
         "address": "Piazza Antonio Gramsci 2\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "2229CA9A-611B-4BD9-8F32-E2D202942270.jpg",
+        "image_url": "media/image/2229CA9A-611B-4BD9-8F32-E2D202942270.jpg",
         "created_at": "2023-09-19T13:02:14Z",
         "modified_at": "2023-09-19T13:02:29Z"
       }
@@ -3538,7 +3538,7 @@
         "short_id": "UDW9WU",
         "address": "Via Giosuè Carducci\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "582BC7EF-41E7-4A44-AC3D-F33EF73CF50A.jpg",
+        "image_url": "media/image/582BC7EF-41E7-4A44-AC3D-F33EF73CF50A.jpg",
         "created_at": "2023-09-19T13:02:56Z",
         "modified_at": "2023-09-19T13:03:10Z"
       }
@@ -3560,7 +3560,7 @@
         "short_id": "8C7FRY",
         "address": "Via Cristoforo Colombo 9\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "655C26AA-9E4A-41D7-B3A7-6C6CCBF374C9.jpg",
+        "image_url": "media/image/655C26AA-9E4A-41D7-B3A7-6C6CCBF374C9.jpg",
         "created_at": "2023-09-19T13:10:23Z",
         "modified_at": "2023-09-19T13:10:24Z"
       }
@@ -3582,7 +3582,7 @@
         "short_id": "9IO2W0",
         "address": "Via Cristoforo Colombo 9\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "AF5ADACE-85F8-4B63-8CBD-84E1507E78F5.jpg",
+        "image_url": "media/image/AF5ADACE-85F8-4B63-8CBD-84E1507E78F5.jpg",
         "created_at": "2023-09-19T13:10:41Z",
         "modified_at": "2023-09-19T13:10:43Z"
       }
@@ -3604,7 +3604,7 @@
         "short_id": "3TOOZE",
         "address": "Via Cristoforo Colombo 5\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "3C35CAC8-EB48-4390-BB39-59C0AD5DC7A0.jpg",
+        "image_url": "media/image/3C35CAC8-EB48-4390-BB39-59C0AD5DC7A0.jpg",
         "created_at": "2023-09-19T13:11:52Z",
         "modified_at": "2023-09-19T13:11:53Z"
       }
@@ -3626,7 +3626,7 @@
         "short_id": "TQI85A",
         "address": "Via Cristoforo Colombo 5\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "61B3D8BE-2388-4621-8C80-13F68FBFCF82.jpg",
+        "image_url": "media/image/61B3D8BE-2388-4621-8C80-13F68FBFCF82.jpg",
         "created_at": "2023-09-19T13:12:09Z",
         "modified_at": "2023-09-19T13:12:10Z"
       }
@@ -3648,7 +3648,7 @@
         "short_id": "N4BKY9",
         "address": "Via Marco Polo 15\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "D281F34F-4C7E-472D-8541-3FAD5F52D048.jpg",
+        "image_url": "media/image/D281F34F-4C7E-472D-8541-3FAD5F52D048.jpg",
         "created_at": "2023-09-19T13:16:18Z",
         "modified_at": "2023-09-19T13:16:20Z"
       }
@@ -3670,7 +3670,7 @@
         "short_id": "SZO9OY",
         "address": "Piazza Ferruccio Niccolini 1\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "FD7E6242-0664-425D-A3EF-D3E40FE522A4.jpg",
+        "image_url": "media/image/FD7E6242-0664-425D-A3EF-D3E40FE522A4.jpg",
         "created_at": "2023-09-20T12:19:06Z",
         "modified_at": "2023-09-20T12:19:08Z"
       }
@@ -3692,7 +3692,7 @@
         "short_id": "GMQTJS",
         "address": "Via Emilio Salgari 8\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "A178D778-B991-493A-A6FA-D8B1F5F8567D.jpg",
+        "image_url": "media/image/A178D778-B991-493A-A6FA-D8B1F5F8567D.jpg",
         "created_at": "2023-09-20T12:23:49Z",
         "modified_at": "2023-09-20T12:23:51Z"
       }
@@ -3714,7 +3714,7 @@
         "short_id": "EF95AS",
         "address": "Piazza Ferruccio Niccolini 21\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "66D5EAD1-754E-46E8-BCFC-5033E22626AE.jpg",
+        "image_url": "media/image/66D5EAD1-754E-46E8-BCFC-5033E22626AE.jpg",
         "created_at": "2023-09-20T12:28:26Z",
         "modified_at": "2023-09-20T14:56:44Z"
       }
@@ -3736,7 +3736,7 @@
         "short_id": "3SI8NR",
         "address": "Via Luigi Capuana 2–4\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "601B7972-17DC-4566-951D-5C2EC292DE0A.jpg",
+        "image_url": "media/image/601B7972-17DC-4566-951D-5C2EC292DE0A.jpg",
         "created_at": "2023-09-20T12:36:46Z",
         "modified_at": "2023-09-20T12:37:19Z"
       }
@@ -3758,7 +3758,7 @@
         "short_id": "7MISUM",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "0E3D5C4E-7BB0-4CD2-BE97-10BDD5D62B97.jpg",
+        "image_url": "media/image/0E3D5C4E-7BB0-4CD2-BE97-10BDD5D62B97.jpg",
         "created_at": "2023-09-20T12:41:43Z",
         "modified_at": "2023-09-20T12:41:45Z"
       }
@@ -3780,7 +3780,7 @@
         "short_id": "9IJV2O",
         "address": "Via Pietro Gori 49\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "2158F1D8-5403-4251-86B7-DF321CC3E3A1.jpg",
+        "image_url": "media/image/2158F1D8-5403-4251-86B7-DF321CC3E3A1.jpg",
         "created_at": "2023-09-20T12:43:20Z",
         "modified_at": "2023-09-20T12:43:22Z"
       }
@@ -3802,7 +3802,7 @@
         "short_id": "QJS75E",
         "address": "Via del Cimitero 5\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "154E6924-C6B2-437C-9D97-BB569682FB76.jpg",
+        "image_url": "media/image/154E6924-C6B2-437C-9D97-BB569682FB76.jpg",
         "created_at": "2023-09-20T12:44:06Z",
         "modified_at": "2023-09-20T12:44:08Z"
       }
@@ -3824,7 +3824,7 @@
         "short_id": "UUNKMA",
         "address": "Via del Cimitero 2\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "88204256-8040-49E0-8F52-30FC5586388C.jpg",
+        "image_url": "media/image/88204256-8040-49E0-8F52-30FC5586388C.jpg",
         "created_at": "2023-09-20T12:46:29Z",
         "modified_at": "2023-09-20T12:46:30Z"
       }
@@ -3846,7 +3846,7 @@
         "short_id": "YRX2MX",
         "address": "Via del Cimitero 5\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "D5687033-58CE-4A29-8F2E-5C8FBD91990F.jpg",
+        "image_url": "media/image/D5687033-58CE-4A29-8F2E-5C8FBD91990F.jpg",
         "created_at": "2023-09-20T12:47:51Z",
         "modified_at": "2023-09-20T12:47:52Z"
       }
@@ -3868,7 +3868,7 @@
         "short_id": "SN998B",
         "address": "Via Giuseppe Pietri 1\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "D5EE77D7-D1D8-4BE6-866A-B621785A5620.jpg",
+        "image_url": "media/image/D5EE77D7-D1D8-4BE6-866A-B621785A5620.jpg",
         "created_at": "2023-09-20T12:49:26Z",
         "modified_at": "2023-09-20T12:49:28Z"
       }
@@ -3890,7 +3890,7 @@
         "short_id": "VFY92W",
         "address": "Casette Minime 25\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "8CD9EA7F-03C0-420C-B8E6-2802D4A79886.jpg",
+        "image_url": "media/image/8CD9EA7F-03C0-420C-B8E6-2802D4A79886.jpg",
         "created_at": "2023-09-20T12:52:16Z",
         "modified_at": "2023-09-20T12:52:18Z"
       }
@@ -3912,7 +3912,7 @@
         "short_id": "1S1BUU",
         "address": "Via Francesco Ferrer 65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C8FBDE23-6988-40EB-B413-EDBC35AA9C3A.jpg",
+        "image_url": "media/image/C8FBDE23-6988-40EB-B413-EDBC35AA9C3A.jpg",
         "created_at": "2023-09-20T12:53:48Z",
         "modified_at": "2023-09-20T12:53:49Z"
       }
@@ -3934,7 +3934,7 @@
         "short_id": "BX1VCG",
         "address": "Casone Maresma 1\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "A63947D1-C215-4070-AEF4-21C8CB3165C5.jpg",
+        "image_url": "media/image/A63947D1-C215-4070-AEF4-21C8CB3165C5.jpg",
         "created_at": "2023-09-20T12:55:36Z",
         "modified_at": "2023-09-20T12:55:37Z"
       }
@@ -3956,7 +3956,7 @@
         "short_id": "9JIFCA",
         "address": "Via Francesco Ferrer 65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "9FC27237-959C-4CA6-AC95-5EBC00EF6199.jpg",
+        "image_url": "media/image/9FC27237-959C-4CA6-AC95-5EBC00EF6199.jpg",
         "created_at": "2023-09-20T12:57:02Z",
         "modified_at": "2023-09-20T12:57:04Z"
       }
@@ -3978,7 +3978,7 @@
         "short_id": "8BMT6Q",
         "address": "Via Francesco Ferrer 65\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C900751D-B1BC-4701-9711-D24A6B3FA972.jpg",
+        "image_url": "media/image/C900751D-B1BC-4701-9711-D24A6B3FA972.jpg",
         "created_at": "2023-09-20T12:57:10Z",
         "modified_at": "2023-09-20T12:57:11Z"
       }
@@ -4000,7 +4000,7 @@
         "short_id": "D536JF",
         "address": "Via Andrea Costa 3A\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "09CE81F6-178C-4AD4-9BBC-C0EEE9E77B29.jpg",
+        "image_url": "media/image/09CE81F6-178C-4AD4-9BBC-C0EEE9E77B29.jpg",
         "created_at": "2023-09-20T13:02:40Z",
         "modified_at": "2023-09-20T13:02:51Z"
       }
@@ -4022,7 +4022,7 @@
         "short_id": "PWRYZB",
         "address": "Via Bruno Giordano 53B\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "5EF5D19F-5C01-471F-89EE-60A63451C644.jpg",
+        "image_url": "media/image/5EF5D19F-5C01-471F-89EE-60A63451C644.jpg",
         "created_at": "2023-09-20T13:07:30Z",
         "modified_at": "2023-09-20T13:07:31Z"
       }
@@ -4044,7 +4044,7 @@
         "short_id": "O8WZAH",
         "address": "Via Francesco Ferrer 70A\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "3BA36AB4-D54A-4268-A6AB-ACB6C6887D47.jpg",
+        "image_url": "media/image/3BA36AB4-D54A-4268-A6AB-ACB6C6887D47.jpg",
         "created_at": "2023-09-20T13:08:41Z",
         "modified_at": "2023-09-20T13:08:43Z"
       }
@@ -4066,7 +4066,7 @@
         "short_id": "2OZAZO",
         "address": "Via Grosseto 7H\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "2D804440-C0EA-416F-9FBF-34C36DE97706.jpg",
+        "image_url": "media/image/2D804440-C0EA-416F-9FBF-34C36DE97706.jpg",
         "created_at": "2023-09-20T13:10:25Z",
         "modified_at": "2023-09-20T13:10:26Z"
       }
@@ -4088,7 +4088,7 @@
         "short_id": "IUW33S",
         "address": "Via Grosseto 4F\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "593446C4-3955-4483-8E11-8CD376CA698E.jpg",
+        "image_url": "media/image/593446C4-3955-4483-8E11-8CD376CA698E.jpg",
         "created_at": "2023-09-20T13:10:47Z",
         "modified_at": "2023-09-20T13:10:48Z"
       }
@@ -4110,7 +4110,7 @@
         "short_id": "K9HV9B",
         "address": "Via Grosseto 3G\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "247B7E69-361C-42DD-9211-EFF647CE2F34.jpg",
+        "image_url": "media/image/247B7E69-361C-42DD-9211-EFF647CE2F34.jpg",
         "created_at": "2023-09-20T13:11:12Z",
         "modified_at": "2023-09-20T13:11:13Z"
       }
@@ -4132,7 +4132,7 @@
         "short_id": "LYX1WE",
         "address": "Via Bruno Giordano 42–82\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "67E3927A-71FD-4416-AD54-DDA368E65372.jpg",
+        "image_url": "media/image/67E3927A-71FD-4416-AD54-DDA368E65372.jpg",
         "created_at": "2023-09-20T13:18:38Z",
         "modified_at": "2023-09-20T13:19:05Z"
       }
@@ -4154,7 +4154,7 @@
         "short_id": "EOLPER",
         "address": "Via Bruno Giordano 4\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "C77F2158-3A88-4A47-9B08-A6B6AE8C3925.jpg",
+        "image_url": "media/image/C77F2158-3A88-4A47-9B08-A6B6AE8C3925.jpg",
         "created_at": "2023-09-20T13:22:44Z",
         "modified_at": "2023-09-20T13:22:55Z"
       }
@@ -4176,7 +4176,7 @@
         "short_id": "LWJ2KS",
         "address": "Via Bruno Giordano 2D\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "611BD65C-1C96-4BC4-95EC-099FEB0674CD.jpg",
+        "image_url": "media/image/611BD65C-1C96-4BC4-95EC-099FEB0674CD.jpg",
         "created_at": "2023-09-20T13:23:40Z",
         "modified_at": "2023-09-20T13:23:52Z"
       }
@@ -4198,7 +4198,7 @@
         "short_id": "O8YR5S",
         "address": "Via Bruno Giordano 1\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "B59B9841-C182-48A6-B448-63658BD11999.jpg",
+        "image_url": "media/image/B59B9841-C182-48A6-B448-63658BD11999.jpg",
         "created_at": "2023-09-20T13:24:52Z",
         "modified_at": "2023-09-20T13:27:00Z"
       }
@@ -4220,7 +4220,7 @@
         "short_id": "M5A6O3",
         "address": "Via Francesco Ferrer 19\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "0FFB685E-569C-45BB-9811-CAE7D7734902.jpg",
+        "image_url": "media/image/0FFB685E-569C-45BB-9811-CAE7D7734902.jpg",
         "created_at": "2023-09-20T13:27:39Z",
         "modified_at": "2023-09-20T13:27:40Z"
       }
@@ -4242,7 +4242,7 @@
         "short_id": "IFYIFQ",
         "address": "Via Andrea Costa 2B\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "6803488A-83AA-4BF4-BA79-30887C08AE2E.jpg",
+        "image_url": "media/image/6803488A-83AA-4BF4-BA79-30887C08AE2E.jpg",
         "created_at": "2023-09-20T13:29:05Z",
         "modified_at": "2023-09-20T13:29:47Z"
       }
@@ -4264,7 +4264,7 @@
         "short_id": "B9QSZH",
         "address": "Via Andrea Costa 2–8\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "CCF29B55-5E55-4ABA-934D-5DD25A9E6110.jpg",
+        "image_url": "media/image/CCF29B55-5E55-4ABA-934D-5DD25A9E6110.jpg",
         "created_at": "2023-09-20T13:30:01Z",
         "modified_at": "2023-09-20T13:30:28Z"
       }
@@ -4286,7 +4286,7 @@
         "short_id": "TTJYEW",
         "address": "Via Andrea Costa 2–8\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "BF994A91-6172-4E30-8BA2-07E425EAEAD0.jpg",
+        "image_url": "media/image/BF994A91-6172-4E30-8BA2-07E425EAEAD0.jpg",
         "created_at": "2023-09-20T13:30:07Z",
         "modified_at": "2023-09-20T13:30:21Z"
       }
@@ -4308,7 +4308,7 @@
         "short_id": "R1SOGC",
         "address": "Via Lucca 5–9\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "F556490C-BA2F-4AFB-AF09-8B9CA40A87E3.jpg",
+        "image_url": "media/image/F556490C-BA2F-4AFB-AF09-8B9CA40A87E3.jpg",
         "created_at": "2023-09-20T13:56:49Z",
         "modified_at": "2023-09-20T13:56:50Z"
       }
@@ -4330,7 +4330,7 @@
         "short_id": "M5BFW7",
         "address": "Via Landi Landino 40\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "5AB7797E-A6A8-4034-8767-33A2639C3487.jpg",
+        "image_url": "media/image/5AB7797E-A6A8-4034-8767-33A2639C3487.jpg",
         "created_at": "2023-09-20T13:57:06Z",
         "modified_at": "2023-09-20T13:57:08Z"
       }
@@ -4352,7 +4352,7 @@
         "short_id": "XCQV54",
         "address": "Via Flemalle 3\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "7C0DA188-D2F2-466D-B2F3-BC247F6041BD.jpg",
+        "image_url": "media/image/7C0DA188-D2F2-466D-B2F3-BC247F6041BD.jpg",
         "created_at": "2023-09-20T14:00:24Z",
         "modified_at": "2023-09-20T14:00:48Z"
       }
@@ -4374,7 +4374,7 @@
         "short_id": "BNVIYN",
         "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "53D45593-DEDE-4BF8-98F7-BA5517ADB776.jpg",
+        "image_url": "media/image/53D45593-DEDE-4BF8-98F7-BA5517ADB776.jpg",
         "created_at": "2023-09-21T11:40:48Z",
         "modified_at": "2023-09-21T11:40:51Z"
       }
@@ -4396,7 +4396,7 @@
         "short_id": "EG485F",
         "address": "Via Bruno Giordano 67–99\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "7A517C86-504F-4047-8150-27C97BD6B4B2.jpg",
+        "image_url": "media/image/7A517C86-504F-4047-8150-27C97BD6B4B2.jpg",
         "created_at": "2023-09-21T11:41:20Z",
         "modified_at": "2023-09-21T11:41:22Z"
       }
@@ -4418,7 +4418,7 @@
         "short_id": "LJGK4W",
         "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "87A9E076-19D2-46B4-AC8F-3833AAA4B44B.jpg",
+        "image_url": "media/image/87A9E076-19D2-46B4-AC8F-3833AAA4B44B.jpg",
         "created_at": "2023-09-21T11:44:46Z",
         "modified_at": "2023-09-21T11:44:47Z"
       }
@@ -4440,7 +4440,7 @@
         "short_id": "WQCCBI",
         "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "CA2594BB-33A5-4145-A392-A56AD3056240.jpg",
+        "image_url": "media/image/CA2594BB-33A5-4145-A392-A56AD3056240.jpg",
         "created_at": "2023-09-21T11:46:10Z",
         "modified_at": "2023-09-21T11:46:12Z"
       }
@@ -4462,7 +4462,7 @@
         "short_id": "FOL7GO",
         "address": "Viale del Popolo 1–11\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "0420BDE9-36A5-4057-9FF2-22E0151D264F.jpg",
+        "image_url": "media/image/0420BDE9-36A5-4057-9FF2-22E0151D264F.jpg",
         "created_at": "2023-09-21T11:47:20Z",
         "modified_at": "2023-09-21T11:47:22Z"
       }
@@ -4484,7 +4484,7 @@
         "short_id": "3R1FMK",
         "address": "Piazza Giovanni Bovio 2\n57025 Piombino Toscana\nItalia",
         "type": "Intero",
-        "image_url": "FB7D74AA-F28A-4FAF-AD16-4083F8CF107B.jpg",
+        "image_url": "media/image/FB7D74AA-F28A-4FAF-AD16-4083F8CF107B.jpg",
         "created_at": "2023-09-21T11:48:59Z",
         "modified_at": "2023-09-21T11:49:20Z"
       }
@@ -4506,7 +4506,7 @@
         "short_id": "3QUPM6",
         "address": "Piazza Giovanni Bovio 2\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "13E76EBF-74A5-4ED3-B753-BF93FCC71413.jpg",
+        "image_url": "media/image/13E76EBF-74A5-4ED3-B753-BF93FCC71413.jpg",
         "created_at": "2023-09-21T11:49:35Z",
         "modified_at": "2023-09-21T11:49:36Z"
       }
@@ -4528,7 +4528,7 @@
         "short_id": "0L09QH",
         "address": "Piazza Giovanni Bovio 5\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "7E6CB7D3-A184-45AD-AA05-4068CF32151F.jpg",
+        "image_url": "media/image/7E6CB7D3-A184-45AD-AA05-4068CF32151F.jpg",
         "created_at": "2023-09-21T11:50:11Z",
         "modified_at": "2023-09-21T11:50:12Z"
       }
@@ -4550,7 +4550,7 @@
         "short_id": "4QTYWW",
         "address": "Piazza Giovanni Bovio 6\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "8A81CAC9-C198-4E16-846F-E6283A652EBA.jpg",
+        "image_url": "media/image/8A81CAC9-C198-4E16-846F-E6283A652EBA.jpg",
         "created_at": "2023-09-21T11:50:30Z",
         "modified_at": "2023-09-21T11:50:31Z"
       }
@@ -4572,7 +4572,7 @@
         "short_id": "XD2B1P",
         "address": "Piazza Giovanni Bovio 6\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "47F9BBF1-21B5-410C-8D8B-6661D67917B8.jpg",
+        "image_url": "media/image/47F9BBF1-21B5-410C-8D8B-6661D67917B8.jpg",
         "created_at": "2023-09-21T11:50:51Z",
         "modified_at": "2023-09-21T11:50:52Z"
       }
@@ -4594,7 +4594,7 @@
         "short_id": "3IKPXI",
         "address": "Piazza Giovanni Bovio 7\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "74A9C7CB-1A96-48D0-809E-01C8347D1FCC.jpg",
+        "image_url": "media/image/74A9C7CB-1A96-48D0-809E-01C8347D1FCC.jpg",
         "created_at": "2023-09-21T11:51:41Z",
         "modified_at": "2023-09-21T11:51:42Z"
       }
@@ -4616,7 +4616,7 @@
         "short_id": "0P6HC2",
         "address": "Piazza Giovanni Bovio 7\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "5C12DD68-B29D-45C1-BC31-5BDD94386570.jpg",
+        "image_url": "media/image/5C12DD68-B29D-45C1-BC31-5BDD94386570.jpg",
         "created_at": "2023-09-21T11:51:59Z",
         "modified_at": "2023-09-21T11:52:00Z"
       }
@@ -4638,7 +4638,7 @@
         "short_id": "MMD8KU",
         "address": "Piazza Giovanni Bovio 8\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "A38A7DA9-5245-4776-9A93-A8AF71FF54DA.jpg",
+        "image_url": "media/image/A38A7DA9-5245-4776-9A93-A8AF71FF54DA.jpg",
         "created_at": "2023-09-21T11:52:20Z",
         "modified_at": "2023-09-21T11:52:21Z"
       }
@@ -4660,7 +4660,7 @@
         "short_id": "DS1UQU",
         "address": "Piazza Giovanni Bovio 8\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "98511F1A-1C50-4E5E-8B01-77E31FE02B29.jpg",
+        "image_url": "media/image/98511F1A-1C50-4E5E-8B01-77E31FE02B29.jpg",
         "created_at": "2023-09-21T11:52:43Z",
         "modified_at": "2023-09-21T11:52:45Z"
       }
@@ -4682,7 +4682,7 @@
         "short_id": "JR21WC",
         "address": "57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "468CE109-2C6B-423E-B9CF-5F3BEAEBD6D7.jpg",
+        "image_url": "media/image/468CE109-2C6B-423E-B9CF-5F3BEAEBD6D7.jpg",
         "created_at": "2023-09-21T11:53:08Z",
         "modified_at": "2023-09-21T11:53:09Z"
       }
@@ -4704,7 +4704,7 @@
         "short_id": "G6UU1U",
         "address": "Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "83942076-FDC3-44CB-BBB8-64A782A4B367.jpg",
+        "image_url": "media/image/83942076-FDC3-44CB-BBB8-64A782A4B367.jpg",
         "created_at": "2023-09-21T11:54:29Z",
         "modified_at": "2023-09-21T11:54:30Z"
       }
@@ -4726,7 +4726,7 @@
         "short_id": "P99JN4",
         "address": "Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "9D2760D8-1863-4DEE-8BB6-8F5B50481F87.jpg",
+        "image_url": "media/image/9D2760D8-1863-4DEE-8BB6-8F5B50481F87.jpg",
         "created_at": "2023-09-21T11:54:53Z",
         "modified_at": "2023-09-21T11:54:54Z"
       }
@@ -4748,7 +4748,7 @@
         "short_id": "4JYVEZ",
         "address": "Piazza Giovanni Bovio 15\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "441B55D2-1A5F-4E4E-A76B-1C20831EAA4C.jpg",
+        "image_url": "media/image/441B55D2-1A5F-4E4E-A76B-1C20831EAA4C.jpg",
         "created_at": "2023-09-21T11:55:29Z",
         "modified_at": "2023-09-21T11:55:30Z"
       }
@@ -4770,7 +4770,7 @@
         "short_id": "LRVQHU",
         "address": "Piazza Giovanni Bovio 15\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M3",
-        "image_url": "F9229244-50C0-4088-B4C3-81A14149B72F.jpg",
+        "image_url": "media/image/F9229244-50C0-4088-B4C3-81A14149B72F.jpg",
         "created_at": "2023-09-21T11:55:58Z",
         "modified_at": "2023-09-21T11:55:59Z"
       }
@@ -4792,7 +4792,7 @@
         "short_id": "U6XEQ1",
         "address": "Piazza Giovanni Bovio 3\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M3",
-        "image_url": "042DCC13-224D-477C-8EDD-74C6657D48E7.jpg",
+        "image_url": "media/image/042DCC13-224D-477C-8EDD-74C6657D48E7.jpg",
         "created_at": "2023-09-21T11:58:36Z",
         "modified_at": "2023-09-21T11:58:36Z"
       }
@@ -4814,7 +4814,7 @@
         "short_id": "J3GHRQ",
         "address": "Via Giuseppe Mazzini 1A\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "EB77E12E-49E4-4EFE-A4F9-9354D6B94D80.jpg",
+        "image_url": "media/image/EB77E12E-49E4-4EFE-A4F9-9354D6B94D80.jpg",
         "created_at": "2023-09-21T11:59:12Z",
         "modified_at": "2023-09-21T11:59:14Z"
       }
@@ -4836,7 +4836,7 @@
         "short_id": "GADDSX",
         "address": "Piazza Giovanni Bovio 7\n57025 Piombino Tuscany\nItaly",
         "type": null,
-        "image_url": "7498B87C-8861-4FB9-84F4-75F8DEC91F38.jpg",
+        "image_url": "media/image/7498B87C-8861-4FB9-84F4-75F8DEC91F38.jpg",
         "created_at": "2023-09-21T12:01:11Z",
         "modified_at": "2023-09-21T12:01:13Z"
       }
@@ -4858,7 +4858,7 @@
         "short_id": "IGK4VT",
         "address": "Piazzetta del Porticciolo 3\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "520ED211-2D39-40CE-B5A9-F02D8A3A0A1A.jpg",
+        "image_url": "media/image/520ED211-2D39-40CE-B5A9-F02D8A3A0A1A.jpg",
         "created_at": "2023-09-21T12:04:49Z",
         "modified_at": "2023-09-21T12:04:51Z"
       }
@@ -4880,7 +4880,7 @@
         "short_id": "EXKEY7",
         "address": "Via Borgo alla Noce 1–99\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "AC934D52-058A-4FE3-9D49-FDA2FDA8EDA6.jpg",
+        "image_url": "media/image/AC934D52-058A-4FE3-9D49-FDA2FDA8EDA6.jpg",
         "created_at": "2023-09-21T12:14:35Z",
         "modified_at": "2023-09-21T12:14:37Z"
       }
@@ -4902,7 +4902,7 @@
         "short_id": "HGJOCP",
         "address": "Via Borgo alla Noce 7B\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "CAF77451-2704-4681-A984-88D957C91BDD.jpg",
+        "image_url": "media/image/CAF77451-2704-4681-A984-88D957C91BDD.jpg",
         "created_at": "2023-09-21T12:15:32Z",
         "modified_at": "2023-09-21T12:15:33Z"
       }
@@ -4924,7 +4924,7 @@
         "short_id": "VB3XFS",
         "address": "Via Giuseppe Mazzini 34–44\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "DD1CB7E1-848D-489D-BCDB-40849E642422.jpg",
+        "image_url": "media/image/DD1CB7E1-848D-489D-BCDB-40849E642422.jpg",
         "created_at": "2023-09-21T12:18:54Z",
         "modified_at": "2023-09-21T12:18:55Z"
       }
@@ -4946,7 +4946,7 @@
         "short_id": "762GVG",
         "address": "Largo Marinai d'Italia 1\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "4121C4A2-4686-4367-8CAC-5A97DA25A69F.jpg",
+        "image_url": "media/image/4121C4A2-4686-4367-8CAC-5A97DA25A69F.jpg",
         "created_at": "2023-09-21T12:24:19Z",
         "modified_at": "2023-09-21T14:07:17Z"
       }
@@ -4968,7 +4968,7 @@
         "short_id": "68J38R",
         "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "DEDB5310-4555-403B-82F8-0A265B8813B6.jpg",
+        "image_url": "media/image/DEDB5310-4555-403B-82F8-0A265B8813B6.jpg",
         "created_at": "2023-09-21T12:25:11Z",
         "modified_at": "2023-09-21T12:25:12Z"
       }
@@ -4990,7 +4990,7 @@
         "short_id": "2W2JLY",
         "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "0AA91789-070D-4C9A-821D-7BAC7578532C.jpg",
+        "image_url": "media/image/0AA91789-070D-4C9A-821D-7BAC7578532C.jpg",
         "created_at": "2023-09-21T12:25:26Z",
         "modified_at": "2023-09-21T12:25:27Z"
       }
@@ -5012,7 +5012,7 @@
         "short_id": "ZRWRAI",
         "address": "Piazzetta Sant'Anastasia 10\n57025 Piombino Tuscany\nItaly",
         "type": "Nuovo",
-        "image_url": "9F533DE6-83A9-4124-B6BD-3618BAEA9CA8.jpg",
+        "image_url": "media/image/9F533DE6-83A9-4124-B6BD-3618BAEA9CA8.jpg",
         "created_at": "2023-09-21T12:25:45Z",
         "modified_at": "2023-09-21T12:25:46Z"
       }
@@ -5034,7 +5034,7 @@
         "short_id": "CPVKZ4",
         "address": "Viale del Popolo 23\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "D42AF9C2-4385-437A-AB6B-717B47B3ED71.jpg",
+        "image_url": "media/image/D42AF9C2-4385-437A-AB6B-717B47B3ED71.jpg",
         "created_at": "2023-09-21T12:27:34Z",
         "modified_at": "2023-09-21T12:27:35Z"
       }
@@ -5056,7 +5056,7 @@
         "short_id": "2UG3X9",
         "address": "Via del Coro 9–11\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "A6FA9C34-B9B1-4063-98B6-9E99D35717EA.jpg",
+        "image_url": "media/image/A6FA9C34-B9B1-4063-98B6-9E99D35717EA.jpg",
         "created_at": "2023-09-21T12:29:21Z",
         "modified_at": "2023-09-21T12:29:22Z"
       }
@@ -5078,7 +5078,7 @@
         "short_id": "VERFYR",
         "address": "Viale del Popolo 11\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "E641040E-D812-4757-BDEB-DB76EC9CDCD7.jpg",
+        "image_url": "media/image/E641040E-D812-4757-BDEB-DB76EC9CDCD7.jpg",
         "created_at": "2023-09-21T12:30:01Z",
         "modified_at": "2023-09-21T12:30:02Z"
       }
@@ -5100,7 +5100,7 @@
         "short_id": "SXOQIS",
         "address": "Via del Prato 7\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "82607B26-55A9-428E-B4ED-28539F7E686D.jpg",
+        "image_url": "media/image/82607B26-55A9-428E-B4ED-28539F7E686D.jpg",
         "created_at": "2023-09-21T12:31:37Z",
         "modified_at": "2023-09-21T12:31:38Z"
       }
@@ -5122,7 +5122,7 @@
         "short_id": "JGR50R",
         "address": "Via Francesco Ferruccio 45\n57025 Piombino Tuscany\nItaly",
         "type": "Intero",
-        "image_url": "D83C2F84-4BD7-4E6E-B83F-411A469CDE40.jpg",
+        "image_url": "media/image/D83C2F84-4BD7-4E6E-B83F-411A469CDE40.jpg",
         "created_at": "2023-09-21T12:33:59Z",
         "modified_at": "2023-09-21T12:34:01Z"
       }
@@ -5144,7 +5144,7 @@
         "short_id": "P7AK6O",
         "address": "Piazza Don Ivo Micheletti 16\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "E0DBE4C5-F928-4851-9500-43347F96F650.jpg",
+        "image_url": "media/image/E0DBE4C5-F928-4851-9500-43347F96F650.jpg",
         "created_at": "2023-09-21T12:40:48Z",
         "modified_at": "2023-09-21T12:40:49Z"
       }
@@ -5166,7 +5166,7 @@
         "short_id": "WPBY89",
         "address": "Piazza Umberto I 1C\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "C5398DD9-B2DD-4C2A-8BE4-0ED9822DD15C.jpg",
+        "image_url": "media/image/C5398DD9-B2DD-4C2A-8BE4-0ED9822DD15C.jpg",
         "created_at": "2023-09-21T12:47:51Z",
         "modified_at": "2023-09-21T12:48:35Z"
       }
@@ -5188,7 +5188,7 @@
         "short_id": "5ETL7N",
         "address": "Corso Vittorio Emanuele II 81\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "28045B47-59C0-4AAB-9600-C63F7D1055FA.jpg",
+        "image_url": "media/image/28045B47-59C0-4AAB-9600-C63F7D1055FA.jpg",
         "created_at": "2023-09-21T12:54:13Z",
         "modified_at": "2023-09-21T12:54:14Z"
       }
@@ -5210,7 +5210,7 @@
         "short_id": "0N0Q9H",
         "address": "Corso Vittorio Emanuele II 67\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "36211D8D-89D4-4EDC-8CE8-85608F006FE4.jpg",
+        "image_url": "media/image/36211D8D-89D4-4EDC-8CE8-85608F006FE4.jpg",
         "created_at": "2023-09-21T12:54:57Z",
         "modified_at": "2023-09-21T12:54:59Z"
       }
@@ -5232,7 +5232,7 @@
         "short_id": "DQJOFV",
         "address": "Via Giuseppe Garibaldi 24\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "20B1CE25-FD9F-483F-8E21-C0DD54C08F88.jpg",
+        "image_url": "media/image/20B1CE25-FD9F-483F-8E21-C0DD54C08F88.jpg",
         "created_at": "2023-09-21T12:55:49Z",
         "modified_at": "2023-09-21T12:55:50Z"
       }
@@ -5254,7 +5254,7 @@
         "short_id": "N2JMF3",
         "address": "Via Giuseppe Garibaldi 71\n57025 Piombino Toscana\nItalia",
         "type": "Mezzo",
-        "image_url": "5EA52089-5A3D-4F37-B0B0-A2C9A17C37AA.jpg",
+        "image_url": "media/image/5EA52089-5A3D-4F37-B0B0-A2C9A17C37AA.jpg",
         "created_at": "2023-09-21T12:58:20Z",
         "modified_at": "2023-09-21T12:58:38Z"
       }
@@ -5276,7 +5276,7 @@
         "short_id": "7Q8LIJ",
         "address": "Via del Fossato 10\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "69241841-1703-4BBC-ABFA-401591F48C36.jpg",
+        "image_url": "media/image/69241841-1703-4BBC-ABFA-401591F48C36.jpg",
         "created_at": "2023-09-21T13:03:46Z",
         "modified_at": "2023-09-21T13:03:53Z"
       }
@@ -5298,7 +5298,7 @@
         "short_id": "DBJHYN",
         "address": "Corso Vittorio Emanuele II 28\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "917D99DE-6A81-4DFB-964D-8793C56F4C79.jpg",
+        "image_url": "media/image/917D99DE-6A81-4DFB-964D-8793C56F4C79.jpg",
         "created_at": "2023-09-21T13:05:22Z",
         "modified_at": "2023-09-21T13:05:24Z"
       }
@@ -5320,7 +5320,7 @@
         "short_id": "7NI1G8",
         "address": "Corso Vittorio Emanuele II 17\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "C54E9882-B421-4FD0-B070-C5A4D4AEA16B.jpg",
+        "image_url": "media/image/C54E9882-B421-4FD0-B070-C5A4D4AEA16B.jpg",
         "created_at": "2023-09-21T13:08:10Z",
         "modified_at": "2023-09-21T13:08:39Z"
       }
@@ -5342,7 +5342,7 @@
         "short_id": "N8OIZ4",
         "address": "Corso Vittorio Emanuele II 1–27\n57025 Piombino Toscana\nItalia",
         "type": "Struttura-M2",
-        "image_url": "618F7E04-DCC7-41AB-A340-E2D49F72E61F.jpg",
+        "image_url": "media/image/618F7E04-DCC7-41AB-A340-E2D49F72E61F.jpg",
         "created_at": "2023-09-21T13:09:26Z",
         "modified_at": "2023-09-21T13:09:40Z"
       }
@@ -5364,7 +5364,7 @@
         "short_id": "R85LOU",
         "address": "Sant'Antonio 3\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "A10C3862-6837-47E2-9B43-174C0706BC5B.jpg",
+        "image_url": "media/image/A10C3862-6837-47E2-9B43-174C0706BC5B.jpg",
         "created_at": "2023-09-21T13:10:42Z",
         "modified_at": "2023-09-21T13:10:44Z"
       }
@@ -5386,7 +5386,7 @@
         "short_id": "ZNT59M",
         "address": "Via Francesco Ferruccio 4\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "A14CA52D-1313-4EAE-A978-D88566184298.jpg",
+        "image_url": "media/image/A14CA52D-1313-4EAE-A978-D88566184298.jpg",
         "created_at": "2023-09-21T13:12:11Z",
         "modified_at": "2023-09-21T13:12:12Z"
       }
@@ -5408,7 +5408,7 @@
         "short_id": "LG4WVC",
         "address": "Via Venti Settembre 1–17\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "0B078B5D-298D-47FB-B74F-8DF70A5B52F5.jpg",
+        "image_url": "media/image/0B078B5D-298D-47FB-B74F-8DF70A5B52F5.jpg",
         "created_at": "2023-09-21T13:12:48Z",
         "modified_at": "2023-09-21T13:12:49Z"
       }
@@ -5430,7 +5430,7 @@
         "short_id": "BLC9HU",
         "address": "Corso Vittorio Emanuele II 53\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "43227B67-FF90-41F5-BF95-3C6AF52B83EF.jpg",
+        "image_url": "media/image/43227B67-FF90-41F5-BF95-3C6AF52B83EF.jpg",
         "created_at": "2023-09-21T13:13:38Z",
         "modified_at": "2023-09-21T13:13:39Z"
       }
@@ -5452,7 +5452,7 @@
         "short_id": "4FBHZT",
         "address": "Via Cavour 14\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "46076151-A978-46F6-A4EE-749ECAA098A7.jpg",
+        "image_url": "media/image/46076151-A978-46F6-A4EE-749ECAA098A7.jpg",
         "created_at": "2023-09-21T13:15:05Z",
         "modified_at": "2023-09-21T13:15:07Z"
       }
@@ -5474,7 +5474,7 @@
         "short_id": "7E1P3X",
         "address": "Piazzetta Santa Maria 4\n57025 Piombino Tuscany\nItaly",
         "type": "Mezzo",
-        "image_url": "C1B6AEB0-CD04-4E06-B62F-92B6B235A4ED.jpg",
+        "image_url": "media/image/C1B6AEB0-CD04-4E06-B62F-92B6B235A4ED.jpg",
         "created_at": "2023-09-21T13:17:52Z",
         "modified_at": "2023-09-21T13:17:54Z"
       }
@@ -5496,7 +5496,7 @@
         "short_id": "IOFXHK",
         "address": "Via dell'Arsenale 1\n57025 Piombino Tuscany\nItaly",
         "type": "Struttura-M2",
-        "image_url": "65B16984-3C75-432C-BF02-0C44105747DE.jpg",
+        "image_url": "media/image/65B16984-3C75-432C-BF02-0C44105747DE.jpg",
         "created_at": "2023-09-28T18:49:42Z",
         "modified_at": "2023-09-29T17:50:06Z"
       }
@@ -5562,7 +5562,7 @@
         "short_id": "X1RGK7",
         "address": "Viale della Repubblica 64\n57025 Piombino Toscana\nItalia",
         "type": "Piccolo",
-        "image_url": "BDEBCA76-C821-42C5-9A82-5324983A5D83.jpg",
+        "image_url": "media/image/BDEBCA76-C821-42C5-9A82-5324983A5D83.jpg",
         "created_at": "2023-09-29T19:26:56Z",
         "modified_at": "2023-10-05T20:13:14Z"
       }
@@ -5584,7 +5584,7 @@
         "short_id": "6N1A54",
         "address": "Via Emilio Salgari 6\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "D6D41837-8014-4066-9EC7-A8E0BD6ACC8D.jpg",
+        "image_url": "media/image/D6D41837-8014-4066-9EC7-A8E0BD6ACC8D.jpg",
         "created_at": "2023-10-12T16:59:41Z",
         "modified_at": "2023-10-12T16:59:45Z"
       }
@@ -5606,7 +5606,7 @@
         "short_id": "1RU238",
         "address": "Via Emilio Salgari 6\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "A973319A-901B-4B33-8EE2-A011B73B67BA.jpg",
+        "image_url": "media/image/A973319A-901B-4B33-8EE2-A011B73B67BA.jpg",
         "created_at": "2023-10-12T17:00:01Z",
         "modified_at": "2023-10-12T17:00:05Z"
       }
@@ -5628,7 +5628,7 @@
         "short_id": "O3W2NE",
         "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "F0FCD86B-CB9B-4188-8E92-079F1DDE2433.jpg",
+        "image_url": "media/image/F0FCD86B-CB9B-4188-8E92-079F1DDE2433.jpg",
         "created_at": "2024-02-16T17:33:07Z",
         "modified_at": "2024-02-16T17:33:09Z"
       }
@@ -5650,7 +5650,7 @@
         "short_id": "JTMUHR",
         "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "A24E7E6A-9C63-449E-8EF0-549B3D8B59B8.jpg",
+        "image_url": "media/image/A24E7E6A-9C63-449E-8EF0-549B3D8B59B8.jpg",
         "created_at": "2024-02-16T17:33:35Z",
         "modified_at": "2024-02-16T17:33:36Z"
       }
@@ -5672,7 +5672,7 @@
         "short_id": "N3BSVR",
         "address": "Viale Regina Margherita 49\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "C248CB2D-44C6-4625-AE50-B8C0895DB888.jpg",
+        "image_url": "media/image/C248CB2D-44C6-4625-AE50-B8C0895DB888.jpg",
         "created_at": "2024-02-16T17:34:45Z",
         "modified_at": "2024-02-16T17:34:47Z"
       }
@@ -5694,7 +5694,7 @@
         "short_id": "YCGG14",
         "address": "Viale Regina Margherita 72\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "D9ED75BF-8F0D-4275-91C8-D47B21617AAF.jpg",
+        "image_url": "media/image/D9ED75BF-8F0D-4275-91C8-D47B21617AAF.jpg",
         "created_at": "2024-02-16T17:35:54Z",
         "modified_at": "2024-02-16T17:35:55Z"
       }
@@ -5716,7 +5716,7 @@
         "short_id": "0STKC0",
         "address": "Viale Regina Margherita 58–66\n57025 Piombino Tuscany\nItaly",
         "type": "Piccolo",
-        "image_url": "1FF90635-A4BC-4D67-8F60-A2697ACA9C03.jpg",
+        "image_url": "media/image/1FF90635-A4BC-4D67-8F60-A2697ACA9C03.jpg",
         "created_at": "2024-02-16T17:36:11Z",
         "modified_at": "2024-02-16T17:36:12Z"
       }

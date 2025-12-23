@@ -17,7 +17,7 @@
         "amenity": "bench",
         "short_id": "CHM3JM",
         "address": "Via della Marina 7–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "83A5EB23-3B48-46B5-8491-D2E4EEA04D7C.jpg",
+        "image_url": "media/image/83A5EB23-3B48-46B5-8491-D2E4EEA04D7C.jpg",
         "created_at": "2023-10-06T15:59:54Z",
         "modified_at": "2023-10-06T15:59:56Z"
       }
@@ -38,7 +38,7 @@
         "amenity": "bench",
         "short_id": "FFVUYK",
         "address": "Via della Marina 7–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "626D3786-6826-4501-BFBC-EA1DB4A03682.jpg",
+        "image_url": "media/image/626D3786-6826-4501-BFBC-EA1DB4A03682.jpg",
         "created_at": "2023-10-06T16:00:20Z",
         "modified_at": "2023-10-06T16:00:23Z"
       }
@@ -59,7 +59,7 @@
         "amenity": "bench",
         "short_id": "VZ2G0X",
         "address": "Via del Fossato 41–99\n57025 Piombino Toscana\nItalia",
-        "image_url": "21C953E1-85E0-4DCA-B5BF-79603EB32C3E.jpg",
+        "image_url": "media/image/21C953E1-85E0-4DCA-B5BF-79603EB32C3E.jpg",
         "created_at": "2023-10-06T16:00:32Z",
         "modified_at": "2023-10-06T16:01:21Z"
       }
@@ -80,7 +80,7 @@
         "amenity": "bench",
         "short_id": "K8941I",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "AFF67A2A-B2CC-494A-847B-85EA11D7C5A4.jpg",
+        "image_url": "media/image/AFF67A2A-B2CC-494A-847B-85EA11D7C5A4.jpg",
         "created_at": "2023-10-06T16:28:24Z",
         "modified_at": "2023-10-06T16:28:25Z"
       }
@@ -101,7 +101,7 @@
         "amenity": "bench",
         "short_id": "I2U5MJ",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "8F8181EA-5BD1-4895-9227-264189C7395D.jpg",
+        "image_url": "media/image/8F8181EA-5BD1-4895-9227-264189C7395D.jpg",
         "created_at": "2023-10-06T16:28:40Z",
         "modified_at": "2023-10-06T16:28:41Z"
       }
@@ -122,7 +122,7 @@
         "amenity": "bench",
         "short_id": "MM6LUA",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "686F96F6-C33A-439D-A09F-4191E21C8A5F.jpg",
+        "image_url": "media/image/686F96F6-C33A-439D-A09F-4191E21C8A5F.jpg",
         "created_at": "2023-10-06T16:28:51Z",
         "modified_at": "2023-10-06T16:28:52Z"
       }
@@ -143,7 +143,7 @@
         "amenity": "bench",
         "short_id": "5N4SIF",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "5135C63D-D54E-42B2-9602-974EC931CB5F.jpg",
+        "image_url": "media/image/5135C63D-D54E-42B2-9602-974EC931CB5F.jpg",
         "created_at": "2023-10-06T16:30:10Z",
         "modified_at": "2023-10-06T16:30:12Z"
       }
@@ -164,7 +164,7 @@
         "amenity": "bench",
         "short_id": "O109CI",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "76770093-EDB8-4F8A-863E-5A29199BA37D.jpg",
+        "image_url": "media/image/76770093-EDB8-4F8A-863E-5A29199BA37D.jpg",
         "created_at": "2023-10-06T16:30:22Z",
         "modified_at": "2023-10-06T16:30:23Z"
       }
@@ -185,7 +185,7 @@
         "amenity": "bench",
         "short_id": "Z8FNHX",
         "address": "Viale Giovanni Amendola 31\n57025 Piombino Tuscany\nItaly",
-        "image_url": "8B27361D-6C68-4534-9ADB-9D50B0870D52.jpg",
+        "image_url": "media/image/8B27361D-6C68-4534-9ADB-9D50B0870D52.jpg",
         "created_at": "2023-10-06T16:40:33Z",
         "modified_at": "2023-10-06T16:40:34Z"
       }
@@ -206,7 +206,7 @@
         "amenity": "bench",
         "short_id": "T4SUX9",
         "address": "Viale Giovanni Amendola 83–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "FF85B5D7-B215-4414-9558-E4DAC53E169B.jpg",
+        "image_url": "media/image/FF85B5D7-B215-4414-9558-E4DAC53E169B.jpg",
         "created_at": "2023-10-06T16:40:46Z",
         "modified_at": "2023-10-06T16:40:47Z"
       }
@@ -227,7 +227,7 @@
         "amenity": "bench",
         "short_id": "YFB4Q3",
         "address": "Via Boncompagni Ludovisi 17–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "C8D2FC91-2F79-4A38-839E-A7AD84B90767.jpg",
+        "image_url": "media/image/C8D2FC91-2F79-4A38-839E-A7AD84B90767.jpg",
         "created_at": "2023-10-06T16:53:55Z",
         "modified_at": "2023-10-06T16:53:57Z"
       }
@@ -248,7 +248,7 @@
         "amenity": "bench",
         "short_id": "CHIWMB",
         "address": "Via Boncompagni Ludovisi 17–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "1CA56389-D680-4A52-AFE1-D9EE34AB5841.jpg",
+        "image_url": "media/image/1CA56389-D680-4A52-AFE1-D9EE34AB5841.jpg",
         "created_at": "2023-10-06T16:54:29Z",
         "modified_at": "2023-10-06T16:54:30Z"
       }
@@ -269,7 +269,7 @@
         "amenity": "bench",
         "short_id": "PCBQMV",
         "address": "Via Boncompagni Ludovisi 17–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "35B1D4F3-12C9-4490-B74E-B4A883F83082.jpg",
+        "image_url": "media/image/35B1D4F3-12C9-4490-B74E-B4A883F83082.jpg",
         "created_at": "2023-10-06T16:55:05Z",
         "modified_at": "2023-10-06T16:55:06Z"
       }
@@ -290,7 +290,7 @@
         "amenity": "bench",
         "short_id": "VK0A1K",
         "address": "Via Giovanni Minzoni 6–14\n57025 Piombino Tuscany\nItaly",
-        "image_url": "5AE67FA5-AF89-4549-B758-B4411D2386A8.jpg",
+        "image_url": "media/image/5AE67FA5-AF89-4549-B758-B4411D2386A8.jpg",
         "created_at": "2023-10-06T17:02:54Z",
         "modified_at": "2023-10-06T17:02:56Z"
       }
@@ -311,7 +311,7 @@
         "amenity": "bench",
         "short_id": "1WU3JB",
         "address": "Via Giovanni Minzoni 6–14\n57025 Piombino Tuscany\nItaly",
-        "image_url": "2D4CAB9F-CDDE-499E-97FC-9904D19FB3A1.jpg",
+        "image_url": "media/image/2D4CAB9F-CDDE-499E-97FC-9904D19FB3A1.jpg",
         "created_at": "2023-10-06T17:03:08Z",
         "modified_at": "2023-10-06T17:03:09Z"
       }
@@ -332,7 +332,7 @@
         "amenity": "bench",
         "short_id": "VSX9UP",
         "address": "Via degli Orti 1–13\n57025 Piombino Tuscany\nItaly",
-        "image_url": "840316EC-C301-41F3-A23A-CB82508822C6.jpg",
+        "image_url": "media/image/840316EC-C301-41F3-A23A-CB82508822C6.jpg",
         "created_at": "2023-10-06T17:03:26Z",
         "modified_at": "2023-10-06T17:03:27Z"
       }
@@ -353,7 +353,7 @@
         "amenity": "bench",
         "short_id": "4KE1TA",
         "address": "Via degli Orti 1–13\n57025 Piombino Tuscany\nItaly",
-        "image_url": "D0B381A0-F8BB-474D-B600-A0C1C686DFE7.jpg",
+        "image_url": "media/image/D0B381A0-F8BB-474D-B600-A0C1C686DFE7.jpg",
         "created_at": "2023-10-06T17:03:36Z",
         "modified_at": "2023-10-06T17:03:38Z"
       }
@@ -374,7 +374,7 @@
         "amenity": "bench",
         "short_id": "FL9KF8",
         "address": "Via degli Orti 1–13\n57025 Piombino Tuscany\nItaly",
-        "image_url": "C080000C-0EF9-4EF7-AA4A-F43CA7F2DC28.jpg",
+        "image_url": "media/image/C080000C-0EF9-4EF7-AA4A-F43CA7F2DC28.jpg",
         "created_at": "2023-10-06T17:03:47Z",
         "modified_at": "2023-10-06T17:03:48Z"
       }
@@ -395,7 +395,7 @@
         "amenity": "bench",
         "short_id": "EAB3MD",
         "address": "Via degli Orti 1–13\n57025 Piombino Tuscany\nItaly",
-        "image_url": "EC88E534-1264-4661-945E-DC958A0CE991.jpg",
+        "image_url": "media/image/EC88E534-1264-4661-945E-DC958A0CE991.jpg",
         "created_at": "2023-10-06T17:04:45Z",
         "modified_at": "2023-10-06T17:04:47Z"
       }
@@ -416,7 +416,7 @@
         "amenity": "bench",
         "short_id": "Y6GFPP",
         "address": "Via Primo Maggio 29B\n57025 Piombino Tuscany\nItaly",
-        "image_url": "8BD4727D-534B-4CF8-90CE-92A65A6F5438.jpg",
+        "image_url": "media/image/8BD4727D-534B-4CF8-90CE-92A65A6F5438.jpg",
         "created_at": "2023-10-06T17:08:40Z",
         "modified_at": "2023-10-06T17:08:42Z"
       }
@@ -437,7 +437,7 @@
         "amenity": "bench",
         "short_id": "S71GKE",
         "address": "Via Primo Maggio 29B\n57025 Piombino Tuscany\nItaly",
-        "image_url": "BB0D8DF6-4694-42D9-ABB6-D307D1E93797.jpg",
+        "image_url": "media/image/BB0D8DF6-4694-42D9-ABB6-D307D1E93797.jpg",
         "created_at": "2023-10-06T17:08:50Z",
         "modified_at": "2023-10-06T17:08:51Z"
       }
@@ -458,7 +458,7 @@
         "amenity": "bench",
         "short_id": "2NIJTW",
         "address": "Via Primo Maggio 29B\n57025 Piombino Tuscany\nItaly",
-        "image_url": "04EEE0AF-0ABB-4977-A6E2-22ADA857E50A.jpg",
+        "image_url": "media/image/04EEE0AF-0ABB-4977-A6E2-22ADA857E50A.jpg",
         "created_at": "2023-10-06T17:09:19Z",
         "modified_at": "2023-10-06T17:09:21Z"
       }
@@ -479,7 +479,7 @@
         "amenity": "bench",
         "short_id": "MT5W3L",
         "address": "Via Primo Maggio 29B\n57025 Piombino Tuscany\nItaly",
-        "image_url": "FF3F0462-D2FF-47B9-9267-DCDEA232292E.jpg",
+        "image_url": "media/image/FF3F0462-D2FF-47B9-9267-DCDEA232292E.jpg",
         "created_at": "2023-10-06T17:09:30Z",
         "modified_at": "2023-10-06T17:09:31Z"
       }
@@ -500,7 +500,7 @@
         "amenity": "bench",
         "short_id": "7PXDXU",
         "address": "Via Primo Maggio 29B\n57025 Piombino Toscana\nItalia",
-        "image_url": "C169DCA9-70B0-486B-8CA2-688824621380.jpg",
+        "image_url": "media/image/C169DCA9-70B0-486B-8CA2-688824621380.jpg",
         "created_at": "2023-10-06T17:11:05Z",
         "modified_at": "2023-10-06T17:12:27Z"
       }
@@ -521,7 +521,7 @@
         "amenity": "bench",
         "short_id": "UKXGEG",
         "address": "Via Primo Maggio 29B\n57025 Piombino Toscana\nItalia",
-        "image_url": "667176B0-CB5A-4E2D-BDD5-46C4E4E05570.jpg",
+        "image_url": "media/image/667176B0-CB5A-4E2D-BDD5-46C4E4E05570.jpg",
         "created_at": "2023-10-06T17:11:15Z",
         "modified_at": "2023-10-06T17:11:50Z"
       }
@@ -542,7 +542,7 @@
         "amenity": "bench",
         "short_id": "H6JI29",
         "address": "Lungomare Guglielmo Marconi 80A\n57025 Piombino Tuscany\nItaly",
-        "image_url": "330F455D-975A-4EF8-B7CA-D5CB68E73656.jpg",
+        "image_url": "media/image/330F455D-975A-4EF8-B7CA-D5CB68E73656.jpg",
         "created_at": "2023-10-11T11:29:58Z",
         "modified_at": "2023-10-11T11:30:02Z"
       }
@@ -563,7 +563,7 @@
         "amenity": "bench",
         "short_id": "QFL3OK",
         "address": "Lungomare Guglielmo Marconi 80A\n57025 Piombino Tuscany\nItaly",
-        "image_url": "E2539E04-7FE5-49C3-B178-70992033E41B.jpg",
+        "image_url": "media/image/E2539E04-7FE5-49C3-B178-70992033E41B.jpg",
         "created_at": "2023-10-11T11:30:14Z",
         "modified_at": "2023-10-11T11:30:16Z"
       }
@@ -584,7 +584,7 @@
         "amenity": "bench",
         "short_id": "4W0B4E",
         "address": "Viale Michelangelo 43–67\n57025 Piombino Tuscany\nItaly",
-        "image_url": "93805855-7AF1-473C-AD31-516116C31CFE.jpg",
+        "image_url": "media/image/93805855-7AF1-473C-AD31-516116C31CFE.jpg",
         "created_at": "2023-10-11T11:30:31Z",
         "modified_at": "2023-10-11T11:30:33Z"
       }
@@ -605,7 +605,7 @@
         "amenity": "bench",
         "short_id": "0VH6A9",
         "address": "Lungomare Guglielmo Marconi 112\n57025 Piombino Tuscany\nItaly",
-        "image_url": "D9A41141-5696-428E-9C7B-2BAF478E343A.jpg",
+        "image_url": "media/image/D9A41141-5696-428E-9C7B-2BAF478E343A.jpg",
         "created_at": "2023-10-11T11:30:51Z",
         "modified_at": "2023-10-11T11:30:53Z"
       }
@@ -626,7 +626,7 @@
         "amenity": "bench",
         "short_id": "HR66LP",
         "address": "Lungomare Guglielmo Marconi 112\n57025 Piombino Tuscany\nItaly",
-        "image_url": "90168E29-974D-4F14-9321-3B94BCBEFE0D.jpg",
+        "image_url": "media/image/90168E29-974D-4F14-9321-3B94BCBEFE0D.jpg",
         "created_at": "2023-10-11T11:31:02Z",
         "modified_at": "2023-10-11T11:31:03Z"
       }
@@ -647,7 +647,7 @@
         "amenity": "bench",
         "short_id": "372T8Q",
         "address": "Viale Michelangelo 43–67\n57025 Piombino Tuscany\nItaly",
-        "image_url": "8DEE63D8-BE90-4D64-B638-9AFD8FC4D113.jpg",
+        "image_url": "media/image/8DEE63D8-BE90-4D64-B638-9AFD8FC4D113.jpg",
         "created_at": "2023-10-11T11:31:19Z",
         "modified_at": "2023-10-11T11:31:21Z"
       }
@@ -668,7 +668,7 @@
         "amenity": "bench",
         "short_id": "Z7EMSO",
         "address": "Viale Michelangelo 41\n57025 Piombino Toscana\nItalia",
-        "image_url": "3B484ABF-C092-451F-976C-014F42CFF873.jpg",
+        "image_url": "media/image/3B484ABF-C092-451F-976C-014F42CFF873.jpg",
         "created_at": "2023-10-11T11:57:01Z",
         "modified_at": "2023-10-14T09:00:52Z"
       }
@@ -689,7 +689,7 @@
         "amenity": "bench",
         "short_id": "3B88H7",
         "address": "Viale Michelangelo 41\n57025 Piombino Toscana\nItalia",
-        "image_url": "8E0C8EB6-19A7-46C8-9811-3CC60EE23CE1.jpg",
+        "image_url": "media/image/8E0C8EB6-19A7-46C8-9811-3CC60EE23CE1.jpg",
         "created_at": "2023-10-11T11:57:13Z",
         "modified_at": "2023-10-14T09:01:26Z"
       }
@@ -710,7 +710,7 @@
         "amenity": "bench",
         "short_id": "UHEXZH",
         "address": "Viale Michelangelo 41\n57025 Piombino Toscana\nItalia",
-        "image_url": "7F8734B3-42C7-46B7-B3CA-1433D7265490.jpg",
+        "image_url": "media/image/7F8734B3-42C7-46B7-B3CA-1433D7265490.jpg",
         "created_at": "2023-10-11T11:57:22Z",
         "modified_at": "2023-10-14T09:01:09Z"
       }
@@ -731,7 +731,7 @@
         "amenity": "bench",
         "short_id": "HZVEI3",
         "address": "Viale Michelangelo 15\n57025 Piombino Toscana\nItalia",
-        "image_url": "C775C85D-4F0B-43F2-B1FE-9ED120199971.jpg",
+        "image_url": "media/image/C775C85D-4F0B-43F2-B1FE-9ED120199971.jpg",
         "created_at": "2023-10-11T11:59:20Z",
         "modified_at": "2023-10-14T09:00:20Z"
       }
@@ -752,7 +752,7 @@
         "amenity": "bench",
         "short_id": "4CM06Y",
         "address": "Viale Michelangelo 15\n57025 Piombino Tuscany\nItaly",
-        "image_url": "7A3F994E-55FF-443D-ADE2-A4C8F081D873.jpg",
+        "image_url": "media/image/7A3F994E-55FF-443D-ADE2-A4C8F081D873.jpg",
         "created_at": "2023-10-11T11:59:30Z",
         "modified_at": "2023-10-11T11:59:31Z"
       }
@@ -773,7 +773,7 @@
         "amenity": "bench",
         "short_id": "BTYA5E",
         "address": "Viale Michelangelo 15\n57025 Piombino Tuscany\nItaly",
-        "image_url": "6C8A857F-E559-4094-BEE4-17725DB56EAD.jpg",
+        "image_url": "media/image/6C8A857F-E559-4094-BEE4-17725DB56EAD.jpg",
         "created_at": "2023-10-11T11:59:39Z",
         "modified_at": "2023-10-11T11:59:40Z"
       }
@@ -794,7 +794,7 @@
         "amenity": "bench",
         "short_id": "9ZEOSS",
         "address": "Via Antonio Pacinotti 3\n57025 Piombino Tuscany\nItaly",
-        "image_url": "56B1A4E7-3841-432A-A4AF-5A6BE23BA7EE.jpg",
+        "image_url": "media/image/56B1A4E7-3841-432A-A4AF-5A6BE23BA7EE.jpg",
         "created_at": "2023-10-12T17:08:35Z",
         "modified_at": "2023-10-12T17:08:37Z"
       }
@@ -815,7 +815,7 @@
         "amenity": "bench",
         "short_id": "3P347Z",
         "address": "Via Emilio Salgari 8\n57025 Piombino Tuscany\nItaly",
-        "image_url": "E4180335-7065-49A2-B3FD-5B763751FB8B.jpg",
+        "image_url": "media/image/E4180335-7065-49A2-B3FD-5B763751FB8B.jpg",
         "created_at": "2024-01-26T17:47:58Z",
         "modified_at": "2024-01-26T17:48:00Z"
       }
@@ -836,7 +836,7 @@
         "amenity": "bench",
         "short_id": "WT0N8Y",
         "address": "Via Emilio Salgari 6\n57025 Piombino Tuscany\nItaly",
-        "image_url": "2FBB756A-E374-42F8-813E-3CA1D541C72A.jpg",
+        "image_url": "media/image/2FBB756A-E374-42F8-813E-3CA1D541C72A.jpg",
         "created_at": "2024-01-26T17:49:03Z",
         "modified_at": "2024-01-26T17:49:04Z"
       }
@@ -857,7 +857,7 @@
         "amenity": "bench",
         "short_id": "YUUD9V",
         "address": "Via Emilio Salgari 4\n57025 Piombino Tuscany\nItaly",
-        "image_url": "48636112-CFB9-45D3-9AC9-A1A07633F516.jpg",
+        "image_url": "media/image/48636112-CFB9-45D3-9AC9-A1A07633F516.jpg",
         "created_at": "2024-01-26T17:52:16Z",
         "modified_at": "2024-01-26T17:52:18Z"
       }
@@ -878,7 +878,7 @@
         "amenity": "bench",
         "short_id": "NFKCAD",
         "address": "Via Francesco Ferrer 72\n57025 Piombino Tuscany\nItaly",
-        "image_url": "F8CA2459-CB54-4AC0-9B78-09F32F24DF61.jpg",
+        "image_url": "media/image/F8CA2459-CB54-4AC0-9B78-09F32F24DF61.jpg",
         "created_at": "2024-01-26T17:54:20Z",
         "modified_at": "2024-01-26T17:54:22Z"
       }
@@ -899,7 +899,7 @@
         "amenity": "bench",
         "short_id": "J662WK",
         "address": "Via Francesco Ferrer 74\n57025 Piombino Tuscany\nItaly",
-        "image_url": "E79CFBCA-E6DE-4983-AA35-F5D31247C5D6.jpg",
+        "image_url": "media/image/E79CFBCA-E6DE-4983-AA35-F5D31247C5D6.jpg",
         "created_at": "2024-01-26T17:54:37Z",
         "modified_at": "2024-01-26T17:54:39Z"
       }
@@ -920,7 +920,7 @@
         "amenity": "bench",
         "short_id": "B1Y0QF",
         "address": "Via Francesco Ferrer 74\n57025 Piombino Tuscany\nItaly",
-        "image_url": "44B0DE1B-F7BC-4546-B1FF-C8228AF90B63.jpg",
+        "image_url": "media/image/44B0DE1B-F7BC-4546-B1FF-C8228AF90B63.jpg",
         "created_at": "2024-01-26T17:54:51Z",
         "modified_at": "2024-01-26T17:54:52Z"
       }
@@ -941,7 +941,7 @@
         "amenity": "bench",
         "short_id": "Q9YHOK",
         "address": "Via Francesco Ferrer 74\n57025 Piombino Tuscany\nItaly",
-        "image_url": "54892C9F-86FA-4285-8CBE-44B598205B06.jpg",
+        "image_url": "media/image/54892C9F-86FA-4285-8CBE-44B598205B06.jpg",
         "created_at": "2024-01-26T17:55:08Z",
         "modified_at": "2024-01-26T17:55:09Z"
       }
@@ -962,7 +962,7 @@
         "amenity": "bench",
         "short_id": "ZR0W67",
         "address": "Via Zara 2A\n57025 Piombino Tuscany\nItaly",
-        "image_url": "DDE7CC34-6994-44A1-8A34-B4874C73D749.jpg",
+        "image_url": "media/image/DDE7CC34-6994-44A1-8A34-B4874C73D749.jpg",
         "created_at": "2024-01-26T17:56:35Z",
         "modified_at": "2024-01-26T17:56:36Z"
       }
@@ -983,7 +983,7 @@
         "amenity": "bench",
         "short_id": "EI2HRQ",
         "address": "Via Zara 2A\n57025 Piombino Tuscany\nItaly",
-        "image_url": "4CD41B22-D4DA-4740-A66C-7DBE651C8945.jpg",
+        "image_url": "media/image/4CD41B22-D4DA-4740-A66C-7DBE651C8945.jpg",
         "created_at": "2024-01-26T17:56:48Z",
         "modified_at": "2024-01-26T17:56:49Z"
       }
@@ -1004,7 +1004,7 @@
         "amenity": "bench",
         "short_id": "OEDWOH",
         "address": "Via Francesco Ferrer 66\n57025 Piombino Tuscany\nItaly",
-        "image_url": "96045EA8-E6B5-4A86-B7A1-0936E5D41CDB.jpg",
+        "image_url": "media/image/96045EA8-E6B5-4A86-B7A1-0936E5D41CDB.jpg",
         "created_at": "2024-01-26T17:56:58Z",
         "modified_at": "2024-01-26T17:57:00Z"
       }
@@ -1025,7 +1025,7 @@
         "amenity": "bench",
         "short_id": "QI7W8S",
         "address": "Piazzetta Sant'Anastasia 1\n57025 Piombino Tuscany\nItaly",
-        "image_url": "5F11966E-D49B-41C3-96F4-98465A5678D5.jpg",
+        "image_url": "media/image/5F11966E-D49B-41C3-96F4-98465A5678D5.jpg",
         "created_at": "2024-01-26T17:59:59Z",
         "modified_at": "2024-01-26T18:00:01Z"
       }
@@ -1046,7 +1046,7 @@
         "amenity": "bench",
         "short_id": "S7GGEJ",
         "address": "Viale del Popolo 23\n57025 Piombino Tuscany\nItaly",
-        "image_url": "E41225A3-4EDC-43EC-857D-2F1CAA80FA46.jpg",
+        "image_url": "media/image/E41225A3-4EDC-43EC-857D-2F1CAA80FA46.jpg",
         "created_at": "2024-01-26T18:00:31Z",
         "modified_at": "2024-01-26T18:00:32Z"
       }
@@ -1067,7 +1067,7 @@
         "amenity": "bench",
         "short_id": "JEKUBX",
         "address": "Viale del Popolo 21\n57025 Piombino Tuscany\nItaly",
-        "image_url": "49C9094A-0A29-440A-8C05-D513A41A3BC6.jpg",
+        "image_url": "media/image/49C9094A-0A29-440A-8C05-D513A41A3BC6.jpg",
         "created_at": "2024-01-26T18:00:46Z",
         "modified_at": "2024-01-26T18:00:48Z"
       }
@@ -1088,7 +1088,7 @@
         "amenity": "bench",
         "short_id": "OH0QY5",
         "address": "Largo Marinai d'Italia 1\n57025 Piombino Tuscany\nItaly",
-        "image_url": "7090E492-1BF1-443A-9076-0CA5A6939B62.jpg",
+        "image_url": "media/image/7090E492-1BF1-443A-9076-0CA5A6939B62.jpg",
         "created_at": "2024-01-26T18:01:11Z",
         "modified_at": "2024-01-26T18:01:12Z"
       }
@@ -1109,7 +1109,7 @@
         "amenity": "bench",
         "short_id": "OK9XCB",
         "address": "Viale del Popolo 11\n57025 Piombino Tuscany\nItaly",
-        "image_url": "C31148C9-149F-41D5-B899-7C4808AAA901.jpg",
+        "image_url": "media/image/C31148C9-149F-41D5-B899-7C4808AAA901.jpg",
         "created_at": "2024-01-26T18:01:29Z",
         "modified_at": "2024-01-26T18:01:31Z"
       }
@@ -1130,7 +1130,7 @@
         "amenity": "bench",
         "short_id": "Q44KLO",
         "address": "Via Francesco Ferruccio\n57025 Piombino Tuscany\nItaly",
-        "image_url": "530892C6-D7C4-4FCB-B6CD-4E685A96C3C1.jpg",
+        "image_url": "media/image/530892C6-D7C4-4FCB-B6CD-4E685A96C3C1.jpg",
         "created_at": "2024-01-26T18:02:01Z",
         "modified_at": "2024-01-26T18:02:03Z"
       }
@@ -1151,7 +1151,7 @@
         "amenity": "bench",
         "short_id": "TIRRX9",
         "address": "Via Francesco Ferruccio\n57025 Piombino Tuscany\nItaly",
-        "image_url": "AABD959D-EF07-43B7-9ED5-9AB9ED0BC589.jpg",
+        "image_url": "media/image/AABD959D-EF07-43B7-9ED5-9AB9ED0BC589.jpg",
         "created_at": "2024-01-26T18:02:13Z",
         "modified_at": "2024-01-26T18:02:15Z"
       }
@@ -1172,7 +1172,7 @@
         "amenity": "bench",
         "short_id": "RLCAGA",
         "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
-        "image_url": "B5AE7881-57AB-476A-AE75-E0AA5FB868F6.jpg",
+        "image_url": "media/image/B5AE7881-57AB-476A-AE75-E0AA5FB868F6.jpg",
         "created_at": "2024-01-26T18:04:14Z",
         "modified_at": "2024-01-26T18:04:16Z"
       }
@@ -1193,7 +1193,7 @@
         "amenity": "bench",
         "short_id": "WK71RD",
         "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
-        "image_url": "8FF9B742-2C7B-47B5-844F-9607E3603CD7.jpg",
+        "image_url": "media/image/8FF9B742-2C7B-47B5-844F-9607E3603CD7.jpg",
         "created_at": "2024-01-26T18:04:24Z",
         "modified_at": "2024-01-26T18:04:26Z"
       }
@@ -1214,7 +1214,7 @@
         "amenity": "bench",
         "short_id": "ZY4DGM",
         "address": "Viale del Popolo 27\n57025 Piombino Tuscany\nItaly",
-        "image_url": "DF127F5E-2A49-40EF-BF2B-1709D1094043.jpg",
+        "image_url": "media/image/DF127F5E-2A49-40EF-BF2B-1709D1094043.jpg",
         "created_at": "2024-01-26T18:04:40Z",
         "modified_at": "2024-01-26T18:04:42Z"
       }
@@ -1235,7 +1235,7 @@
         "amenity": "bench",
         "short_id": "J9X99V",
         "address": "Piazzetta Sant'Anastasia 10\n57025 Piombino Tuscany\nItaly",
-        "image_url": "CD0CC2B5-1154-4D9A-B9EF-C57877E2D15E.jpg",
+        "image_url": "media/image/CD0CC2B5-1154-4D9A-B9EF-C57877E2D15E.jpg",
         "created_at": "2024-01-26T18:05:10Z",
         "modified_at": "2024-01-26T18:05:12Z"
       }
@@ -1256,7 +1256,7 @@
         "amenity": "bench",
         "short_id": "GRHSQG",
         "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
-        "image_url": "A548DB75-E23A-4F04-BA72-01F5BC273B11.jpg",
+        "image_url": "media/image/A548DB75-E23A-4F04-BA72-01F5BC273B11.jpg",
         "created_at": "2024-01-26T18:06:35Z",
         "modified_at": "2024-01-26T18:06:36Z"
       }
@@ -1277,7 +1277,7 @@
         "amenity": "bench",
         "short_id": "JJON69",
         "address": "Viale del Popolo 13–33\n57025 Piombino Tuscany\nItaly",
-        "image_url": "30C7E6BA-9BE4-431C-9F1D-32EA34DA9841.jpg",
+        "image_url": "media/image/30C7E6BA-9BE4-431C-9F1D-32EA34DA9841.jpg",
         "created_at": "2024-01-26T18:06:58Z",
         "modified_at": "2024-01-26T18:06:59Z"
       }
@@ -1298,7 +1298,7 @@
         "amenity": "bench",
         "short_id": "ITBBX3",
         "address": "Via Bruno Giordano 67–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "4D9459F4-6CA0-4F76-9E2B-368F3B4621D2.jpg",
+        "image_url": "media/image/4D9459F4-6CA0-4F76-9E2B-368F3B4621D2.jpg",
         "created_at": "2024-01-26T18:07:14Z",
         "modified_at": "2024-01-26T18:07:15Z"
       }
@@ -1319,7 +1319,7 @@
         "amenity": "bench",
         "short_id": "H1VEV9",
         "address": "Via Bruno Giordano 67–99\n57025 Piombino Tuscany\nItaly",
-        "image_url": "3832FB53-A241-4711-8A07-C02A1E0C1034.jpg",
+        "image_url": "media/image/3832FB53-A241-4711-8A07-C02A1E0C1034.jpg",
         "created_at": "2024-01-26T18:07:34Z",
         "modified_at": "2024-01-26T18:07:35Z"
       }
@@ -1340,7 +1340,7 @@
         "amenity": "bench",
         "short_id": "MJ43GX",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
-        "image_url": "80423A9C-75BF-4288-B044-4D230CFDA135.jpg",
+        "image_url": "media/image/80423A9C-75BF-4288-B044-4D230CFDA135.jpg",
         "created_at": "2024-01-26T18:13:08Z",
         "modified_at": "2024-01-26T18:13:10Z"
       }
@@ -1361,7 +1361,7 @@
         "amenity": "bench",
         "short_id": "AKB614",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
-        "image_url": "A1F4CD78-7538-4C23-AABB-DAEF7ABDBCF7.jpg",
+        "image_url": "media/image/A1F4CD78-7538-4C23-AABB-DAEF7ABDBCF7.jpg",
         "created_at": "2024-01-26T18:13:20Z",
         "modified_at": "2024-01-26T18:13:21Z"
       }
@@ -1382,7 +1382,7 @@
         "amenity": "bench",
         "short_id": "WSDGM8",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
-        "image_url": "4581541D-11F7-4AD6-BA54-E22554C7608D.jpg",
+        "image_url": "media/image/4581541D-11F7-4AD6-BA54-E22554C7608D.jpg",
         "created_at": "2024-01-26T18:13:30Z",
         "modified_at": "2024-01-26T18:13:31Z"
       }
@@ -1403,7 +1403,7 @@
         "amenity": "bench",
         "short_id": "3DXR2W",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
-        "image_url": "65F756DC-3A3F-407B-A996-0FCA43041E5A.jpg",
+        "image_url": "media/image/65F756DC-3A3F-407B-A996-0FCA43041E5A.jpg",
         "created_at": "2024-01-26T18:13:43Z",
         "modified_at": "2024-01-26T18:13:45Z"
       }
@@ -1424,7 +1424,7 @@
         "amenity": "bench",
         "short_id": "Z97LJ8",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
-        "image_url": "CD4A5226-1556-416F-A7D9-80EE46EBB54E.jpg",
+        "image_url": "media/image/CD4A5226-1556-416F-A7D9-80EE46EBB54E.jpg",
         "created_at": "2024-01-26T18:14:17Z",
         "modified_at": "2024-01-26T18:14:18Z"
       }
@@ -1445,7 +1445,7 @@
         "amenity": "bench",
         "short_id": "23SLE9",
         "address": "Via Pietro Gori 28C\n57025 Piombino Tuscany\nItaly",
-        "image_url": "DE92AFBB-1E6A-497B-A993-F6F6EECD03D9.jpg",
+        "image_url": "media/image/DE92AFBB-1E6A-497B-A993-F6F6EECD03D9.jpg",
         "created_at": "2024-01-26T18:14:33Z",
         "modified_at": "2024-01-26T18:14:34Z"
       }
@@ -1466,7 +1466,7 @@
         "amenity": "bench",
         "short_id": "APRX7H",
         "address": "Via Pietro Gori 28A\n57025 Piombino Tuscany\nItaly",
-        "image_url": "834163F4-BB27-4BBA-AF24-E28985E65B62.jpg",
+        "image_url": "media/image/834163F4-BB27-4BBA-AF24-E28985E65B62.jpg",
         "created_at": "2024-01-26T18:15:13Z",
         "modified_at": "2024-01-26T18:15:14Z"
       }
@@ -1487,7 +1487,7 @@
         "amenity": "bench",
         "short_id": "4EU94X",
         "address": "Via Antonio Pacinotti 3\n57025 Piombino Tuscany\nItaly",
-        "image_url": "AC8E4890-AC1B-437C-A5D1-B7940A8B6CD8.jpg",
+        "image_url": "media/image/AC8E4890-AC1B-437C-A5D1-B7940A8B6CD8.jpg",
         "created_at": "2024-01-26T18:19:45Z",
         "modified_at": "2024-01-26T18:19:47Z"
       }
@@ -1508,7 +1508,7 @@
         "amenity": "bench",
         "short_id": "6FKLCE",
         "address": "Piazza Ferruccio Niccolini 21\n57025 Piombino Tuscany\nItaly",
-        "image_url": "631657AC-E15F-4664-B886-6E092C6203B7.jpg",
+        "image_url": "media/image/631657AC-E15F-4664-B886-6E092C6203B7.jpg",
         "created_at": "2024-01-26T18:21:19Z",
         "modified_at": "2024-01-26T18:21:21Z"
       }
@@ -1529,7 +1529,7 @@
         "amenity": "bench",
         "short_id": "H99FWE",
         "address": "Piazza Ferruccio Niccolini 21\n57025 Piombino Tuscany\nItaly",
-        "image_url": "6996CE68-D4F5-4742-9690-35197267E531.jpg",
+        "image_url": "media/image/6996CE68-D4F5-4742-9690-35197267E531.jpg",
         "created_at": "2024-01-26T18:21:34Z",
         "modified_at": "2024-01-26T18:21:35Z"
       }
@@ -1550,7 +1550,7 @@
         "amenity": "bench",
         "short_id": "R3MVLO",
         "address": "Via Emilio Salgari 15\n57025 Piombino Tuscany\nItaly",
-        "image_url": "72185491-F761-4F5E-85BC-475C9355FEA5.jpg",
+        "image_url": "media/image/72185491-F761-4F5E-85BC-475C9355FEA5.jpg",
         "created_at": "2024-01-26T18:27:20Z",
         "modified_at": "2024-01-26T18:27:22Z"
       }
@@ -1571,7 +1571,7 @@
         "amenity": "bench",
         "short_id": "WUQRNL",
         "address": "Via Emilio Salgari 17\n57025 Piombino Tuscany\nItaly",
-        "image_url": "11734EEE-9C2A-4F5F-A04F-26FA5C30EEB0.jpg",
+        "image_url": "media/image/11734EEE-9C2A-4F5F-A04F-26FA5C30EEB0.jpg",
         "created_at": "2024-01-26T18:27:54Z",
         "modified_at": "2024-01-26T18:27:56Z"
       }
@@ -1592,7 +1592,7 @@
         "amenity": "bench",
         "short_id": "GNJ551",
         "address": "Via Emilio Salgari 19\n57025 Piombino Tuscany\nItaly",
-        "image_url": "DDA5C0EA-1032-4F8B-9B7E-03226C5ED564.jpg",
+        "image_url": "media/image/DDA5C0EA-1032-4F8B-9B7E-03226C5ED564.jpg",
         "created_at": "2024-01-26T18:28:11Z",
         "modified_at": "2024-01-26T18:28:13Z"
       }
@@ -1613,7 +1613,7 @@
         "amenity": "bench",
         "short_id": "C8ZS8F",
         "address": "Via Pietro Gori 36\n57025 Piombino Tuscany\nItaly",
-        "image_url": "F17381C0-D664-496F-AF02-9FA1A16D6128.jpg",
+        "image_url": "media/image/F17381C0-D664-496F-AF02-9FA1A16D6128.jpg",
         "created_at": "2024-01-26T18:34:20Z",
         "modified_at": "2024-01-26T18:34:22Z"
       }
@@ -1634,7 +1634,7 @@
         "amenity": "bench",
         "short_id": "ORNHOL",
         "address": "Via Pietro Gori 36\n57025 Piombino Tuscany\nItaly",
-        "image_url": "94914845-5EA7-42F8-83A8-3223EA576FF4.jpg",
+        "image_url": "media/image/94914845-5EA7-42F8-83A8-3223EA576FF4.jpg",
         "created_at": "2024-01-26T18:34:33Z",
         "modified_at": "2024-01-26T18:34:35Z"
       }
@@ -1655,7 +1655,7 @@
         "amenity": "bench",
         "short_id": "SHF1B5",
         "address": "Via Pietro Gori 38\n57025 Piombino Tuscany\nItaly",
-        "image_url": "78762340-BA71-4A9B-91B8-202C2DC07542.jpg",
+        "image_url": "media/image/78762340-BA71-4A9B-91B8-202C2DC07542.jpg",
         "created_at": "2024-01-26T18:35:55Z",
         "modified_at": "2024-01-26T18:35:57Z"
       }
@@ -1676,7 +1676,7 @@
         "amenity": "bench",
         "short_id": "B8303R",
         "address": "Via Pietro Gori 38\n57025 Piombino Tuscany\nItaly",
-        "image_url": "69FF0B0C-65FF-4656-B407-780C0304EE9F.jpg",
+        "image_url": "media/image/69FF0B0C-65FF-4656-B407-780C0304EE9F.jpg",
         "created_at": "2024-01-26T18:36:08Z",
         "modified_at": "2024-01-26T18:36:11Z"
       }
@@ -1697,7 +1697,7 @@
         "amenity": "bench",
         "short_id": "0KML8H",
         "address": "Via del Cimitero 2\n57025 Piombino Tuscany\nItaly",
-        "image_url": "630DE6D3-B30E-45B3-A5A3-00A36764C4E6.jpg",
+        "image_url": "media/image/630DE6D3-B30E-45B3-A5A3-00A36764C4E6.jpg",
         "created_at": "2024-01-26T18:46:11Z",
         "modified_at": "2024-01-26T18:46:13Z"
       }
@@ -1718,7 +1718,7 @@
         "amenity": "bench",
         "short_id": "AVJGR2",
         "address": "Via del Cimitero 2\n57025 Piombino Tuscany\nItaly",
-        "image_url": "776A58B3-CEF0-405F-BB02-BDA9C944191C.jpg",
+        "image_url": "media/image/776A58B3-CEF0-405F-BB02-BDA9C944191C.jpg",
         "created_at": "2024-01-26T18:46:22Z",
         "modified_at": "2024-01-26T18:46:23Z"
       }
@@ -1739,7 +1739,7 @@
         "amenity": "bench",
         "short_id": "R94C2H",
         "address": "Piazza Ferruccio Niccolini 1\n57025 Piombino Tuscany\nItaly",
-        "image_url": "9A1CF8AE-928D-4D24-8706-0D7168A2955A.jpg",
+        "image_url": "media/image/9A1CF8AE-928D-4D24-8706-0D7168A2955A.jpg",
         "created_at": "2024-01-26T19:08:55Z",
         "modified_at": "2024-01-26T19:08:56Z"
       }
@@ -1760,7 +1760,7 @@
         "amenity": "bench",
         "short_id": "CQBNGU",
         "address": "Piazza Ferruccio Niccolini 4\n57025 Piombino Tuscany\nItaly",
-        "image_url": "02698D91-8065-4ABD-BC30-D17D11E2329B.jpg",
+        "image_url": "media/image/02698D91-8065-4ABD-BC30-D17D11E2329B.jpg",
         "created_at": "2024-01-27T18:25:10Z",
         "modified_at": "2024-01-27T18:25:13Z"
       }
@@ -1781,7 +1781,7 @@
         "amenity": "bench",
         "short_id": "8FD3E1",
         "address": "Piazza Ferruccio Niccolini 4\n57025 Piombino Tuscany\nItaly",
-        "image_url": "F58F7150-A806-43F7-BEB2-2734BA963175.jpg",
+        "image_url": "media/image/F58F7150-A806-43F7-BEB2-2734BA963175.jpg",
         "created_at": "2024-01-27T18:25:26Z",
         "modified_at": "2024-01-27T18:25:29Z"
       }
@@ -1802,7 +1802,7 @@
         "amenity": "bench",
         "short_id": "SE6U9B",
         "address": "Piazza Ferruccio Niccolini 7\n57025 Piombino Tuscany\nItaly",
-        "image_url": "E0A5F9DF-20D5-447B-9942-3DE4F17CFEC6.jpg",
+        "image_url": "media/image/E0A5F9DF-20D5-447B-9942-3DE4F17CFEC6.jpg",
         "created_at": "2024-01-27T18:25:45Z",
         "modified_at": "2024-01-27T18:25:47Z"
       }
@@ -1823,7 +1823,7 @@
         "amenity": "bench",
         "short_id": "ZNLG15",
         "address": "Piazza Ferruccio Niccolini 7\n57025 Piombino Tuscany\nItaly",
-        "image_url": "DEF40BAB-8CBE-4BFC-BE15-43EF71BDCFF6.jpg",
+        "image_url": "media/image/DEF40BAB-8CBE-4BFC-BE15-43EF71BDCFF6.jpg",
         "created_at": "2024-01-27T18:25:59Z",
         "modified_at": "2024-01-27T18:26:02Z"
       }
@@ -1844,7 +1844,7 @@
         "amenity": "bench",
         "short_id": "UF5F82",
         "address": "Via del Chiassatello 7\n57025 Piombino Tuscany\nItaly",
-        "image_url": "C017DF31-4853-47A1-A390-67B81569D762.jpg",
+        "image_url": "media/image/C017DF31-4853-47A1-A390-67B81569D762.jpg",
         "created_at": "2024-02-16T17:31:44Z",
         "modified_at": "2024-02-16T17:31:45Z"
       }
@@ -1865,7 +1865,7 @@
         "amenity": "bench",
         "short_id": "781HZX",
         "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
-        "image_url": "0E5FD8A9-9075-4BBF-9660-9B6778F8C9B2.jpg",
+        "image_url": "media/image/0E5FD8A9-9075-4BBF-9660-9B6778F8C9B2.jpg",
         "created_at": "2024-02-16T17:31:58Z",
         "modified_at": "2024-02-16T17:32:00Z"
       }
@@ -1886,7 +1886,7 @@
         "amenity": "bench",
         "short_id": "A1IE77",
         "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
-        "image_url": "17ADDC11-4F4A-4B3E-8015-B1B2E7DB556C.jpg",
+        "image_url": "media/image/17ADDC11-4F4A-4B3E-8015-B1B2E7DB556C.jpg",
         "created_at": "2024-02-16T17:32:11Z",
         "modified_at": "2024-02-16T17:32:12Z"
       }
@@ -1907,7 +1907,7 @@
         "amenity": "bench",
         "short_id": "CYKG6Z",
         "address": "Via del Chiassatello 7\n57025 Piombino Tuscany\nItaly",
-        "image_url": "A86A365A-6170-4FCC-BF1E-123C18D10222.jpg",
+        "image_url": "media/image/A86A365A-6170-4FCC-BF1E-123C18D10222.jpg",
         "created_at": "2024-02-16T17:32:23Z",
         "modified_at": "2024-02-16T17:32:24Z"
       }
@@ -1928,7 +1928,7 @@
         "amenity": "bench",
         "short_id": "GY6Z9R",
         "address": "Viale Regina Margherita 45\n57025 Piombino Tuscany\nItaly",
-        "image_url": "5A2D01F1-1443-44C5-8522-2B1B19BDA2A0.jpg",
+        "image_url": "media/image/5A2D01F1-1443-44C5-8522-2B1B19BDA2A0.jpg",
         "created_at": "2024-02-16T17:32:44Z",
         "modified_at": "2024-02-16T17:32:46Z"
       }
@@ -1949,7 +1949,7 @@
         "amenity": "bench",
         "short_id": "EJJ54H",
         "address": "Via Stampace 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "E89225A3-FA5E-427A-A9DE-D5369BE8F525.jpg",
+        "image_url": "media/image/E89225A3-FA5E-427A-A9DE-D5369BE8F525.jpg",
         "created_at": "2025-09-08T06:25:08Z",
         "modified_at": "2025-09-08T06:25:11Z"
       }
@@ -1970,7 +1970,7 @@
         "amenity": "bench",
         "short_id": "9FCA90",
         "address": "Via Stampace 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "6A43A731-8D03-46FC-B268-C54735C7BBE2.jpg",
+        "image_url": "media/image/6A43A731-8D03-46FC-B268-C54735C7BBE2.jpg",
         "created_at": "2025-09-08T06:25:22Z",
         "modified_at": "2025-09-08T06:25:24Z"
       }
@@ -1991,7 +1991,7 @@
         "amenity": "bench",
         "short_id": "GNHV5Q",
         "address": "Via Stampace 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "65B9D583-25E4-4C05-9139-BF6D5F697470.jpg",
+        "image_url": "media/image/65B9D583-25E4-4C05-9139-BF6D5F697470.jpg",
         "created_at": "2025-09-08T06:25:33Z",
         "modified_at": "2025-09-08T06:25:35Z"
       }
@@ -2012,7 +2012,7 @@
         "amenity": "bench",
         "short_id": "GB8KXQ",
         "address": "Via Stampace 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "D809F436-4B75-4592-9965-F4F48C575F18.jpg",
+        "image_url": "media/image/D809F436-4B75-4592-9965-F4F48C575F18.jpg",
         "created_at": "2025-09-08T06:25:48Z",
         "modified_at": "2025-09-08T06:25:50Z"
       }
@@ -2033,7 +2033,7 @@
         "amenity": "bench",
         "short_id": "W85U6Q",
         "address": "Via Stampace 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "491FC54E-BEC0-4EDF-A911-022D7A8C68A3.jpg",
+        "image_url": "media/image/491FC54E-BEC0-4EDF-A911-022D7A8C68A3.jpg",
         "created_at": "2025-09-08T06:26:14Z",
         "modified_at": "2025-09-08T06:26:16Z"
       }
@@ -2054,7 +2054,7 @@
         "amenity": "bench",
         "short_id": "TJRAWM",
         "address": "Via Cesare Battisti 36\n56125 Pisa Tuscany\nItaly",
-        "image_url": "DD6B4F13-0CEC-46DE-97ED-66FDF9D86126.jpg",
+        "image_url": "media/image/DD6B4F13-0CEC-46DE-97ED-66FDF9D86126.jpg",
         "created_at": "2025-09-08T06:26:33Z",
         "modified_at": "2025-09-08T06:26:35Z"
       }
@@ -2075,7 +2075,7 @@
         "amenity": "bench",
         "short_id": "ZAO740",
         "address": "Via Stampace 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "216B5C69-56E7-4C01-A203-727738D3EB55.jpg",
+        "image_url": "media/image/216B5C69-56E7-4C01-A203-727738D3EB55.jpg",
         "created_at": "2025-09-08T06:27:45Z",
         "modified_at": "2025-09-08T06:27:48Z"
       }
@@ -2096,7 +2096,7 @@
         "amenity": "bench",
         "short_id": "IPGRWR",
         "address": "Piazza San Paolo a Ripa d'Arno 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "31C03206-39F1-4EEB-9B8D-100C3CA7073C.jpg",
+        "image_url": "media/image/31C03206-39F1-4EEB-9B8D-100C3CA7073C.jpg",
         "created_at": "2025-09-08T06:31:58Z",
         "modified_at": "2025-09-08T06:32:01Z"
       }
@@ -2117,7 +2117,7 @@
         "amenity": "bench",
         "short_id": "OY3JFB",
         "address": "Piazza San Paolo a Ripa d'Arno 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "755113C8-3A90-4AA3-811D-7935AA8DA362.jpg",
+        "image_url": "media/image/755113C8-3A90-4AA3-811D-7935AA8DA362.jpg",
         "created_at": "2025-09-08T06:32:18Z",
         "modified_at": "2025-09-08T06:32:20Z"
       }
@@ -2138,7 +2138,7 @@
         "amenity": "bench",
         "short_id": "UUO7MF",
         "address": "Piazza San Paolo a Ripa d'Arno 8\n56125 Pisa Tuscany\nItaly",
-        "image_url": "904AA75B-35CD-437F-A809-1A52D064D4EA.jpg",
+        "image_url": "media/image/904AA75B-35CD-437F-A809-1A52D064D4EA.jpg",
         "created_at": "2025-09-08T06:32:57Z",
         "modified_at": "2025-09-08T06:32:59Z"
       }
@@ -2159,7 +2159,7 @@
         "amenity": "bench",
         "short_id": "BYCAVK",
         "address": "Piazza San Paolo a Ripa d'Arno 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "5CF6D59D-89FD-486C-9787-AEA7094295B8.jpg",
+        "image_url": "media/image/5CF6D59D-89FD-486C-9787-AEA7094295B8.jpg",
         "created_at": "2025-09-08T06:34:23Z",
         "modified_at": "2025-09-08T06:34:25Z"
       }
@@ -2180,7 +2180,7 @@
         "amenity": "bench",
         "short_id": "16M9V3",
         "address": "Piazza San Paolo a Ripa d'Arno 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "93A2A407-5FDC-4446-94A3-DE061F1515D2.jpg",
+        "image_url": "media/image/93A2A407-5FDC-4446-94A3-DE061F1515D2.jpg",
         "created_at": "2025-09-08T06:34:44Z",
         "modified_at": "2025-09-08T06:34:46Z"
       }
@@ -2201,7 +2201,7 @@
         "amenity": "bench",
         "short_id": "WQHAAK",
         "address": "Piazza San Paolo A Ripa d'Arno\n56125 Pisa Tuscany\nItaly",
-        "image_url": "E4D2288A-9871-4B53-B160-B4C4217625BB.jpg",
+        "image_url": "media/image/E4D2288A-9871-4B53-B160-B4C4217625BB.jpg",
         "created_at": "2025-09-08T06:36:04Z",
         "modified_at": "2025-09-08T06:36:16Z"
       }
@@ -2222,7 +2222,7 @@
         "amenity": "bench",
         "short_id": "1GRH72",
         "address": "Via Nicola Pisano 25\n56126 Pisa Tuscany\nItaly",
-        "image_url": "2FC82FCA-9011-431E-8030-585BF5773333.jpg",
+        "image_url": "media/image/2FC82FCA-9011-431E-8030-585BF5773333.jpg",
         "created_at": "2025-09-08T07:00:01Z",
         "modified_at": "2025-09-08T07:00:04Z"
       }
@@ -2243,7 +2243,7 @@
         "amenity": "bench",
         "short_id": "XPNFKR",
         "address": "Via Nicola Pisano 25\n56126 Pisa Tuscany\nItaly",
-        "image_url": "E34AB03E-844D-47CD-88BB-B3E5AE07DC53.jpg",
+        "image_url": "media/image/E34AB03E-844D-47CD-88BB-B3E5AE07DC53.jpg",
         "created_at": "2025-09-08T07:00:41Z",
         "modified_at": "2025-09-08T07:00:43Z"
       }
@@ -2264,7 +2264,7 @@
         "amenity": "bench",
         "short_id": "KK4VB2",
         "address": "Via Bernardo Tanucci 6\n56126 Pisa Tuscany\nItaly",
-        "image_url": "8F5A3E23-0E1E-4887-9F42-948AC7008762.jpg",
+        "image_url": "media/image/8F5A3E23-0E1E-4887-9F42-948AC7008762.jpg",
         "created_at": "2025-09-08T07:38:23Z",
         "modified_at": "2025-09-08T07:38:25Z"
       }
@@ -2285,7 +2285,7 @@
         "amenity": "bench",
         "short_id": "NSWTG3",
         "address": "Via dell'Arancio 5\n56126 Pisa Tuscany\nItaly",
-        "image_url": "4F3FE07E-46A7-4FD7-9DDF-0BA61FA2BE8A.jpg",
+        "image_url": "media/image/4F3FE07E-46A7-4FD7-9DDF-0BA61FA2BE8A.jpg",
         "created_at": "2025-09-08T07:38:40Z",
         "modified_at": "2025-09-08T07:38:47Z"
       }
@@ -2327,7 +2327,7 @@
         "amenity": "bench",
         "short_id": "QZ67NU",
         "address": "Via dell'Arancio 5\n56126 Pisa Tuscany\nItaly",
-        "image_url": "B64EDF0D-1741-4BC3-A253-637D4CEF882B.jpg",
+        "image_url": "media/image/B64EDF0D-1741-4BC3-A253-637D4CEF882B.jpg",
         "created_at": "2025-09-08T07:40:47Z",
         "modified_at": "2025-09-08T07:41:10Z"
       }
@@ -2348,7 +2348,7 @@
         "amenity": "bench",
         "short_id": "PW3XP6",
         "address": "Via dell'Arancio 5\n56126 Pisa Tuscany\nItaly",
-        "image_url": "543D04C2-53DA-4CD0-AED1-D192198637F3.jpg",
+        "image_url": "media/image/543D04C2-53DA-4CD0-AED1-D192198637F3.jpg",
         "created_at": "2025-09-08T07:42:54Z",
         "modified_at": "2025-09-08T07:42:56Z"
       }
@@ -2411,7 +2411,7 @@
         "amenity": "bench",
         "short_id": "NFAQ66",
         "address": "Via Bernardo Tanucci 1\n56126 Pisa Tuscany\nItaly",
-        "image_url": "FC78BDB7-04B0-4E4A-ADD7-E3D1D585AB0A.jpg",
+        "image_url": "media/image/FC78BDB7-04B0-4E4A-ADD7-E3D1D585AB0A.jpg",
         "created_at": "2025-09-08T07:45:02Z",
         "modified_at": "2025-09-08T07:45:04Z"
       }
@@ -2432,7 +2432,7 @@
         "amenity": "bench",
         "short_id": "91H5FE",
         "address": "Via Bernardo Tanucci 4\n56126 Pisa Tuscany\nItaly",
-        "image_url": "93EB58C7-2246-4DA3-A4C2-3A4FD97E1D6B.jpg",
+        "image_url": "media/image/93EB58C7-2246-4DA3-A4C2-3A4FD97E1D6B.jpg",
         "created_at": "2025-09-08T07:45:15Z",
         "modified_at": "2025-09-08T07:45:18Z"
       }
@@ -2474,7 +2474,7 @@
         "amenity": "bench",
         "short_id": "7HNHPC",
         "address": "Via dei Consoli del Mare 19\n56126 Pisa Tuscany\nItaly",
-        "image_url": "DD191CD0-8B45-4024-9080-C720AC8BB3A6.jpg",
+        "image_url": "media/image/DD191CD0-8B45-4024-9080-C720AC8BB3A6.jpg",
         "created_at": "2025-09-08T07:51:28Z",
         "modified_at": "2025-09-08T07:51:33Z"
       }
@@ -2495,7 +2495,7 @@
         "amenity": "bench",
         "short_id": "L7WIRS",
         "address": "Via dei Consoli del Mare 17\n56126 Pisa Tuscany\nItaly",
-        "image_url": "863EC4C1-D1CA-4BE8-9764-90BF4589C99D.jpg",
+        "image_url": "media/image/863EC4C1-D1CA-4BE8-9764-90BF4589C99D.jpg",
         "created_at": "2025-09-08T07:51:45Z",
         "modified_at": "2025-09-08T07:51:48Z"
       }
@@ -2516,7 +2516,7 @@
         "amenity": "bench",
         "short_id": "96Q3YW",
         "address": "Via dei Consoli del Mare 2\n56126 Pisa Tuscany\nItaly",
-        "image_url": "59ADD486-C860-42E3-94B2-D2E15411B07B.jpg",
+        "image_url": "media/image/59ADD486-C860-42E3-94B2-D2E15411B07B.jpg",
         "created_at": "2025-09-08T07:53:01Z",
         "modified_at": "2025-09-08T07:53:23Z"
       }
@@ -2537,7 +2537,7 @@
         "amenity": "bench",
         "short_id": "JECO1H",
         "address": "Via dei Consoli del Mare 2\n56126 Pisa Tuscany\nItaly",
-        "image_url": "D2C195D6-D5C7-4C14-9B84-A0B54BBD94DA.jpg",
+        "image_url": "media/image/D2C195D6-D5C7-4C14-9B84-A0B54BBD94DA.jpg",
         "created_at": "2025-09-08T07:53:42Z",
         "modified_at": "2025-09-08T07:53:50Z"
       }
@@ -2558,7 +2558,7 @@
         "amenity": "bench",
         "short_id": "HNIEHO",
         "address": "Via dei Consoli del Mare 2\n56126 Pisa Tuscany\nItaly",
-        "image_url": "646A10C0-D13D-47B5-BB00-210B4B2617BD.jpg",
+        "image_url": "media/image/646A10C0-D13D-47B5-BB00-210B4B2617BD.jpg",
         "created_at": "2025-09-08T07:54:04Z",
         "modified_at": "2025-09-08T07:54:07Z"
       }
@@ -2579,7 +2579,7 @@
         "amenity": "bench",
         "short_id": "CMBAYP",
         "address": "Via Sant'Apollonia 5\n56126 Pisa Tuscany\nItaly",
-        "image_url": "85AB9F65-4B1B-4482-A9AE-3B1D3C56E9BA.jpg",
+        "image_url": "media/image/85AB9F65-4B1B-4482-A9AE-3B1D3C56E9BA.jpg",
         "created_at": "2025-09-08T07:54:28Z",
         "modified_at": "2025-09-08T07:54:33Z"
       }
@@ -2600,7 +2600,7 @@
         "amenity": "bench",
         "short_id": "S8YH98",
         "address": "Via delle Case Dipinte 12\n56127 Pisa Tuscany\nItaly",
-        "image_url": "588EEE22-73E3-4084-8577-202BC2090333.jpg",
+        "image_url": "media/image/588EEE22-73E3-4084-8577-202BC2090333.jpg",
         "created_at": "2025-09-08T07:59:29Z",
         "modified_at": "2025-09-08T07:59:51Z"
       }
@@ -2621,7 +2621,7 @@
         "amenity": "bench",
         "short_id": "GH2TX4",
         "address": "Via delle Case Dipinte 6\n56127 Pisa Tuscany\nItaly",
-        "image_url": "917D673C-57ED-4DC8-B436-24D83A6459F2.jpg",
+        "image_url": "media/image/917D673C-57ED-4DC8-B436-24D83A6459F2.jpg",
         "created_at": "2025-09-08T08:00:02Z",
         "modified_at": "2025-09-08T08:00:24Z"
       }
@@ -2642,7 +2642,7 @@
         "amenity": "bench",
         "short_id": "799P9L",
         "address": "Largo Ciro Menotti 13\n56127 Pisa Tuscany\nItaly",
-        "image_url": "6414DB2E-0B96-4054-A3A6-79A751685D21.jpg",
+        "image_url": "media/image/6414DB2E-0B96-4054-A3A6-79A751685D21.jpg",
         "created_at": "2025-09-08T08:00:35Z",
         "modified_at": "2025-09-08T08:00:57Z"
       }
@@ -2663,7 +2663,7 @@
         "amenity": "bench",
         "short_id": "ESMNUE",
         "address": "Largo Ciro Menotti 10\n56127 Pisa Tuscany\nItaly",
-        "image_url": "BF38C801-2BFF-4BC8-AD7D-91B704740368.jpg",
+        "image_url": "media/image/BF38C801-2BFF-4BC8-AD7D-91B704740368.jpg",
         "created_at": "2025-09-08T08:01:07Z",
         "modified_at": "2025-09-08T08:01:30Z"
       }
@@ -2684,7 +2684,7 @@
         "amenity": "bench",
         "short_id": "6U01UP",
         "address": "Piazza Alessandro D'Ancona 7A\n56127 Pisa Tuscany\nItaly",
-        "image_url": "BBFC9202-5CCE-4E2B-8825-B7854EE9D9DE.jpg",
+        "image_url": "media/image/BBFC9202-5CCE-4E2B-8825-B7854EE9D9DE.jpg",
         "created_at": "2025-09-08T08:12:05Z",
         "modified_at": "2025-09-08T08:12:09Z"
       }
@@ -2705,7 +2705,7 @@
         "amenity": "bench",
         "short_id": "CDGN8F",
         "address": "Piazza Alessandro D'Ancona 7A\n56127 Pisa Tuscany\nItaly",
-        "image_url": "79A1D42C-A38A-4D76-B51B-FDD54C694A85.jpg",
+        "image_url": "media/image/79A1D42C-A38A-4D76-B51B-FDD54C694A85.jpg",
         "created_at": "2025-09-08T08:12:20Z",
         "modified_at": "2025-09-08T08:12:22Z"
       }
@@ -2747,7 +2747,7 @@
         "amenity": "bench",
         "short_id": "9KRJ6D",
         "address": "Via San Lorenzo 51\n56127 Pisa Tuscany\nItaly",
-        "image_url": "844FB419-82E1-44D4-9357-EB2A40DF19AE.jpg",
+        "image_url": "media/image/844FB419-82E1-44D4-9357-EB2A40DF19AE.jpg",
         "created_at": "2025-09-08T08:20:20Z",
         "modified_at": "2025-09-08T08:20:23Z"
       }
@@ -2768,7 +2768,7 @@
         "amenity": "bench",
         "short_id": "DH5IRT",
         "address": "Via San Lorenzo 57–69\n56127 Pisa Tuscany\nItaly",
-        "image_url": "84D70263-CECF-4D08-B90B-5B51F4485640.jpg",
+        "image_url": "media/image/84D70263-CECF-4D08-B90B-5B51F4485640.jpg",
         "created_at": "2025-09-08T08:21:01Z",
         "modified_at": "2025-09-08T08:21:06Z"
       }
@@ -2789,7 +2789,7 @@
         "amenity": "bench",
         "short_id": "KFKJYT",
         "address": "Via San Lorenzo 57–69\n56127 Pisa Tuscany\nItaly",
-        "image_url": "F6BE9FB5-2CCB-455E-9328-69749BFBF097.jpg",
+        "image_url": "media/image/F6BE9FB5-2CCB-455E-9328-69749BFBF097.jpg",
         "created_at": "2025-09-08T08:21:21Z",
         "modified_at": "2025-09-08T08:21:25Z"
       }
@@ -2810,7 +2810,7 @@
         "amenity": "bench",
         "short_id": "GZGJPW",
         "address": "Via San Lorenzo 75\n56127 Pisa Tuscany\nItaly",
-        "image_url": "DBC0C1A5-AEC6-44AB-BACA-34CFEF187112.jpg",
+        "image_url": "media/image/DBC0C1A5-AEC6-44AB-BACA-34CFEF187112.jpg",
         "created_at": "2025-09-08T08:21:46Z",
         "modified_at": "2025-09-08T08:21:51Z"
       }
@@ -2831,7 +2831,7 @@
         "amenity": "bench",
         "short_id": "W1T2Z0",
         "address": "Piazza dei Martiri della Libertà\n56127 Pisa Tuscany\nItaly",
-        "image_url": "3807459B-020E-4498-A78A-07333767DBC7.jpg",
+        "image_url": "media/image/3807459B-020E-4498-A78A-07333767DBC7.jpg",
         "created_at": "2025-09-08T08:23:23Z",
         "modified_at": "2025-09-08T08:23:26Z"
       }
@@ -2852,7 +2852,7 @@
         "amenity": "bench",
         "short_id": "DB4A3K",
         "address": "Piazza dei Martiri della Libertà 33\n56127 Pisa Tuscany\nItaly",
-        "image_url": "2C641BD3-492D-4F83-BBFD-DE0F35094876.jpg",
+        "image_url": "media/image/2C641BD3-492D-4F83-BBFD-DE0F35094876.jpg",
         "created_at": "2025-09-08T08:23:44Z",
         "modified_at": "2025-09-08T08:23:49Z"
       }
@@ -2873,7 +2873,7 @@
         "amenity": "bench",
         "short_id": "YA5M3D",
         "address": "Piazza S Caterina\n56127 Pisa Tuscany\nItaly",
-        "image_url": "94728DE9-5BA4-4C5F-A064-44B37E5D5BF4.jpg",
+        "image_url": "media/image/94728DE9-5BA4-4C5F-A064-44B37E5D5BF4.jpg",
         "created_at": "2025-09-08T08:24:19Z",
         "modified_at": "2025-09-08T08:24:21Z"
       }
@@ -2894,7 +2894,7 @@
         "amenity": "bench",
         "short_id": "DYYSPP",
         "address": "Piazza S Caterina\n56127 Pisa Tuscany\nItaly",
-        "image_url": "43BA8AD3-3C4A-4360-802B-96E9C3F9A5F4.jpg",
+        "image_url": "media/image/43BA8AD3-3C4A-4360-802B-96E9C3F9A5F4.jpg",
         "created_at": "2025-09-08T08:24:34Z",
         "modified_at": "2025-09-08T08:24:37Z"
       }
@@ -2915,7 +2915,7 @@
         "amenity": "bench",
         "short_id": "1Y4SZ9",
         "address": "Piazza dei Martiridella Liberta\n56127 Pisa Tuscany\nItaly",
-        "image_url": "C667030C-5B35-4F3A-B06F-953DA5AB188C.jpg",
+        "image_url": "media/image/C667030C-5B35-4F3A-B06F-953DA5AB188C.jpg",
         "created_at": "2025-09-08T08:25:46Z",
         "modified_at": "2025-09-08T08:25:51Z"
       }
@@ -2936,7 +2936,7 @@
         "amenity": "bench",
         "short_id": "OSDOHU",
         "address": "Piazza dei Martiri della Libertà 15\n56127 Pisa Tuscany\nItaly",
-        "image_url": "4DBE6788-84F6-4E91-A48B-5B872FC03F1D.jpg",
+        "image_url": "media/image/4DBE6788-84F6-4E91-A48B-5B872FC03F1D.jpg",
         "created_at": "2025-09-08T08:26:15Z",
         "modified_at": "2025-09-08T08:26:20Z"
       }
@@ -2957,7 +2957,7 @@
         "amenity": "bench",
         "short_id": "QTZ4EC",
         "address": "Piazza dei Martiridella Liberta\n56127 Pisa Tuscany\nItaly",
-        "image_url": "318E7029-B19E-45DD-AFF6-89F929747CF6.jpg",
+        "image_url": "media/image/318E7029-B19E-45DD-AFF6-89F929747CF6.jpg",
         "created_at": "2025-09-08T08:26:37Z",
         "modified_at": "2025-09-08T08:26:41Z"
       }
@@ -2978,7 +2978,7 @@
         "amenity": "bench",
         "short_id": "NMUGYQ",
         "address": "Piazza dei Martiridella Liberta\n56127 Pisa Tuscany\nItaly",
-        "image_url": "B1A8EC17-E412-448C-BADB-A2D6D91CE51D.jpg",
+        "image_url": "media/image/B1A8EC17-E412-448C-BADB-A2D6D91CE51D.jpg",
         "created_at": "2025-09-08T08:27:07Z",
         "modified_at": "2025-09-08T08:27:13Z"
       }
@@ -2999,7 +2999,7 @@
         "amenity": "bench",
         "short_id": "FOBOP5",
         "address": "Lungarno Leonardo Fibonacci 2\n56125 Pisa Tuscany\nItaly",
-        "image_url": "848C6F47-DED5-494B-9A67-94E97453033E.jpg",
+        "image_url": "media/image/848C6F47-DED5-494B-9A67-94E97453033E.jpg",
         "created_at": "2025-09-08T08:58:16Z",
         "modified_at": "2025-09-08T08:58:19Z"
       }
@@ -3020,7 +3020,7 @@
         "amenity": "bench",
         "short_id": "5RUVTT",
         "address": "Lungarno Leonardo Fibonacci 2\n56125 Pisa Tuscany\nItaly",
-        "image_url": "69C8D0E0-886F-42EE-9B84-BAB62A7E1035.jpg",
+        "image_url": "media/image/69C8D0E0-886F-42EE-9B84-BAB62A7E1035.jpg",
         "created_at": "2025-09-08T08:58:43Z",
         "modified_at": "2025-09-08T08:58:45Z"
       }
@@ -3041,7 +3041,7 @@
         "amenity": "bench",
         "short_id": "9RSB23",
         "address": "Lungarno Leonardo Fibonacci 2\n56125 Pisa Tuscany\nItaly",
-        "image_url": "85604508-122E-4E45-80B0-BC7777752535.jpg",
+        "image_url": "media/image/85604508-122E-4E45-80B0-BC7777752535.jpg",
         "created_at": "2025-09-08T08:59:56Z",
         "modified_at": "2025-09-08T08:59:58Z"
       }
@@ -3083,7 +3083,7 @@
         "amenity": "bench",
         "short_id": "2L0JM7",
         "address": "Lungarno Leonardo Fibonacci 2\n56125 Pisa Tuscany\nItaly",
-        "image_url": "CBF92836-1F09-4F6B-AD8C-A056C43BF368.jpg",
+        "image_url": "media/image/CBF92836-1F09-4F6B-AD8C-A056C43BF368.jpg",
         "created_at": "2025-09-08T09:01:38Z",
         "modified_at": "2025-09-08T09:01:41Z"
       }
@@ -3104,7 +3104,7 @@
         "amenity": "bench",
         "short_id": "AN0LNW",
         "address": "Via Giuliano da Sangallo\n56125 Pisa Tuscany\nItaly",
-        "image_url": "F3D9777B-8D45-4D0F-B511-80A321D1232D.jpg",
+        "image_url": "media/image/F3D9777B-8D45-4D0F-B511-80A321D1232D.jpg",
         "created_at": "2025-09-08T09:03:03Z",
         "modified_at": "2025-09-08T09:03:05Z"
       }
@@ -3125,7 +3125,7 @@
         "amenity": "bench",
         "short_id": "KJR7XF",
         "address": "Via Giuliano da Sangallo\n56125 Pisa Tuscany\nItaly",
-        "image_url": "3CBC28CF-F1B6-4B26-BAE9-D72676C3E1FC.jpg",
+        "image_url": "media/image/3CBC28CF-F1B6-4B26-BAE9-D72676C3E1FC.jpg",
         "created_at": "2025-09-08T09:03:22Z",
         "modified_at": "2025-09-08T09:03:24Z"
       }
@@ -3146,7 +3146,7 @@
         "amenity": "bench",
         "short_id": "OU5CE7",
         "address": "Via Giuliano da Sangallo\n56125 Pisa Tuscany\nItaly",
-        "image_url": "BCDB548A-27EC-41DB-B79E-67D83B839475.jpg",
+        "image_url": "media/image/BCDB548A-27EC-41DB-B79E-67D83B839475.jpg",
         "created_at": "2025-09-08T09:03:40Z",
         "modified_at": "2025-09-08T09:03:42Z"
       }
@@ -3167,7 +3167,7 @@
         "amenity": "bench",
         "short_id": "1R2WIE",
         "address": "Via Giuliano da Sangallo\n56125 Pisa Tuscany\nItaly",
-        "image_url": "EF104219-5B74-4919-87C4-4ACFD777D97A.jpg",
+        "image_url": "media/image/EF104219-5B74-4919-87C4-4ACFD777D97A.jpg",
         "created_at": "2025-09-08T09:03:54Z",
         "modified_at": "2025-09-08T09:03:56Z"
       }
@@ -3188,7 +3188,7 @@
         "amenity": "bench",
         "short_id": "OL8Q07",
         "address": "Lungarno Leonardo Fibonacci 2\n56125 Pisa Tuscany\nItaly",
-        "image_url": "4606516A-DD2E-464B-BC76-00E2822DD1AB.jpg",
+        "image_url": "media/image/4606516A-DD2E-464B-BC76-00E2822DD1AB.jpg",
         "created_at": "2025-09-08T09:04:16Z",
         "modified_at": "2025-09-08T09:04:18Z"
       }
@@ -3209,7 +3209,7 @@
         "amenity": "bench",
         "short_id": "B12DRQ",
         "address": "Piazza Lorenzo Milani\n56125 Pisa Tuscany\nItaly",
-        "image_url": "B63C9A5C-A916-44E7-B45A-EBB4683AA913.jpg",
+        "image_url": "media/image/B63C9A5C-A916-44E7-B45A-EBB4683AA913.jpg",
         "created_at": "2025-09-08T09:07:10Z",
         "modified_at": "2025-09-08T09:07:13Z"
       }
@@ -3230,7 +3230,7 @@
         "amenity": "bench",
         "short_id": "8KWP1E",
         "address": "Via di Barattularia 1\n56125 Pisa Tuscany\nItaly",
-        "image_url": "BA40EF93-3CCE-40A7-9CFF-3C675D58DA01.jpg",
+        "image_url": "media/image/BA40EF93-3CCE-40A7-9CFF-3C675D58DA01.jpg",
         "created_at": "2025-09-08T09:07:35Z",
         "modified_at": "2025-09-08T09:07:37Z"
       }
@@ -3272,7 +3272,7 @@
         "amenity": "bench",
         "short_id": "IYK840",
         "address": "Piazza Chiara Gambacorti 22\n56125 Pisa Tuscany\nItaly",
-        "image_url": "AE8E2F3A-872D-447F-91AE-4D3A8C59AF79.jpg",
+        "image_url": "media/image/AE8E2F3A-872D-447F-91AE-4D3A8C59AF79.jpg",
         "created_at": "2025-09-08T10:15:28Z",
         "modified_at": "2025-09-08T10:15:31Z"
       }
@@ -3293,7 +3293,7 @@
         "amenity": "bench",
         "short_id": "ZDY002",
         "address": "Piazza Chiara Gambacorti 22\n56125 Pisa Tuscany\nItaly",
-        "image_url": "DFE531BD-3718-4E3E-8E8D-1F195D1BC047.jpg",
+        "image_url": "media/image/DFE531BD-3718-4E3E-8E8D-1F195D1BC047.jpg",
         "created_at": "2025-09-08T10:15:40Z",
         "modified_at": "2025-09-08T10:16:02Z"
       }
@@ -3314,7 +3314,7 @@
         "amenity": "bench",
         "short_id": "HZWU0X",
         "address": "Via Giuseppe Giusti 1\n56127 Pisa Tuscany\nItaly",
-        "image_url": "6742EE54-B9AC-41FF-9085-B3C6A438A3FC.jpg",
+        "image_url": "media/image/6742EE54-B9AC-41FF-9085-B3C6A438A3FC.jpg",
         "created_at": "2025-10-08T16:49:53Z",
         "modified_at": "2025-10-08T16:49:55Z"
       }
@@ -3335,7 +3335,7 @@
         "amenity": "bench",
         "short_id": "07XQ9P",
         "address": "Via Giuseppe Giusti 1\n56127 Pisa Tuscany\nItaly",
-        "image_url": "76C437F3-73C2-4B87-A5CA-79DA8B4E53C1.jpg",
+        "image_url": "media/image/76C437F3-73C2-4B87-A5CA-79DA8B4E53C1.jpg",
         "created_at": "2025-10-08T16:50:03Z",
         "modified_at": "2025-10-08T16:50:07Z"
       }
