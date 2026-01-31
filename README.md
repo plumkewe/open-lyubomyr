@@ -10,27 +10,33 @@
 </p>
 
 
-## Indice
+## Indice 
 
-- [Indice](#indice)
+- [Indice](#indice) <!-- omit in toc -->
 - [Struttura progetto](#struttura-progetto)
 - [Come funziona](#come-funziona)
 - [Dataset](#dataset)
-  - [Cestini](#cestini)
-  - [Panchine](#panchine)
-  - [Fiori](#fiori)
-  - [I am here](#i-am-here)
-  - [Chess](#chess)
-    - [Qualche ricordo](#qualche-ricordo)
-  - [Zeb89](#zeb89)
-  - [Voti](#voti)
-  - [Speed tests](#speed-tests)
-  - [Film](#film)
-  - [Passi](#passi)
-  - [Parole](#parole)
-    - [Shortcut](#shortcut)
-    - [Telegram](#telegram)
-  - [Wordle](#wordle)
+  - Geografici
+    - [Cestini](#cestini)
+    - [Panchine](#panchine)
+    - [Fiori](#fiori)
+    - [I am here](#i-am-here)
+  - Personali
+    - [Chess](#chess)
+      - [Qualche ricordo](#qualche-ricordo)
+    - [Voti](#voti)
+    - [Passi](#passi)
+    - [Caffè](#caffe)
+    - [Acqua](#acqua)
+  - Hobby
+    - [Parole](#parole)
+      - [Shortcut](#shortcut)
+      - [Telegram](#telegram)
+    - [Wordle](#wordle)
+    - [Film](#film)
+  - Progetti
+    - [Speed tests](#speed-tests)
+    - [Zeb89](#zeb89)
 
 
 ## Struttura progetto
@@ -52,7 +58,9 @@
 │   ├── film.json
 │   ├── passi.json
 │   ├── parole.json
-│   └── wordle.json
+│   ├── wordle.json
+│   ├── acqua.json
+│   └── caffe.json
 ├── media/
 │   ├── audio/
 │   └── images/
@@ -199,8 +207,8 @@ graph TD
 <td>Custom JSON</td>
 <td>attivo</td>
 <td>2023-04-07</td>
-<td>2025-09-13</td>
-<td>121</td>
+<td>2026-01-25</td>
+<td>254</td>
 <td>-</td>
 </tr>
 <tr>
@@ -209,8 +217,8 @@ graph TD
 <td>Custom JSON</td>
 <td>attivo</td>
 <td>2021-09-24</td>
-<td>2025-12-21</td>
-<td>22358</td>
+<td>2026-01-31</td>
+<td>22864</td>
 <td>-</td>
 </tr>
 <tr>
@@ -229,8 +237,30 @@ graph TD
 <td>Custom JSON</td>
 <td>attivo</td>
 <td>2025-01-01</td>
-<td>2025-12-01</td>
-<td>325</td>
+<td>2026-01-26</td>
+<td>377</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>acqua</td>
+<td><a href="data/acqua.json">/data/acqua.json</a></td>
+<td>Custom JSON</td>
+<td>completo</td>
+<td>2022-04-05</td>
+<td>2022-12-26</td>
+<td>1563</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>caffè</td>
+<td><a href="data/caffe.json">/data/caffe.json</a></td>
+<td>Custom JSON</td>
+<td>attivo</td>
+<td>2023-04-27</td>
+<td>2026-01-30</td>
+<td>39</td>
 <td>-</td>
 </tr></tbody></table>
 <!-- tabella da aggiornare-->
@@ -238,7 +268,9 @@ graph TD
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-### Cestini
+### Geografici
+
+#### Cestini
 
 Tutto è nato dalla frustrazione di vedere rifiuti a pochi passi dai cestini a Piombino. Volevo capirci qualcosa di più, numeri alla mano. Ho creato un commando rapido sul mio iPhone che rende la raccolta dati immediata: vedo un cestino, faccio un tap, e lui archivia foto e posizione GPS.
 
@@ -348,7 +380,7 @@ Per approfondire il progetto, visita il mio blog: [CESTINI su aaa.craft.me](http
   </tr>
 </table>
 
-### Panchine
+#### Panchine
 
 <!-- data/panchine.geojson -->
 <details>
@@ -381,7 +413,7 @@ Per approfondire il progetto, visita il mio blog: [CESTINI su aaa.craft.me](http
 
 <hr>
 
-### Fiori
+#### Fiori
 
 Volevo avere un dataset dei fiori, così me lo sono creato. Ora so dove si trovano vari fiori e anche di che colore sono! Dovrei però aggiungere i dati su quando fioriscono.
 
@@ -417,7 +449,7 @@ Volevo avere un dataset dei fiori, così me lo sono creato. Ora so dove si trova
 
 <hr>
 
-### I am here
+#### I am here
 
 Ogni tanto uscivo a Piombino e mi imbattevo in dei graffiti "I am here". Mi ero incuriosito, così ho iniziato a camminare sia nella realtà sia su Google Maps, usando la funzione “guarda indietro”, per individuare i graffiti che ormai sono stati cancellati o parzialmente coperti.
 
@@ -452,7 +484,9 @@ Ogni tanto uscivo a Piombino e mi imbattevo in dei graffiti "I am here". Mi ero 
 
 <hr>
 
-### Chess
+### Personali
+
+#### Chess
 
 Avevo co-fondato Scacchi Piombino insieme al mio amico e, a quel tempo, giocavo molto a scacchi. Allora mi sono detto: “Perché non avere un dataset per confermare quanto faccio schifo?”. Tutto è iniziato con un semplice messaggio: “E se facessimo un club scacchistico?” E niente, l’abbiamo fatto! Lo trovate ancora su Google Maps. 
 
@@ -515,7 +549,7 @@ Avevamo anche collaborato con la Biblioteca Civica Falesiana; potete trovare qua
 
 <hr>
 
-### Zeb89
+#### Zeb89
 
 Avevo scoperto questo YouTuber che abitava a Bibbona e i suoi vecchi video mi fecero ridere così tanto che mi dissi: “Ma perché non mi faccio una soundboard tutta mia con le sue frasi più iconiche?”. E così l’ho fatto.
 
@@ -539,7 +573,7 @@ Avevo scoperto questo YouTuber che abitava a Bibbona e i suoi vecchi video mi fe
 
 <hr>
 
-### Voti
+#### Voti
 
 Ero curioso di sapere quanto facessi schifo a scuola e quanto me ne potesse fregare ancora di meno.
 
@@ -560,7 +594,7 @@ Ero curioso di sapere quanto facessi schifo a scuola e quanto me ne potesse freg
 
 <hr>
 
-### Speed tests
+#### Speed tests
 
 Odio WindTre e le loro offerte del c*zzo, come quella che avevo io: 5G cappato a 10 Mbps che non erano mai davvero 10 Mbps. Per questo sono passato a CoopVoce che, all’epoca, si appoggiava a TIM e con cui navigavo molto meglio. Da lì avevo iniziato a fare speed test ogni ora, nella stessa posizione e con lo stesso telefono, per dimostrare quanto facesse schifo WindTre.
 
@@ -601,7 +635,7 @@ Per approfondire il progetto, visita il mio blog: [ISP su aaa.craft.me](https://
 
 <hr>
 
-### Film
+#### Film
 
 Ogni tanto guardo qualche film, ma purtroppo le app disponibili non permettono di vedere e analizzare i dati sui film. Perciò ho trovato una mia soluzione.
 
@@ -610,926 +644,7 @@ Ogni tanto guardo qualche film, ma purtroppo le app disponibili non permettono d
 <summary>Struttura</summary>
 
 ```json
-{
-    "meta": {
-        "title": "Climax",
-        "type": "movie",
-        "poster_local": "media/image/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
-        "poster_remote": "https://image.tmdb.org/t/p/w500/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
-        "overview": "When a dance troupe is lured to an empty school, a bowl of drug-laced sangria causes their jubilant rehearsal to descend into a dark and explosive nightmare as they try to survive the night—and find who's responsible—before it's too late.",
-        "genres": [
-            "Horror",
-            "Drama"
-        ],
-        "release_year": "2018",
-        "vote_average": 7.0,
-        "director": "Gaspar Noé",
-        "cast": [
-            "Sofia Boutella",
-            "Romain Guillermic",
-            "Souheila Yacoub",
-            "Kiddy Smile",
-            "Claude-Emmanuelle Gajan-Maull",
-            "Giselle Palmer",
-            "Taylor Kastle",
-            "Thea Carla Schøtt",
-            "Sharleen Temple",
-            "Lea Vlamos"
-        ]
-    },
-    "user_data": {
-        "status": "plan to watch",
-        "rating": null,
-        "watched_at": ""
-    },
-    "ids": {
-        "tmdb": "507076",
-        "imdb": "tt8359848",
-        "simkl": "770376"
-    },
-    "tmdb_raw": {
-        "adult": false,
-        "backdrop_path": "/v0sblc9A8eaE8EqDQ5Y6fELj4oB.jpg",
-        "belongs_to_collection": null,
-        "budget": 2900000,
-        "genres": [
-            {
-                "id": 27,
-                "name": "Horror"
-            },
-            {
-                "id": 18,
-                "name": "Drama"
-            }
-        ],
-        "homepage": "https://a24films.com/films/climax",
-        "id": 507076,
-        "imdb_id": "tt8359848",
-        "origin_country": [
-            "FR"
-        ],
-        "original_language": "fr",
-        "original_title": "Climax",
-        "overview": "When a dance troupe is lured to an empty school, a bowl of drug-laced sangria causes their jubilant rehearsal to descend into a dark and explosive nightmare as they try to survive the night—and find who's responsible—before it's too late.",
-        "popularity": 5.1643,
-        "poster_path": "/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
-        "production_companies": [
-            {
-                "id": 2700,
-                "logo_path": "/h3bdysr6aNtFqK7DXQu1Rh43rwk.png",
-                "name": "Rectangle Productions",
-                "origin_country": "FR"
-            },
-            {
-                "id": 856,
-                "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
-                "name": "Wild Bunch",
-                "origin_country": "FR"
-            },
-            {
-                "id": 1157,
-                "logo_path": "/2MXuq4DGo1GhjavHHxPlsWrtyD.png",
-                "name": "Les Cinémas de la Zone",
-                "origin_country": "FR"
-            },
-            {
-                "id": 616,
-                "logo_path": "/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png",
-                "name": "Eskwad",
-                "origin_country": "FR"
-            },
-            {
-                "id": 77154,
-                "logo_path": null,
-                "name": "KNM",
-                "origin_country": "FR"
-            },
-            {
-                "id": 94,
-                "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
-                "name": "ARTE France Cinéma",
-                "origin_country": "FR"
-            },
-            {
-                "id": 11773,
-                "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
-                "name": "Artémis Productions",
-                "origin_country": "BE"
-            },
-            {
-                "id": 119267,
-                "logo_path": "/b9Gw1Oz0d7rdxmpbJPQC0zQpmxw.png",
-                "name": "VOO & Be tv",
-                "origin_country": "BE"
-            },
-            {
-                "id": 95061,
-                "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
-                "name": "Shelter Prod",
-                "origin_country": "BE"
-            },
-            {
-                "id": 149332,
-                "logo_path": "/3pvLAa2Q3bWiRLPgBGokWSRSvWe.png",
-                "name": "Vice Studios",
-                "origin_country": "US"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "BE",
-                "name": "Belgium"
-            },
-            {
-                "iso_3166_1": "FR",
-                "name": "France"
-            },
-            {
-                "iso_3166_1": "US",
-                "name": "United States of America"
-            }
-        ],
-        "release_date": "2018-09-19",
-        "revenue": 1696075,
-        "runtime": 97,
-        "spoken_languages": [
-            {
-                "english_name": "English",
-                "iso_639_1": "en",
-                "name": "English"
-            },
-            {
-                "english_name": "French",
-                "iso_639_1": "fr",
-                "name": "Français"
-            }
-        ],
-        "status": "Released",
-        "tagline": "Birth and death are extraordinary experiences. Life is a fleeting pleasure.",
-        "title": "Climax",
-        "video": false,
-        "vote_average": 7.0,
-        "vote_count": 2272,
-        "credits": {
-            "cast": [
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 568657,
-                    "known_for_department": "Acting",
-                    "name": "Sofia Boutella",
-                    "original_name": "Sofia Boutella",
-                    "popularity": 4.0305,
-                    "profile_path": "/lGFhhjcjARQCM8AiGidyyyfDowh.jpg",
-                    "cast_id": 21,
-                    "character": "Selva",
-                    "credit_id": "5af870f5c3a36845d10007cc",
-                    "order": 0
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 2041838,
-                    "known_for_department": "Acting",
-                    "name": "Romain Guillermic",
-                    "original_name": "Romain Guillermic",
-                    "popularity": 0.1917,
-                    "profile_path": "/x4zDQbmtUQRiv0xvH5WaByjx7Hb.jpg",
-                    "cast_id": 5,
-                    "character": "David",
-                    "credit_id": "5af86ec29251415a7e0006ad",
-                    "order": 1
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2037046,
-                    "known_for_department": "Acting",
-                    "name": "Souheila Yacoub",
-                    "original_name": "Souheila Yacoub",
-                    "popularity": 0.8014,
-                    "profile_path": "/zG087seFtSO2duW0ldsfbhFydce.jpg",
-                    "cast_id": 22,
-                    "character": "Lou",
-                    "credit_id": "5af871e5c3a36845d7000f4e",
-                    "order": 2
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 2134233,
-                    "known_for_department": "Acting",
-                    "name": "Kiddy Smile",
-                    "original_name": "Kiddy Smile",
-                    "popularity": 0.4465,
-                    "profile_path": "/gCSoEGvTBymcVZ8saG3opCEGcQU.jpg",
-                    "cast_id": 43,
-                    "character": "Daddy",
-                    "credit_id": "5ba8738cc3a3680e6103f095",
-                    "order": 3
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2041840,
-                    "known_for_department": "Acting",
-                    "name": "Claude-Emmanuelle Gajan-Maull",
-                    "original_name": "Claude-Emmanuelle Gajan-Maull",
-                    "popularity": 0.6489,
-                    "profile_path": "/lyVv0cllzSvEdMjN6bzbxLvcsoc.jpg",
-                    "cast_id": 7,
-                    "character": "Emmanuelle",
-                    "credit_id": "5af86ee39251415a81000978",
-                    "order": 4
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2134242,
-                    "known_for_department": "Acting",
-                    "name": "Giselle Palmer",
-                    "original_name": "Giselle Palmer",
-                    "popularity": 0.2571,
-                    "profile_path": "/wSiels0qR5U9rHJnFtsfaVDcoQb.jpg",
-                    "cast_id": 51,
-                    "character": "Gazelle",
-                    "credit_id": "5ba87e709251412f0a03c420",
-                    "order": 5
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 2041839,
-                    "known_for_department": "Acting",
-                    "name": "Taylor Kastle",
-                    "original_name": "Taylor Kastle",
-                    "popularity": 0.4466,
-                    "profile_path": "/6UYtRy4OrnP0UC0qYNGjKnBclXM.jpg",
-                    "cast_id": 6,
-                    "character": "Taylor",
-                    "credit_id": "5af86ed2c3a36845e90008bc",
-                    "order": 6
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2041843,
-                    "known_for_department": "Acting",
-                    "name": "Thea Carla Schøtt",
-                    "original_name": "Thea Carla Schøtt",
-                    "popularity": 0.2564,
-                    "profile_path": "/bfM8bwfrTDVOrK5tDRBNJJnGOo5.jpg",
-                    "cast_id": 10,
-                    "character": "Psyche",
-                    "credit_id": "5af86f219251415a750005e9",
-                    "order": 7
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2041844,
-                    "known_for_department": "Acting",
-                    "name": "Sharleen Temple",
-                    "original_name": "Sharleen Temple",
-                    "popularity": 1.0258,
-                    "profile_path": "/5XpMD3FKXhmZ9AxAu9jaZVSLac4.jpg",
-                    "cast_id": 11,
-                    "character": "Ivana",
-                    "credit_id": "5af86f2ac3a36845dd0009aa",
-                    "order": 8
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2041845,
-                    "known_for_department": "Acting",
-                    "name": "Lea Vlamos",
-                    "original_name": "Lea Vlamos",
-                    "popularity": 0.1722,
-                    "profile_path": "/wmdILTYDHsNwEwNsKVH8ZqtRRTV.jpg",
-                    "cast_id": 12,
-                    "character": "Eva",
-                    "credit_id": "5af86f35c3a36845d10006ec",
-                    "order": 9
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 2041834,
-                    "known_for_department": "Acting",
-                    "name": "Alaïa Alsafir",
-                    "original_name": "Alaïa Alsafir",
-                    "popularity": 0.2868,
-                    "profile_path": "/1UkL0gw41OTl4eArpuodrznTZkf.jpg",
-                    "cast_id": 1,
-                    "character": "Alaia",
-                    "credit_id": "5af86e97c3a36845e900087b",
-                    "order": 10
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 2041841,
-                    "known_for_department": "Acting",
-                    "name": "Kendall Mugler",
-                    "original_name": "Kendall Mugler",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "cast_id": 8,
-                    "character": "Rocket",
-                    "credit_id": "5af86eedc3a36845f8000970",
-                    "order": 11
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2041837,
-                    "known_for_department": "Acting",
-                    "name": "Lakdhar Dridi",
-                    "original_name": "Lakdhar Dridi",
-                    "popularity": 0.2256,
-                    "profile_path": "/dtipVM1QqYpCeVFtxQ6UtbgdTYs.jpg",
-                    "cast_id": 4,
-                    "character": "Riley",
-                    "credit_id": "5af86eb50e0a2674ec000827",
-                    "order": 12
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134234,
-                    "known_for_department": "Acting",
-                    "name": "Adrien Sissoko",
-                    "original_name": "Adrien Sissoko",
-                    "popularity": 0.0598,
-                    "profile_path": "/sPJ9nk67xXpasE3ZngTllUgM4vm.jpg",
-                    "cast_id": 44,
-                    "character": "Omar",
-                    "credit_id": "5ba874259251412f0a03ae50",
-                    "order": 13
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2041835,
-                    "known_for_department": "Acting",
-                    "name": "Mamadou Bathily",
-                    "original_name": "Mamadou Bathily",
-                    "popularity": 0.0538,
-                    "profile_path": "/b3BjV2gVvj6eV2bAB4rqjJgA593.jpg",
-                    "cast_id": 2,
-                    "character": "Bart",
-                    "credit_id": "5af86ea29251415a7b000755",
-                    "order": 14
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134235,
-                    "known_for_department": "Acting",
-                    "name": "Alou Sidibé",
-                    "original_name": "Alou Sidibé",
-                    "popularity": 0.1189,
-                    "profile_path": "/oAgWVxBa3WNteBLxfO0hP7rN7Qh.jpg",
-                    "cast_id": 45,
-                    "character": "Kyrra",
-                    "credit_id": "5ba874529251412f0103daa7",
-                    "order": 15
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2041836,
-                    "known_for_department": "Acting",
-                    "name": "Ashley Biscette",
-                    "original_name": "Ashley Biscette",
-                    "popularity": 0.1855,
-                    "profile_path": "/aQIdm8aRRakw1Xn8ZsV29tJeoKd.jpg",
-                    "cast_id": 3,
-                    "character": "Shirley",
-                    "credit_id": "5af86eac0e0a2674e600092b",
-                    "order": 16
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134236,
-                    "known_for_department": "Acting",
-                    "name": "Mounia Nassangar",
-                    "original_name": "Mounia Nassangar",
-                    "popularity": 0.0434,
-                    "profile_path": "/kh5cGnMKpsFS0WA6kTxB0PmOfEu.jpg",
-                    "cast_id": 46,
-                    "character": "Dom",
-                    "credit_id": "5ba8747fc3a3680e5803f8b0",
-                    "order": 17
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134237,
-                    "known_for_department": "Acting",
-                    "name": "Tiphanie Au",
-                    "original_name": "Tiphanie Au",
-                    "popularity": 0.0759,
-                    "profile_path": null,
-                    "cast_id": 47,
-                    "character": "Sila",
-                    "credit_id": "5ba87496c3a3680e6503ee57",
-                    "order": 18
-                },
-                {
-                    "adult": false,
-                    "gender": 1,
-                    "id": 1821647,
-                    "known_for_department": "Crew",
-                    "name": "Sarah Belala",
-                    "original_name": "Sarah Belala",
-                    "popularity": 0.1985,
-                    "profile_path": "/amFRwu8mcA9qI61B9FiXTUSK7vB.jpg",
-                    "cast_id": 41,
-                    "character": "Jennifer",
-                    "credit_id": "5ba5e5e8c3a3680e58004110",
-                    "order": 19
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2132538,
-                    "known_for_department": "Acting",
-                    "name": "Alexandre Moreau",
-                    "original_name": "Alexandre Moreau",
-                    "popularity": 0.0261,
-                    "profile_path": "/kJqEyfT9ttUJ98ToOiAtSIl97m1.jpg",
-                    "cast_id": 42,
-                    "character": "Cyborg",
-                    "credit_id": "5ba5e61b9251412ef4003924",
-                    "order": 20
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134238,
-                    "known_for_department": "Acting",
-                    "name": "Naab",
-                    "original_name": "Naab",
-                    "popularity": 0.0429,
-                    "profile_path": null,
-                    "cast_id": 48,
-                    "character": "Rocco",
-                    "credit_id": "5ba874b89251412ef603d183",
-                    "order": 21
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134239,
-                    "known_for_department": "Acting",
-                    "name": "Strauss Serpent",
-                    "original_name": "Strauss Serpent",
-                    "popularity": 0.0281,
-                    "profile_path": null,
-                    "cast_id": 49,
-                    "character": "Serpent",
-                    "credit_id": "5ba874c99251412f0103db79",
-                    "order": 22
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2134240,
-                    "known_for_department": "Acting",
-                    "name": "Vince Galliot Cumant",
-                    "original_name": "Vince Galliot Cumant",
-                    "popularity": 0.0414,
-                    "profile_path": null,
-                    "cast_id": 50,
-                    "character": "Tito",
-                    "credit_id": "5ba874d6c3a3680e5004701d",
-                    "order": 23
-                }
-            ],
-            "crew": [
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2933334,
-                    "known_for_department": "Visual Effects",
-                    "name": "Bruno Sommier",
-                    "original_name": "Bruno Sommier",
-                    "popularity": 0.0239,
-                    "profile_path": null,
-                    "credit_id": "6264d1c1d8f44e00511318f8",
-                    "department": "Visual Effects",
-                    "job": "VFX Artist"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3347503,
-                    "known_for_department": "Art",
-                    "name": "Philippe Prat",
-                    "original_name": "Philippe Prat",
-                    "popularity": 0.0819,
-                    "profile_path": null,
-                    "credit_id": "61cfee787b7b4d0069c24fd0",
-                    "department": "Art",
-                    "job": "Art Direction"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3365512,
-                    "known_for_department": "Art",
-                    "name": "Jessy Kupperman",
-                    "original_name": "Jessy Kupperman",
-                    "popularity": 0.0429,
-                    "profile_path": null,
-                    "credit_id": "61cfeecb1684f7004227707a",
-                    "department": "Art",
-                    "job": "Set Decoration"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 3365513,
-                    "known_for_department": "Visual Effects",
-                    "name": "Alexis Baillia",
-                    "original_name": "Alexis Baillia",
-                    "popularity": 0.0214,
-                    "profile_path": null,
-                    "credit_id": "61cfeefb0284200064198965",
-                    "department": "Visual Effects",
-                    "job": "Visual Effects"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 14597,
-                    "known_for_department": "Directing",
-                    "name": "Gaspar Noé",
-                    "original_name": "Gaspar Noé",
-                    "popularity": 1.214,
-                    "profile_path": "/wyUEwuZr3ATzltxxS4puwT5RS0b.jpg",
-                    "credit_id": "5a90776c0e0a26095d002a97",
-                    "department": "Directing",
-                    "job": "Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 14599,
-                    "known_for_department": "Camera",
-                    "name": "Benoît Debie",
-                    "original_name": "Benoît Debie",
-                    "popularity": 0.3048,
-                    "profile_path": "/n9SS1I13aogkoFe9HHxRb5aNYct.jpg",
-                    "credit_id": "5af86f819251415a580008b8",
-                    "department": "Camera",
-                    "job": "Director of Photography"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1300810,
-                    "known_for_department": "Editing",
-                    "name": "Denis Bedlow",
-                    "original_name": "Denis Bedlow",
-                    "popularity": 0.1681,
-                    "profile_path": null,
-                    "credit_id": "5af86f8bc3a36845d4000cc7",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 13838,
-                    "known_for_department": "Art",
-                    "name": "Jean Rabasse",
-                    "original_name": "Jean Rabasse",
-                    "popularity": 0.2711,
-                    "profile_path": "/zeWBST0Oh44hdbwRGKUFIbJ3xCg.jpg",
-                    "credit_id": "5af86f980e0a2674d10008d9",
-                    "department": "Art",
-                    "job": "Production Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1402245,
-                    "known_for_department": "Sound",
-                    "name": "Ken Yasumoto",
-                    "original_name": "Ken Yasumoto",
-                    "popularity": 0.1287,
-                    "profile_path": null,
-                    "credit_id": "5af86fa30e0a2674d9000896",
-                    "department": "Sound",
-                    "job": "Sound"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1577907,
-                    "known_for_department": "Sound",
-                    "name": "Pascal Mayer",
-                    "original_name": "Pascal Mayer",
-                    "popularity": 0.1085,
-                    "profile_path": "/ppYOK9gHSxKOEaw1BnQK90yKxHV.jpg",
-                    "credit_id": "5af86fb60e0a2674c80008d5",
-                    "department": "Sound",
-                    "job": "Music Supervisor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 56787,
-                    "known_for_department": "Production",
-                    "name": "Brahim Chioua",
-                    "original_name": "Brahim Chioua",
-                    "popularity": 0.8774,
-                    "profile_path": null,
-                    "credit_id": "5af86fc70e0a2674c20008f6",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 8570,
-                    "known_for_department": "Production",
-                    "name": "Vincent Maraval",
-                    "original_name": "Vincent Maraval",
-                    "popularity": 0.9089,
-                    "profile_path": "/8zjv7mH8DTiaIegk5mAysf1Gra.jpg",
-                    "credit_id": "5af86fd39251415a7b00082d",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 73395,
-                    "known_for_department": "Production",
-                    "name": "Édouard Weil",
-                    "original_name": "Édouard Weil",
-                    "popularity": 1.3328,
-                    "profile_path": "/6jI1augihjindVza3KA0PIQHJtL.jpg",
-                    "credit_id": "5af86fe19251415a60000b0a",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 14597,
-                    "known_for_department": "Directing",
-                    "name": "Gaspar Noé",
-                    "original_name": "Gaspar Noé",
-                    "popularity": 1.214,
-                    "profile_path": "/wyUEwuZr3ATzltxxS4puwT5RS0b.jpg",
-                    "credit_id": "5af87232c3a36845d7000f97",
-                    "department": "Writing",
-                    "job": "Screenplay"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 14597,
-                    "known_for_department": "Directing",
-                    "name": "Gaspar Noé",
-                    "original_name": "Gaspar Noé",
-                    "popularity": 1.214,
-                    "profile_path": "/wyUEwuZr3ATzltxxS4puwT5RS0b.jpg",
-                    "credit_id": "5af8725f0e0a2674ee000af4",
-                    "department": "Editing",
-                    "job": "Editor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 14597,
-                    "known_for_department": "Directing",
-                    "name": "Gaspar Noé",
-                    "original_name": "Gaspar Noé",
-                    "popularity": 1.214,
-                    "profile_path": "/wyUEwuZr3ATzltxxS4puwT5RS0b.jpg",
-                    "credit_id": "5ba5e29dc3a3680e500040cc",
-                    "department": "Production",
-                    "job": "Co-Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1440421,
-                    "known_for_department": "Costume & Make-Up",
-                    "name": "Frédéric Cambier",
-                    "original_name": "Frédéric Cambier",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "5ba5e4960e0a2635f6003e0b",
-                    "department": "Costume & Make-Up",
-                    "job": "Costume Design"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 1913972,
-                    "known_for_department": "Directing",
-                    "name": "Nina McNeely",
-                    "original_name": "Nina McNeely",
-                    "popularity": 0.1248,
-                    "profile_path": "/xgqWaAABdPhiq0TVTWk4ZBy4nXr.jpg",
-                    "credit_id": "5ba5e4c5c3a3680e50004385",
-                    "department": "Crew",
-                    "job": "Choreographer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2127516,
-                    "known_for_department": "Sound",
-                    "name": "Steve Bouyer",
-                    "original_name": "Steve Bouyer",
-                    "popularity": 0.067,
-                    "profile_path": null,
-                    "credit_id": "5ba5e4e09251412f0a0037d8",
-                    "department": "Sound",
-                    "job": "Music Supervisor"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 2132531,
-                    "known_for_department": "Lighting",
-                    "name": "Ernesto Giolitti",
-                    "original_name": "Ernesto Giolitti",
-                    "popularity": 0.0797,
-                    "profile_path": null,
-                    "credit_id": "5ba5e4ee9251412f01003a83",
-                    "department": "Lighting",
-                    "job": "Gaffer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1337650,
-                    "known_for_department": "Visual Effects",
-                    "name": "Rodolphe Chabrier",
-                    "original_name": "Rodolphe Chabrier",
-                    "popularity": 0.0761,
-                    "profile_path": "/qFz1nuLWLgoe266kLeUengij5ng.jpg",
-                    "credit_id": "5ba5e4fe0e0a2635dd0039ec",
-                    "department": "Visual Effects",
-                    "job": "Visual Effects"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1605589,
-                    "known_for_department": "Art",
-                    "name": "Thierry Poulet",
-                    "original_name": "Thierry Poulet",
-                    "popularity": 0.1523,
-                    "profile_path": null,
-                    "credit_id": "5ba5e5199251412f07003972",
-                    "department": "Art",
-                    "job": "Assistant Art Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2132533,
-                    "known_for_department": "Directing",
-                    "name": "Claire Corbetta-Doll",
-                    "original_name": "Claire Corbetta-Doll",
-                    "popularity": 0.0336,
-                    "profile_path": null,
-                    "credit_id": "5ba5e52ac3a3680e50004404",
-                    "department": "Directing",
-                    "job": "First Assistant Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2132535,
-                    "known_for_department": "Directing",
-                    "name": "Pierre Lagardère",
-                    "original_name": "Pierre Lagardère",
-                    "popularity": 0.0286,
-                    "profile_path": null,
-                    "credit_id": "5ba5e53cc3a3680e65003b2b",
-                    "department": "Directing",
-                    "job": "Second Assistant Director"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 2132536,
-                    "known_for_department": "Directing",
-                    "name": "Kalidou El-Hadji",
-                    "original_name": "Kalidou El-Hadji",
-                    "popularity": 0.0143,
-                    "profile_path": null,
-                    "credit_id": "5ba5e54d9251412f070039b1",
-                    "department": "Directing",
-                    "job": "Assistant Director Trainee"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1046353,
-                    "known_for_department": "Production",
-                    "name": "Eddy Moretti",
-                    "original_name": "Eddy Moretti",
-                    "popularity": 0.1248,
-                    "profile_path": null,
-                    "credit_id": "5ba5e56d0e0a2635f9003d30",
-                    "department": "Production",
-                    "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 51323,
-                    "known_for_department": "Production",
-                    "name": "Richard Grandpierre",
-                    "original_name": "Richard Grandpierre",
-                    "popularity": 0.1076,
-                    "profile_path": "/dNf0oR6PInyhCw9uvYHE25MdoCT.jpg",
-                    "credit_id": "5ba5e5820e0a2635ec003fad",
-                    "department": "Production",
-                    "job": "Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1840864,
-                    "known_for_department": "Production",
-                    "name": "Danny Gabai",
-                    "original_name": "Danny Gabai",
-                    "popularity": 0.6731,
-                    "profile_path": "/sCturC1EsRtmb9VPhe1KymzAmfr.jpg",
-                    "credit_id": "5ba5e5969251412f04003b3d",
-                    "department": "Production",
-                    "job": "Executive Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 0,
-                    "id": 133062,
-                    "known_for_department": "Production",
-                    "name": "Serge Catoire",
-                    "original_name": "Serge Catoire",
-                    "popularity": 0.1304,
-                    "profile_path": null,
-                    "credit_id": "5ba5e5b69251412ef600394f",
-                    "department": "Production",
-                    "job": "Line Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1773768,
-                    "known_for_department": "Crew",
-                    "name": "Jérôme Gaspard",
-                    "original_name": "Jérôme Gaspard",
-                    "popularity": 0.2029,
-                    "profile_path": "/52kIfU0P46gyDcNQtVJnLLuoKev.jpg",
-                    "credit_id": "5c48ef340e0a260419ca5390",
-                    "department": "Crew",
-                    "job": "Stunt Coordinator"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 1451497,
-                    "known_for_department": "Production",
-                    "name": "Olivier Père",
-                    "original_name": "Olivier Père",
-                    "popularity": 0.3734,
-                    "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
-                    "credit_id": "671b30f55be9e8759da72112",
-                    "department": "Production",
-                    "job": "Co-Producer"
-                },
-                {
-                    "adult": false,
-                    "gender": 2,
-                    "id": 14598,
-                    "known_for_department": "Sound",
-                    "name": "Thomas Bangalter",
-                    "original_name": "Thomas Bangalter",
-                    "popularity": 0.7476,
-                    "profile_path": "/w961KKic96EBX5gGHMEjahfKuDI.jpg",
-                    "credit_id": "693802d8e573b42eddaefef9",
-                    "department": "Sound",
-                    "job": "Original Music Composer"
-                }
-            ]
-        }
-    }
-}
+
 ```
 </details>
 
@@ -1541,9 +656,7 @@ Ogni tanto guardo qualche film, ma purtroppo le app disponibili non permettono d
     <img src="assets/credits/TMDB.svg" alt="TMDB logo" width="50"/>
 </p>
 
-<hr>
-
-### Passi
+#### Passi
 
 <!-- data/passi.json -->
 <details>
@@ -1561,7 +674,44 @@ Ogni tanto guardo qualche film, ma purtroppo le app disponibili non permettono d
 
 <hr>
 
-### Parole
+#### Caffè
+
+Ho iniziato l’università senza il caffè non si fa. I dati relativi alla caffeina sono solo una stima e non mi interessano; mi interessa solo quando ho bevuto il caffè.
+
+<!-- data/caffe.json -->
+
+<details>
+<summary>Struttura</summary>
+
+```json
+{
+    "timestamp": "2026-01-30T09:17:31",
+    "date": "2026-01-30",
+    "time": "09:17:31",
+    "caffeine_mg": 70
+}
+```
+</details>
+
+#### Acqua
+
+Volevo semplicemente sapere quanta acqua bevevo.
+
+<!-- data/acqua.json -->
+<details>
+<summary>Struttura</summary>
+
+```json
+{
+    "timestamp": "2022-04-05T17:00:00",
+    "date": "2022-04-05",
+    "time": "17:00:00",
+    "water_ml": 270
+}
+```
+</details>
+
+#### Parole
 
 Leggevo moltissimo in inglese e mi stufavo di aprire il dizionario ogni volta, quindi ho creato una shortcut su iPhone che, con un doppio tap sulla parte posteriore, si avviava e mi mostrava la parola con la definizione, dando anche la possibilità di aprirla nel dizionario o cercarne l’immagine su Google. Ovviamente salvava i dati in diversi posti per non perderli.
 
@@ -1645,7 +795,7 @@ Il canale è sempre disponibile su Telegram, ma non è più attivo.
 
 <hr>
 
-### Wordle 
+#### Wordle 
 
 Risolvo i Wordle, ed ero curioso di sapere come performavo, gioco per divertimento, ma sicuramente ci sono delle parole che ti fanno vincere prima, o no?
 

@@ -5396,5 +5396,867 @@
       ],
       "solved": true
     }
+  },
+  {
+    "id": 1629,
+    "word": "cacti",
+    "added_at": "2025-12-02T06:39:44",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "MALTY",
+        "FAITH",
+        "CANTI",
+        "CACTI"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1632,
+    "word": "haste",
+    "added_at": "2025-12-03T07:07:14",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "TEATS",
+        "BASTE",
+        "HASTE"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1638,
+    "word": "among",
+    "added_at": "2025-12-05T06:58:33",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "ALOOF",
+        "AGONY",
+        "AMONG"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1647,
+    "word": "gravy",
+    "added_at": "2025-12-08T22:14:47",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BRACK",
+        "GRANA",
+        "GRAFF",
+        "GRAVY"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1653,
+    "word": "erase",
+    "added_at": "2025-12-10T04:00:48",
+    "meta": {
+      "score": 3,
+      "attempts_count": 3,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "ERASE"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1656,
+    "word": "guess",
+    "added_at": "2025-12-11T21:06:53",
+    "meta": {
+      "score": 3,
+      "attempts_count": 3,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "GUESS"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1659,
+    "word": "truck",
+    "added_at": "2025-12-12T16:36:03",
+    "meta": {
+      "score": 3,
+      "attempts_count": 3,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "TRUCK"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1662,
+    "word": "miser",
+    "added_at": "2025-12-13T00:13:17",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "RESIN",
+        "LISES",
+        "MISER"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1665,
+    "word": "swing",
+    "added_at": "2025-12-14T00:42:26",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "SILKY",
+        "SWISH",
+        "SWING"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1668,
+    "word": "dodgy",
+    "added_at": "2025-12-15T06:36:01",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "ODDLY",
+        "DODGY"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1671,
+    "word": "segue",
+    "added_at": "2025-12-16T06:58:45",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLUES",
+        "SEGUE"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1674,
+    "word": "grass",
+    "added_at": "2025-12-17T06:41:01",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BRASS",
+        "GRASS"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1677,
+    "word": "rugby",
+    "added_at": "2025-12-18T19:35:17",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BURRY",
+        "RUBBY",
+        "RUNNY",
+        "RUGBY"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1680,
+    "word": "myrrh",
+    "added_at": "2025-12-19T07:10:21",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "LYNCH",
+        "MYRRH"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1683,
+    "word": "white",
+    "added_at": "2025-12-20T21:02:58",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "MINTY",
+        "FLITE",
+        "WHITE"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1686,
+    "word": "quilt",
+    "added_at": "2025-12-21T15:02:31",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "GUILT",
+        "BUILT",
+        "QUILT"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1689,
+    "word": "conch",
+    "added_at": "2025-12-22T07:53:52",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLOWY",
+        "CHOCK",
+        "CONCH"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1692,
+    "word": "glint",
+    "added_at": "2025-12-23T15:31:34",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "CLINT",
+        "FLINT",
+        "GLINT"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1695,
+    "word": "spool",
+    "added_at": "2025-12-24T19:37:45",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "SLOPY",
+        "SPOOL"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1698,
+    "word": "prism",
+    "added_at": "2025-12-25T12:11:51",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "PRISS",
+        "PRISM"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1701,
+    "word": "speed",
+    "added_at": "2025-12-26T00:21:53",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "SPEND",
+        "SPEED"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1704,
+    "word": "batch",
+    "added_at": "2025-12-27T05:24:24",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "TACKY",
+        "CATCH",
+        "WATCH",
+        "BATCH"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1707,
+    "word": "abbot",
+    "added_at": "2025-12-28T19:18:14",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLOWN",
+        "ABBOT"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1710,
+    "word": "fruit",
+    "added_at": "2025-12-29T00:50:10",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BRUINT",
+        "FRUIT"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1713,
+    "word": "decor",
+    "added_at": "2025-12-30T15:12:55",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "DERRY",
+        "DECOR"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1716,
+    "word": "siren",
+    "added_at": "2025-12-31T18:21:02",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "CERES",
+        "SIREN"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1719,
+    "word": "fable",
+    "added_at": "2026-01-01T17:11:38",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "WHALE",
+        "CALLE",
+        "FABLE"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1722,
+    "word": "proof",
+    "added_at": "2026-01-02T17:12:04",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "PROMO",
+        "PROOF"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1725,
+    "word": "sitar",
+    "added_at": "2026-01-03T23:52:37",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "STIRS",
+        "STAIR",
+        "SITAR"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1728,
+    "word": "posse",
+    "added_at": "2026-01-04T00:30:43",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "PENSY",
+        "POSSE"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1731,
+    "word": "filly",
+    "added_at": "2026-01-05T01:11:59",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "MILKY",
+        "FILLY"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1734,
+    "word": "oomph",
+    "added_at": "2026-01-06T00:05:52",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLOOP",
+        "OOMPH"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1737,
+    "word": "pecan",
+    "added_at": "2026-01-07T02:06:57",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "PANEL",
+        "PEAGE",
+        "PEKAN",
+        "PECAN"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1740,
+    "word": "blast",
+    "added_at": "2026-01-08T00:02:35",
+    "meta": {
+      "score": 3,
+      "attempts_count": 3,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLAST"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1743,
+    "word": "eight",
+    "added_at": "2026-01-09T03:36:04",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "GILET",
+        "EIGHT"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1746,
+    "word": "manic",
+    "added_at": "2026-01-10T02:35:08",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "CLAIM",
+        "MAGIC",
+        "MAFIC",
+        "MANIC"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1749,
+    "word": "quark",
+    "added_at": "2026-01-11T13:14:12",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "RUMBA",
+        "FURAL",
+        "GUARD",
+        "QUARK"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1752,
+    "word": "trial",
+    "added_at": "2026-01-12T11:19:01",
+    "meta": {
+      "score": 3,
+      "attempts_count": 3,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "TRIAL"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1755,
+    "word": "gumbo",
+    "added_at": "2026-01-13T00:15:36",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "HULLO",
+        "BUCKO",
+        "JUMBO",
+        "GUMBO"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1758,
+    "word": "avoid",
+    "added_at": "2026-01-14T00:11:12",
+    "meta": {
+      "score": 2,
+      "attempts_count": 2,
+      "guesses": [
+        "AUDIO",
+        "AVOID"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1761,
+    "word": "chasm",
+    "added_at": "2026-01-15T02:27:41",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "FALSY",
+        "GLASS",
+        "SMASH",
+        "CHASM"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1764,
+    "word": "racer",
+    "added_at": "2026-01-16T15:02:26",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "LAMER",
+        "PARER",
+        "RAGER",
+        "RACER"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1767,
+    "word": "fiery",
+    "added_at": "2026-01-17T15:01:24",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "CHINK",
+        "VIERS",
+        "FIERE",
+        "FIERY"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1770,
+    "word": "sumac",
+    "added_at": "2026-01-18T15:02:31",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BULLS",
+        "SUMMA",
+        "SUMAC"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1773,
+    "word": "waxen",
+    "added_at": "2026-01-19T05:25:48",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "HEALD",
+        "BANKY",
+        "WAXEN"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1776,
+    "word": "sully",
+    "added_at": "2026-01-20T12:10:53",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BUSHY",
+        "SULKY",
+        "SULLY"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1779,
+    "word": "cubic",
+    "added_at": "2026-01-21T02:47:39",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "CUMIN",
+        "CUBIC"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1782,
+    "word": "clink",
+    "added_at": "2026-01-22T13:44:16",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLINK",
+        "CLINK"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1785,
+    "word": "baron",
+    "added_at": "2026-01-23T00:49:22",
+    "meta": {
+      "score": 5,
+      "attempts_count": 5,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "ROARY",
+        "CAROL",
+        "BARON"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1788,
+    "word": "cliff",
+    "added_at": "2026-01-24T17:26:19",
+    "meta": {
+      "score": 4,
+      "attempts_count": 4,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "BLINK",
+        "CLIFF"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1791,
+    "word": "strut",
+    "added_at": "2026-01-25T13:48:07",
+    "meta": {
+      "score": 3,
+      "attempts_count": 3,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "STRUT"
+      ],
+      "solved": true
+    }
+  },
+  {
+    "id": 1794,
+    "word": "freak",
+    "added_at": "2026-01-26T01:53:57",
+    "meta": {
+      "score": 6,
+      "attempts_count": 6,
+      "guesses": [
+        "AUDIO",
+        "PREST",
+        "CREAM",
+        "WREAK",
+        "BREAK",
+        "FREAK"
+      ],
+      "solved": true
+    }
   }
 ]
