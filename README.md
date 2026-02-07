@@ -37,6 +37,7 @@
   - Progetti
     - [Speed tests](#speed-tests)
     - [Zeb89](#zeb89)
+    - [wiby.me](#wibyme)
 
 
 ## Struttura progetto
@@ -60,7 +61,8 @@
 │   ├── parole.json
 │   ├── wordle.json
 │   ├── acqua.json
-│   └── caffe.json
+│   ├── caffe.json
+│   └── wibyme.json
 ├── media/
 │   ├── audio/
 │   └── images/
@@ -189,7 +191,7 @@ graph TD
 <td>2020-10-02</td>
 <td>2025-06-03</td>
 <td>343</td>
-<td>-</td>
+<td><a href="https://plumkewe.github.io/voti/">live</a></td>
 </tr>
 <tr>
 <td>speedtests</td>
@@ -241,7 +243,6 @@ graph TD
 <td>377</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>acqua</td>
 <td><a href="data/acqua.json">/data/acqua.json</a></td>
@@ -252,7 +253,6 @@ graph TD
 <td>1563</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>caffè</td>
 <td><a href="data/caffe.json">/data/caffe.json</a></td>
@@ -262,6 +262,16 @@ graph TD
 <td>2026-01-30</td>
 <td>39</td>
 <td>-</td>
+</tr>
+<tr>
+<td>wiby.me</td>
+<td><a href="data/wibyme.json">/data/wibyme.json</a></td>
+<td>Custom JSON</td>
+<td>completo</td>
+<td></td>
+<td></td>
+<td>3199</td>
+<td><a href="https://plumkewe.github.io/wiby-websites-list/">live</a></td>
 </tr></tbody></table>
 <!-- tabella da aggiornare-->
 
@@ -272,7 +282,7 @@ graph TD
 
 #### Cestini
 
-Tutto è nato dalla frustrazione di vedere rifiuti a pochi passi dai cestini a Piombino. Volevo capirci qualcosa di più, numeri alla mano. Ho creato un commando rapido sul mio iPhone che rende la raccolta dati immediata: vedo un cestino, faccio un tap, e lui archivia foto e posizione GPS.
+Tutto è nato dalla frustrazione di vedere rifiuti a pochi passi dai cestini a Piombino. Volevo capirci qualcosa di più, numeri alla mano. Ho creato un comando rapido sul mio iPhone che rende la raccolta dati immediata: vedo un cestino, faccio un tap, e lui archivia foto e posizione GPS.
 
 Per approfondire il progetto, visita il mio blog: [CESTINI su aaa.craft.me](https://aaa.craft.me/blog/b/AE6DD80D-6506-46E1-B744-22B0EC17B047/)
 
@@ -823,6 +833,52 @@ Visita il mio blog per scoprirlo: [WORDLE su aaa.craft.me](https://aaa.craft.me/
         ],
         "solved": true
     }
+}
+```
+</details>
+
+<hr>
+
+#### wiby.me
+
+Mi piacciono i siti di una volta. Il progetto wiby.me è spettacolare, perciò ho pensato che sarebbe bello avere una lista di siti da scorrere per conto mio, senza dover usare il bottone "Mi sento fortunato" sul sito.
+
+<!-- data/wibyme.json -->
+<details>
+<summary>Struttura</summary>
+
+```json
+{
+    "index": "1",
+    "url": "http://www.amallison.free-online.co.uk/",
+    "title": "Hate Your Job - Home",
+    "description": "An irreverant look at work including: rotten managers, subversive staff and jargon.  There is a serious message about stress, too.",
+    "domain": "",
+    "creation_date": "",
+    "primary": "(254, 254, 239)",
+    "secondary": "(185, 182, 204)",
+    "tertiary": "(130, 122, 122)",
+    "whois": {
+        "domain_name": "free-online.co.uk",
+        "registrar": "Plusnet Plc [Tag = FORCE9]",
+        "registrar_url": "https://www.plus.net",
+        "status": "Registered until expiry date.",
+        "registrant_name": null,
+        "registrant_type": null,
+        "registrant_street": null,
+        "registrant_city": null,
+        "registrant_country": null,
+        "creation_date": "1998-09-25T00:00:00",
+        "expiration_date": "2025-09-25T00:00:00",
+        "updated_date": "2024-09-06T00:00:00",
+        "name_servers": [
+            "ns1.force9.net",
+            "ns1.plusnet.co.uk",
+            "ns2.force9.net",
+            "ns2.plusnet.co.uk"
+        ]
+    },
+    "image": "media/image/1.png"
 }
 ```
 </details>
