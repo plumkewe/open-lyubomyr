@@ -1,5 +1,12 @@
 [
   {
+    "_metadata": {
+      "owner": "Lyubomyr Malay",
+      "license": "Proprietary",
+      "notice": "Please do not use this data without explicit request to lyubomyr.malay@gmail.com"
+    }
+  },
+  {
     "id": "1B7B1A16-D15A-4F1F-92C2-0378DFC585AC",
     "timestamp": "2025-08-27T15:00:00",
     "type": "LTE",

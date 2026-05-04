@@ -1,5 +1,12 @@
 [
   {
+    "_metadata": {
+      "owner": "Lyubomyr Malay",
+      "license": "Proprietary",
+      "notice": "Please do not use this data without explicit request to lyubomyr.malay@gmail.com"
+    }
+  },
+  {
     "timestamp": "2023-04-27T12:00:00",
     "date": "2023-04-27",
     "time": "12:00:00",
@@ -231,6 +238,78 @@
     "timestamp": "2026-01-30T09:17:31",
     "date": "2026-01-30",
     "time": "09:17:31",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-02T15:15:26",
+    "date": "2026-02-02",
+    "time": "15:15:26",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-03T14:44:40",
+    "date": "2026-02-03",
+    "time": "14:44:40",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-04T14:47:42",
+    "date": "2026-02-04",
+    "time": "14:47:42",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-05T14:46:59",
+    "date": "2026-02-05",
+    "time": "14:46:59",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-07T13:25:07",
+    "date": "2026-02-07",
+    "time": "13:25:07",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-09T15:26:35",
+    "date": "2026-02-09",
+    "time": "15:26:35",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-10T14:43:45",
+    "date": "2026-02-10",
+    "time": "14:43:45",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-11T14:21:00",
+    "date": "2026-02-11",
+    "time": "14:21:00",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-12T14:17:40",
+    "date": "2026-02-12",
+    "time": "14:17:40",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-13T08:44:48",
+    "date": "2026-02-13",
+    "time": "08:44:48",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-16T14:46:24",
+    "date": "2026-02-16",
+    "time": "14:46:24",
+    "caffeine_mg": 70
+  },
+  {
+    "timestamp": "2026-02-17T14:22:15",
+    "date": "2026-02-17",
+    "time": "14:22:15",
     "caffeine_mg": 70
   }
 ]
